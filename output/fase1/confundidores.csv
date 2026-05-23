@@ -1,0 +1,42 @@
+CD_CONTA,DS_CONTA,frequencia
+3.02,Custo dos Bens e/ou Serviços Vendidos,3320
+3.02,Despesas da Intermediação Financeira,75
+3.02,Despesas de Intermediação Financeira,74
+3.02,Sinistros e Despesas das Operações,15
+3.02,Despesas da Atividade Seguradora/Resseguradora,6
+3.03,Resultado Bruto,3341
+3.03,Resultado Bruto Intermediação Financeira,75
+3.03,Resultado Bruto de Intermediação Financeira,74
+3.04,Despesas/Receitas Operacionais,3320
+3.04,Outras Despesas/Receitas Operacionais,75
+3.04,Outras Despesas e Receitas Operacionais,74
+3.04,Despesas Administrativas,21
+3.05,Resultado Antes do Resultado Financeiro e dos Tributos,3320
+3.05,Resultado Antes dos Tributos sobre o Lucro,75
+3.05,Resultado antes dos Tributos sobre o Lucro,74
+3.05,Outras Receitas e Despesas Operacionais,21
+3.06,Resultado Financeiro,3320
+3.06,Imposto de Renda e Contribuição Social sobre o Lucro,149
+3.06,Resultado de Equivalência Patrimonial,21
+3.07,Resultado Antes dos Tributos sobre o Lucro,3320
+3.07,Resultado Líquido das Operações Continuadas,75
+3.07,Lucro ou Prejuízo das Operações Continuadas,74
+3.07,Resultado Antes do Resultado Financeiro e dos Tributos,21
+3.08,Imposto de Renda e Contribuição Social sobre o Lucro,3320
+3.08,Resultado Líquido das Operações Descontinuadas,149
+3.08,Resultado Financeiro,21
+3.09,Resultado Líquido das Operações Continuadas,3320
+3.09,Lucro/Prejuízo Consolidado do Período,75
+3.09,Lucro ou Prejuízo antes das Participações e Contribuições Estatutárias,74
+3.09,Resultado Antes dos Tributos sobre o Lucro,21
+3.10,Resultado Líquido de Operações Descontinuadas,3320
+3.10,Participações nos Lucros e Contribuições Estatutárias,74
+3.10,Imposto de Renda e Contribuição Social sobre o Lucro,21
+3.11,Lucro/Prejuízo Consolidado do Período,3320
+3.11,Lucro ou Prejuízo Líquido Consolidado do Período,74
+3.11,Resultado Líquido das Operações Continuadas,21
+3.12,Resultado Líquido de Operações Descontinuadas,21
+3.13,Lucro/Prejuízo Consolidado do Período,21
+3.99,Lucro por Ação - (Reais / Ação),3315
+3.99,Lucro por Ação - (R$ / Ação),96
+3.99,Lucro por Ação (R$/Ação),74

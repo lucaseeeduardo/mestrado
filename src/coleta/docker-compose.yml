@@ -1,0 +1,25 @@
+services:
+  db:
+    image: postgres:13
+    environment:
+      POSTGRES_DB: dre_db
+      POSTGRES_USER: user
+      POSTGRES_PASSWORD: pass
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    ports:
+      - "5432:5432"
+
+  app:
+    build: .
+    depends_on:
+      - db
+    environment:
+      DATABASE_URL: postgresql://user:pass@db/dre_db
+      DATA_DIR: /app/data
+    volumes:
+      - ../../data:/app/data
+    restart: "no"
+
+volumes:
+  postgres_data:

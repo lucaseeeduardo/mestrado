@@ -1,0 +1,134 @@
+\documentclass[12pt,a4paper]{article}
+% Manual UDESC (artigo científico): margens 3cm (esq/sup), 2cm (dir/inf),
+% fonte 12, espaço simples e paginação no canto superior direito.
+\usepackage[utf8]{inputenc}
+\usepackage[T1]{fontenc}
+\usepackage[brazil]{babel}
+\usepackage{newtxtext,newtxmath}
+\usepackage{geometry}
+\usepackage{setspace}
+\usepackage{fancyhdr}
+\usepackage{indentfirst}
+\usepackage{titlesec}
+\geometry{left=3cm,right=2cm,top=3cm,bottom=2cm}
+\setstretch{1.0}
+\setlength{\parindent}{1.25cm}
+\setlength{\parskip}{0pt}
+\pagestyle{fancy}
+\fancyhf{}
+\fancyhead[R]{\thepage}
+\renewcommand{\headrulewidth}{0pt}
+% Títulos das seções separados do texto por um espaço simples em branco.
+\titlespacing*{\section}{0pt}{\baselineskip}{\baselineskip}
+\titlespacing*{\subsection}{0pt}{\baselineskip}{\baselineskip}
+\titlespacing*{\subsubsection}{0pt}{\baselineskip}{\baselineskip}
+
+\usepackage{url}
+\begin{document}
+
+\begin{center}
+\textbf{ONTOLOGIA DE DOMÍNIO PARA DESAMBIGUAÇÃO DE RECEITA BRUTA EM DOCUMENTOS CONTÁBEIS HETEROGÊNEOS:}\\
+\textbf{Uma abordagem baseada em conhecimento para automação da análise de crédito}\\
+\vspace{0.5\baselineskip}
+Lucas Eduardo Borba
+\end{center}
+
+\section{Introdução}
+
+A transformação digital no setor financeiro tem impulsionado a busca por soluções automatizadas capazes de processar grandes volumes de dados contábeis com rapidez e confiabilidade. Entre os indicadores de maior relevância para a análise de crédito encontra-se a \textit{Receita Bruta}, campo da Demonstração do Resultado do Exercício (DRE) que sintetiza o faturamento total de uma empresa antes de deduções fiscais e comerciais. A correta identificação desse indicador constitui etapa fundamental para a avaliação de risco e a tomada de decisão em operações como a antecipação de recebíveis.
+
+A Comissão de Valores Mobiliários (CVM) disponibiliza publicamente as DREs de companhias abertas brasileiras em formato estruturado, por meio do portal de dados abertos. Ainda que esses registros possuam campos predefinidos, a descrição textual de cada conta (\textit{ds\_conta}) é de livre preenchimento pelas empresas, gerando ampla variabilidade terminológica: o faturamento bruto pode aparecer sob denominações como ``Receita Operacional Bruta'', ``Receita de Vendas de Mercadorias e Serviços'', ``Faturamento Bruto'' ou simplesmente ``Vendas Brutas''. Mais do que sinônimos diretos, a base contém termos superficialmente semelhantes que referenciam conceitos contábeis distintos --- como ``Resultado Bruto'', que corresponde ao lucro bruto após dedução do custo dos produtos vendidos, e não ao faturamento total. Essa ambiguidade não é resolvida por correspondência léxica simples e demanda uma camada de conhecimento de domínio que discrimine os conceitos com precisão.
+
+Essa heterogeneidade torna-se crítica no contexto de antecipação de recebíveis, em que a seleção incorreta do indicador de faturamento --- por confusão entre ``Receita Bruta'' e termos adjacentes como ``Resultado Bruto'' ou ``Receita Líquida'' --- pode gerar riscos operacionais e de crédito. Sistemas baseados exclusivamente em correspondência léxica ou em padrões estatísticos sem conhecimento de domínio tendem a selecionar campos incorretos, comprometendo a qualidade da análise. A ausência de uma representação semântica formal que distinga esses conceitos e oriente o processo de identificação contribui diretamente para essa fragilidade.
+
+Diante desse cenário, a presente pesquisa formula o seguinte problema:
+
+\begin{quote}
+\textit{Como atingir alta precisão na identificação semântica do campo ``Receita Bruta'' em bases de dados contábeis com alta variabilidade terminológica, por meio de uma ontologia de domínio que formalize as distinções conceituais e guie modelos de linguagem na desambiguação?}
+\end{quote}
+
+\subsection{Objetivo geral}
+
+O objetivo geral deste trabalho é propor e avaliar um modelo de identificação semântica orientado por ontologia (\textit{Ontology-Based Information Extraction}) para a desambiguação do indicador \textit{Receita Bruta} em registros contábeis com alta variabilidade terminológica, integrando conhecimento formal de domínio a modelos de linguagem de grande escala, com vistas ao suporte à decisão em operações de crédito.
+
+\subsection{Objetivos específicos}
+
+Para alcançar o objetivo geral, foram definidos os seguintes objetivos específicos:
+
+\textbf{Mapear a variabilidade terminológica:} identificar e catalogar, a partir dos dados abertos da CVM, as diferentes descrições de conta (\textit{ds\_conta}) utilizadas por companhias abertas brasileiras para referenciar o faturamento bruto, evidenciando padrões de sinonímia, termos ambíguos adjacentes e variações setoriais.
+
+\textbf{Desenvolver a ontologia de domínio:} modelar formalmente as classes, propriedades e relações semânticas do domínio contábil focado em receitas e deduções, utilizando a linguagem OWL (\textit{Web Ontology Language}) e o editor Prot\'eg\'e, de modo a representar a taxonomia e as regras de inferência pertinentes.
+
+\textbf{Implementar o pipeline de desambiguação:} integrar a ontologia proposta a modelos de linguagem por meio de técnicas de \textit{Retrieval-Augmented Generation} (RAG) e \textit{Prompt Engineering} estruturado, de modo que, dado um conjunto de descrições de conta de um DRE, o sistema identifique com precisão qual delas corresponde à Receita Bruta.
+
+\textbf{Avaliar o desempenho do modelo:} validar a eficácia da extração orientada por ontologia por meio de métricas de recuperação de informação (precisão, revocação, F1 e erro médio), comparando os resultados com uma abordagem sem contexto ontológico.
+
+\subsection{Justificativa}
+
+A justificativa desta pesquisa fundamenta-se em três pontos centrais. Primeiro, a relevância prática do problema para instituições financeiras e operações de crédito, nas quais a seleção incorreta do indicador de faturamento --- por confusão terminológica entre conceitos como ``Receita Bruta'' e ``Resultado Bruto'' --- pode comprometer diretamente a qualidade da análise de risco. Segundo, a lacuna técnica entre métodos de identificação baseados apenas em correspondência léxica e a necessidade de incorporar conhecimento semântico de domínio para discriminar conceitos contábeis estruturalmente próximos. Terceiro, o potencial científico de combinar Engenharia de Ontologias com Modelos de Linguagem de Grande Escala sobre um corpus real e de larga escala --- os dados abertos da CVM ---, cujo \textit{ground truth} é determinístico e auditável, diferentemente de abordagens que recorrem a LLM-juiz para avaliação.
+
+\subsection{Metodologia}
+
+A presente pesquisa classifica-se como \textbf{aplicada}, com abordagem mista (qualitativa e quantitativa), conduzida sob o método \textit{Design Science Research} (DSR) para construção e avaliação de um artefato computacional. O percurso metodológico está organizado em quatro fases:
+
+\begin{enumerate}
+    \item \textbf{Fase exploratória e coleta:} levantamento bibliográfico sobre Engenharia de Ontologias e Modelos de Linguagem de Grande Escala, acompanhado da análise dos dados abertos de DREs disponibilizados pela CVM para catalogação dos valores únicos de \textit{ds\_conta} associados à Receita Bruta, identificação de sinônimos, termos adjacentes ambíguos e variações setoriais.
+    \item \textbf{Modelagem do artefato:} construção da ontologia utilizando o editor Prot\'eg\'e e a linguagem OWL, com definição da taxonomia de classes contábeis, propriedades de sinonímia e restrições semânticas que distinguem Receita Bruta de conceitos adjacentes como Resultado Bruto e Receita Líquida.
+    \item \textbf{Desenvolvimento experimental:} implementação de um protótipo em Python que, dado o conjunto de \textit{ds\_conta} de um DRE com o código de conta ocultado, empregue RAG sobre a ontologia e \textit{Prompt Engineering} estruturado para que o modelo de linguagem identifique qual descrição corresponde à Receita Bruta.
+    \item \textbf{Análise dos resultados:} avaliação quantitativa comparando a abordagem orientada por ontologia com um \textit{baseline} sem contexto ontológico, por meio de métricas de precisão, revocação e F1, utilizando o código de conta CVM (\textit{cd\_conta}) como \textit{ground truth} determinístico.
+\end{enumerate}
+
+\section{Revisão Bibliográfica e Trabalhos Relacionados}
+
+\subsection{Revisão de Conceitos}
+
+Esta seção apresenta os fundamentos teóricos que sustentam a proposta de extração orientada por ontologia para o domínio contábil, abordando os conceitos de Engenharia de Ontologias, Extração de Informação Baseada em Ontologia, Grafos de Conhecimento, Modelos de Linguagem de Grande Escala e Demonstração do Resultado do Exercício.
+
+\subsubsection{Engenharia de Ontologias e a linguagem OWL}
+
+No contexto da Ciência da Computação, uma ontologia é entendida como uma especificação formal e explícita de uma conceituação compartilhada de um domínio, ou seja, um artefato que descreve, de modo legível tanto por humanos quanto por máquinas, as entidades, classes, propriedades e relações relevantes para um determinado universo de discurso. A linguagem OWL (\textit{Web Ontology Language}), padronizada pelo W3C, constitui hoje uma das principais notações para a expressão dessas estruturas, oferecendo suporte a hierarquias de classes, propriedades de objeto e de dados, restrições de cardinalidade e mecanismos de inferência. O editor Prot\'eg\'e, por sua vez, é uma das ferramentas de código aberto mais difundidas para o desenvolvimento e a manutenção de ontologias em OWL, possibilitando a modelagem visual da taxonomia, a validação sintática do esquema e a execução de \textit{reasoners} para verificação de consistência.
+
+\subsubsection{Extração de Informação Baseada em Ontologia (OBIE)}
+
+A Extração de Informação Baseada em Ontologia (\textit{Ontology-Based Information Extraction} --- OBIE) consiste em utilizar uma ontologia como guia explícito para o processo de identificação e estruturação de fatos a partir de textos não estruturados. Diferentemente das abordagens puramente estatísticas, em que o esquema de saída emerge implicitamente dos dados de treinamento, OBIE introduz restrições semânticas formais que delimitam quais entidades e relações são consideradas válidas, permitindo que o sistema valide a tipagem do conteúdo extraído antes de incorporá-lo ao conjunto final. Essa característica é particularmente útil em domínios com alta variabilidade terminológica, em que sinônimos e construções heterogêneas referenciam um mesmo conceito.
+
+\subsubsection{Grafos de Conhecimento e triplas Sujeito-Predicado-Objeto}
+
+Grafos de Conhecimento (\textit{Knowledge Graphs}) são estruturas semânticas em que entidades de um domínio são representadas como nós e as relações entre elas como arestas rotuladas. A unidade elementar de informação em um grafo de conhecimento é a tripla Sujeito-Predicado-Objeto (SPO), na qual o sujeito e o objeto correspondem a entidades e o predicado expressa a relação semântica que as conecta. No contexto contábil, uma tripla pode assumir, por exemplo, a forma (\textit{Empresa X}, \textit{possui\_receita\_bruta}, \textit{R\$ 1.000.000,00}), tornando explícita uma associação que, no documento original, encontrava-se diluída em texto livre ou em uma célula de tabela.
+
+\subsubsection{Modelos de Linguagem de Grande Escala e Retrieval-Augmented Generation}
+
+Modelos de Linguagem de Grande Escala (\textit{Large Language Models} --- LLMs) são redes neurais baseadas em arquiteturas \textit{Transformer}, treinadas sobre extensos volumes de texto, capazes de gerar e interpretar linguagem natural com elevada fluência. No contexto da extração de informação, LLMs apresentam capacidade notável em cenários de \textit{zero-shot} e \textit{few-shot learning}, mas estão sujeitos a alucinações, isto é, à produção de conteúdo não fundamentado no texto de origem. A técnica de \textit{Retrieval-Augmented Generation} (RAG) busca mitigar esse problema ao recuperar, previamente à geração, fragmentos pertinentes de uma base externa de conhecimento --- como uma ontologia ou um repositório documental ---, condicionando a saída do modelo a evidências verificáveis e reduzindo a dependência exclusiva do conhecimento paramétrico interno.
+
+\subsubsection{Demonstração do Resultado do Exercício e Receita Bruta}
+
+A Demonstração do Resultado do Exercício (DRE) é um relatório contábil obrigatório que sintetiza, em determinado período, as receitas, os custos, as despesas e o resultado líquido de uma empresa, organizando-os em uma estrutura hierárquica que parte do faturamento bruto e converge para o lucro ou prejuízo do exercício. Nesse contexto, a Receita Bruta corresponde ao montante total das vendas de mercadorias, produtos e serviços antes de deduções como tributos sobre vendas, devoluções e abatimentos comerciais. Conforme exposto na Introdução, este indicador apresenta, em documentos contábeis brasileiros, ampla variabilidade textual, o que motiva a adoção de uma camada semântica formal para sua desambiguação.
+
+\subsection{Trabalhos Relacionados}
+
+Wesslund et al. (2026) apresentaram um pipeline semiautomatizado para extração de triplas Sujeito-Predicado-Objeto (SPO) a partir de relatórios financeiros corporativos, no contexto de construção de Grafos de Conhecimento sem dependência de dados anotados manualmente. Para tanto, os autores empregaram uma análise comparativa entre uma ontologia estática e uma ontologia induzida automaticamente por LLM, combinada a uma estratégia híbrida de verificação (\textit{regex} + \textit{LLM-as-a-judge}). Como \textit{corpus}, foram utilizados relatórios anuais em formato \textit{markdown} de duas empresas --- Volvo (2024) e Elekta (2022/2023) ---, e a avaliação se deu por meio de Conformidade Ontológica (CO) e métricas de alucinação de sujeito, objeto e relação (SH, OH, RH). Os experimentos demonstraram que a ontologia induzida automaticamente atingiu 100\% de conformidade em todas as configurações e que a verificação híbrida reduziu a taxa aparente de alucinação de sujeito de 65,2\% para 1,6\%, eliminando falsos positivos causados por resolução de correferência. Apesar dos avanços, o trabalho restringe-se a apenas dois relatórios em inglês de grandes empresas listadas em bolsa, não avalia revocação (\textit{recall}) dos triplos extraídos e foi validado apenas em um subconjunto de 25\% do corpus Elekta devido a restrições computacionais. Diferentemente, a proposta deste artigo concentra-se na desambiguação semântica de um indicador financeiro específico --- a Receita Bruta --- em registros contábeis brasileiros com alta variabilidade terminológica, empregando uma ontologia de domínio formalmente modelada em OWL para guiar a identificação via RAG, e avaliando os resultados com métricas baseadas em \textit{ground truth} determinístico provido pelo código de conta CVM (precisão, revocação e F1).
+
+Em uma linha próxima, Arun et al. (2025) propuseram a construção e a avaliação de um grafo de conhecimento financeiro em larga escala, no contexto da extração de triplas a partir de relatórios regulatórios corporativos. O pipeline articula \textit{parsing} inteligente de documentos com a biblioteca \textit{docling}, \textit{chunking} semântico ciente de tabelas e extração iterativa guiada por esquema em três modos distintos: \textit{single-pass}, \textit{multi-pass} e um agente baseado em reflexão com \textit{loop} de \textit{feedback} crítico-corretor. Como base, foi utilizado o LLM Qwen2.5-72B-Instruct sobre todas as empresas do S\&P 100, e a avaliação combinou checagens baseadas em regras (CheckRules), razões de cobertura de entidades e relações (ECR, RCR), entropia de Shannon e Rényi e comparação por \textit{LLM-as-a-Judge} (precisão, fidelidade, abrangência e relevância). Os experimentos demonstraram que o modo baseado em reflexão atingiu 64,8\% de conformidade simultânea com todas as quatro regras do CheckRules, gerou 15,8 triplas por \textit{chunk} e elevou a razão de cobertura de entidades de 0,30--0,31 para 0,53, superando os modos \textit{single-pass} e \textit{multi-pass} nas dimensões de precisão (39,1\%), abrangência (48,1\%) e relevância (37,3\%) avaliadas pelo LLM-juiz. Apesar dos avanços, o trabalho restringe-se a operar o laço de reflexão sobre arquivamentos isolados, depende de um \textit{ground truth} substituto baseado em votação de LLM --- sujeito a vieses do modelo julgador --- e foi validado apenas sobre relatórios anuais em inglês de grandes companhias do referido índice, sem cobrir documentos contábeis de menor porte ou em outros idiomas. Em contraste, este artigo adota uma ontologia de domínio modelada manualmente em OWL --- artefato semanticamente mais expressivo e auditável que esquemas induzidos automaticamente a partir do próprio corpus --- e dirige-se especificamente ao contexto contábil brasileiro, com avaliação ancorada em \textit{ground truth} determinístico (código de conta CVM) em vez de votação por LLM-juiz, eliminando o viés do modelo julgador.
+
+Já em domínio distinto, Yue (2026) propôs uma abordagem assistida por modelos de linguagem de grande escala (LLM) de código aberto para extração de triplas de relação (RTE) como primeira etapa rumo à geração automatizada de ontologias (AOG), no contexto do processamento de padrões de engenharia de software (SES) --- textos longos, não estruturados e ricos em termos específicos de domínio. Para tanto, o autor empregou um pipeline que processa o documento sentença por sentença, utilizando o \textit{spaCy} para extração de sintagmas nominais e verbos como vocabulário candidato, \textit{budget} dinâmico de \textit{tokens}, \textit{parsing} estrito de JSON com até três tentativas e normalização de termos, tendo como base o LLM Mistral-7B-Instruct-v0.1. A avaliação foi conduzida contra três conjuntos de referência anotados manualmente em diferentes granularidades, por meio de uma varredura de limiar de similaridade semântica ($\tau \in \{0{,}10;\ 0{,}15;\ \ldots;\ 0{,}90\}$) sobre métricas de precisão, revocação e F1 nos níveis de nós e triplas. Os experimentos demonstraram que o LLM de 7B parâmetros alcança precisão consistentemente superior à do \textit{baseline} Stanford OpenIE em nós e triplas --- produzindo um grafo mais enxuto por filtrar duplicatas e ruído ---, com revocação comparável em conjuntos mais estritos quando $\tau > 0{,}5$ e estabilização das triplas em torno de $\tau \approx 0{,}6$. Apesar dos avanços, o trabalho restringe-se a um único documento SES em sua versão curta, avalia apenas um modelo (Mistral-7B), sem comparação entre famílias ou escalas de LLMs, e apresenta revocação baixa em conjuntos densos orientados à recuperação. Em contrapartida, este artigo parte de um esquema explícito e \textit{a priori} --- a ontologia de domínio em OWL descrita acima ---, que delimita previamente as classes e relações admissíveis e impõe restrições semânticas formais à extração, em vez de permitir que o vocabulário emerja sentença a sentença a partir de sintagmas nominais e verbos identificados pelo \textit{spaCy}.
+\section{Desenvolvimento}
+
+\section{Análise dos Resultados}
+
+\section{Conclusões}
+
+\section*{Referências}
+
+\begin{flushleft}
+\setlength{\parskip}{\baselineskip}
+\setlength{\parindent}{0pt}
+
+ARUN, Abhinav; DIMINO, Fabrizio; AGARWAL, Tejas Prakash; SARMAH, Bhaskarjit; PASQUALI, Stefano. FinReflectKG: Agentic Construction and Evaluation of Financial Knowledge Graphs. \textit{In}: ACM INTERNATIONAL CONFERENCE ON AI IN FINANCE, 6., 2025, Singapura. \textbf{Anais [\ldots]}. Nova Iorque: Association for Computing Machinery, 2025. 8 p. DOI: \url{https://doi.org/10.1145/3768292.3770363}. Disponível em: \url{https://doi.org/10.1145/3768292.3770363}. Acesso em: 5 maio 2026.
+
+WESSLUND, Dante; STENSTRÖM, Ville; LINDE, Pontus; HOLMBERG, Alexander. \textbf{LLM-based Triplet Extraction from Financial Reports}. Estocolmo: KTH Royal Institute of Technology, 2026. \textit{arXiv preprint} arXiv:2602.11886v1. Disponível em: \url{https://arxiv.org/abs/2602.11886}. Acesso em: 5 maio 2026.
+
+YUE, Songhui. \textbf{LLM-based Zero-shot Triple Extraction for Automated Ontology Generation from Software Engineering Standards}. North Charleston: Charleston Southern University, 2026. \textit{arXiv preprint} arXiv:2509.00140v2. Disponível em: \url{https://arxiv.org/abs/2509.00140}. Acesso em: 5 maio 2026.
+
+\end{flushleft}
+
+\end{document}

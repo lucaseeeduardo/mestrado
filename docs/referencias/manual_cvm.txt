@@ -1,0 +1,4777 @@
+UNIVERSIDADE DO ESTADO DE SANTA CATARINA - UDESC
+BIBLIOTECA UNIVERSITÁRIA - BU
+
+MANUAL PARA A ELABORAÇÃO DE TRABALHOS ACADÊMICOS DA UDESC:
+ARTIGO, RELATÓRIO, TRABALHO DE CONCLUSÃO DE CURSO,
+DISSERTAÇÃO, TESE
+
+10. ed. rev.
+
+FLORIANÓPOLIS
+2025
+
+UNIVERSIDADE DO ESTADO DE SANTA CATARINA - UDESC
+BIBLIOTECA UNIVERSITÁRIA - BU
+
+MANUAL PARA A ELABORAÇÃO DE TRABALHOS ACADÊMICOS DA UDESC:
+ARTIGO, RELATÓRIO, TRABALHO DE CONCLUSÃO DE CURSO,
+DISSERTAÇÃO, TESE
+
+10. ed. ver.
+
+FLORIANÓPOLIS
+2025
+
+Universidade do Estado de Santa Catarina
+
+Reitor: José Fernando Fragalli
+Coordenação da Biblioteca Universitária: Dayane Dornelles
+
+Organização e elaboração:
+Ana Paula Sehn
+Dayane Dornelles
+Letícia Lazzari
+Eliane Dittrich
+Orestes Trevisol Neto
+Revisão 10. ed.
+Dayane Dornelles
+Eliane Dittrich
+Luciana Mara Silva
+Rafaela Ghacham Desiderato
+
+Este trabalho está licenciado sob uma Licença Internacional Creative Commons Attribution-NonCommercial 4.0
+
+Aos estudantes da Universidade do Estado
+de Santa Catarina pela inspiração de
+sempre!
+
+AGRADECIMENTOS
+Como muitos outros trabalhos, este também não foi elaborado de forma isolada
+e solitária. Foi um documento construído por muitas mãos, tendo muitas motivações.
+Gostaríamos de agradecer imensamente à Associação Brasileira de Normas Técnicas
+(ABNT) por preparar documentos normativos à formatação dos trabalhos acadêmicos
+tão relevantes e intrincados. Sem vocês este trabalho jamais existiria. Aos
+bibliotecários apaixonados e responsáveis por facilitar a utilização das normas por
+meio desse Manual. Gratidão aos professores, fiéis defensores e promotores da
+aplicação das normas técnicas da ABNT no ambiente universitário. Tem-se como
+objetivo, por meio deste trabalho, auxiliá-los nesta árdua tarefa.
+No entanto, o principal motivador para a construção deste documento são
+vocês, estudantes, que nos inspiram diariamente com dúvidas e questionamentos
+sobre a aplicação das normas. Vocês que impressionam diariamente os bibliotecários
+com formatações inusitadas, referências excêntricas e trabalhos surpreendentes. Este
+trabalho é dedicado principalmente a vocês!
+Nós, bibliotecários, deixamos aqui nossa eterna gratidão!
+
+"Em uma só palavra, o que bibliotecas e bibliotecários fazem é facilitar. [Eles]
+facilitam a criação do conhecimento" (Lankes, 2016, p. 69).
+.
+
+LISTA DE ILUSTRAÇÕES
+Figura 1 - Estrutura de trabalhos acadêmicos ........................................................... 16
+Figura 2 - Modelo de capa para trabalhos de acadêmicos ........................................ 19
+Figura 3 - Modelo de folha de rosto ........................................................................... 21
+Figura 4 - Modelo de errata ....................................................................................... 22
+Figura 5 - Modelo de folha de aprovação .................................................................. 23
+Figura 6 - Modelo de dedicatória ............................................................................... 24
+Figura 7 - Modelo de agradecimentos ....................................................................... 25
+Figura 8 - Modelo de epígrafes: a) até três linhas, b) quatro linhas ou mais ............. 26
+Figura 9 - Exemplo de apresentação de resumo....................................................... 28
+Figura 10 - Modelo de listas: a) lista específica, b) lista de ilustrações ..................... 30
+Figura 11 - Modelo de apresentação da lista de tabelas ........................................... 31
+Figura 12 - Exemplo de lista de abreviaturas e siglas ............................................... 32
+Figura 13 - Modelo de apresentação da lista de símbolos ........................................ 33
+Figura 14 - Modelo de alinhamento de sumário: títulos das seções, alinhados
+conforme indicativo numérico mais extenso ........................................... 34
+Figura 15 - Modelo de apresentação de sumário ...................................................... 35
+Figura 16 - Modelo de apresentação de glossário .................................................... 38
+Figura 17 - Modelo de apêndice ................................................................................ 40
+Figura 18 - Modelo de índice ..................................................................................... 41
+Figura 19 - Indicativos de seção e espaçamentos do texto ....................................... 46
+Figura 20 - Modelo de título sem indicativo numérico ............................................... 47
+Figura 21 - Exemplo de paginação............................................................................ 48
+Figura 22 - Formatação de ilustração citada no texto ............................................... 52
+Figura 23 - Modelo de lista de referências: alinhamento e espaçamento ................. 78
+Figura 24 - Identificação dos elementos para referenciar legislação ......................... 96
+Figura 25 - Identificação dos elementos para referenciar legislação em meio
+eletrônico ................................................................................................ 97
+Figura 26 - Identificação dos elementos para referenciar jurisprudência em meio
+eletrônico .............................................................................................. 101
+Figura 27 - Identificação dos elementos para referenciar atos administrativos em
+meio eletrônico ..................................................................................... 103
+Figura 28 - Apresentação de artigo científico .......................................................... 136
+
+Figura 29 - Modelo de apresentação de folha de aprovação para relatórios de
+estágio pós-doutoral ............................................................................. 138
+Figura 30 - Modelo de apresentação de sumário de dissertações e teses com
+compilação de artigos a) sumário com títulos genéricos b) sumário com
+títulos hipotéticos .................................................................................. 140
+
+LISTA DE QUADROS
+Quadro 1 - Elementos dos trabalhos acadêmicos ..................................................... 17
+Quadro 2 - Formatação do papel e fonte .................................................................. 42
+Quadro 3 - Formatação do alinhamento, espaçamento e parágrafo ......................... 43
+Quadro 4 - Principais regras de transcrição Local: Editora ..................................... 125
+Quadro 5 - Abreviatura dos meses .......................................................................... 127
+Quadro 6 - Estrutura de artigo científico .................................................................. 134
+Quadro 7 - Apresentação gráfica de artigo científico .............................................. 137
+
+LISTA DE TABELAS
+Tabela 1 - Estimativas da população residente nos municípios de Santa Catarina
+com data de referência em 01 de Julho de 2015 .................................... 55
+
+LISTA DE ABREVIATURAS E SIGLAS
+ABNT
+
+Associação Brasileira de Normas Técnicas
+
+BU
+
+Biblioteca Universitária
+
+IN
+
+Instrução Normativa
+
+NBR
+
+Normas Técnicas Brasileiras
+
+TCC
+
+Trabalho de Conclusão de Curso
+
+Udesc Universidade do Estado de Santa Catarina
+
+SUMÁRIO
+1
+
+INTRODUÇÃO ....................................................................................... 15
+
+2
+
+ESTRUTURA DE TRABALHOS ACADÊMICOS .................................. 16
+
+2.1
+
+PARTE EXTERNA: CAPA E LOMBADA ................................................ 18
+
+2.2
+
+PARTE INTERNA ................................................................................... 20
+Elementos pré-textuais ........................................................................ 20
+Folha de rosto ........................................................................................ 20
+Ficha de identificação da obra................................................................ 22
+Errata ..................................................................................................... 22
+Folha de aprovação ................................................................................ 23
+Dedicatória ............................................................................................. 24
+Agradecimentos ..................................................................................... 25
+Epígrafe .................................................................................................. 25
+Resumo na língua vernácula .................................................................. 26
+Resumo em língua estrangeira .............................................................. 28
+Lista de ilustrações................................................................................. 29
+Lista de tabelas ...................................................................................... 31
+Lista de abreviaturas e siglas ................................................................. 31
+Lista de símbolos ................................................................................... 33
+Sumário .................................................................................................. 33
+Elementos textuais ............................................................................... 36
+Introdução .............................................................................................. 36
+Desenvolvimento .................................................................................... 36
+Conclusão .............................................................................................. 37
+Elementos pós-textuais ....................................................................... 37
+Referências ............................................................................................ 37
+Glossário ................................................................................................ 38
+Apêndice e Anexo .................................................................................. 39
+Índice ...................................................................................................... 41
+
+3
+
+REGRAS GERAIS DE APRESENTAÇÃO ............................................ 42
+
+3.1
+
+FORMATAÇÃO DO PAPEL E FONTE ................................................... 42
+
+3.2
+
+ALINHAMENTO, ESPAÇAMENTO E PARÁGRAFOS ........................... 43
+Notas de rodapé ................................................................................... 44
+
+Indicativos de seção ............................................................................ 45
+Títulos sem indicativo numérico......................................................... 46
+Elementos sem título e sem indicativo numérico ............................. 47
+3.3
+
+PAGINAÇÃO .......................................................................................... 47
+
+3.4
+
+NUMERAÇÃO PROGRESSIVA ............................................................. 48
+Regras de apresentação da numeração progressiva ....................... 49
+Alíneas .................................................................................................. 50
+Subalínea .............................................................................................. 50
+
+3.5
+
+ILUSTRAÇÕES ...................................................................................... 51
+
+3.6
+
+TABELAS ............................................................................................... 53
+
+3.7
+
+SIGLAS .................................................................................................. 58
+
+3.8
+
+EQUAÇÕES E FÓRMULAS ................................................................... 60
+
+3.9
+
+CITAÇÕES EM DOCUMENTOS ............................................................ 61
+Sistema de chamada ............................................................................ 62
+Tipos de citação ................................................................................... 63
+Citação direta ......................................................................................... 63
+Citação direta curta (até três linhas) ....................................................... 63
+Citação direta longa (mais de três linhas) .............................................. 66
+Citação indireta ...................................................................................... 66
+Citação de citação .................................................................................. 68
+Regras gerais de apresentação .......................................................... 69
+Supressões: [...] ..................................................................................... 69
+Ênfase ou destaque: grifo nosso ............................................................ 69
+Interpolações, acréscimos ou comentários: [ ] ..................................... 69
+Dados obtidos em fontes não publicadas formalmente .......................... 70
+Tradução nossa...................................................................................... 70
+Coincidências de sobrenome na mesma obra ....................................... 70
+Coincidências de sobrenomes e data .................................................... 71
+Coincidências de autor e ano ................................................................. 71
+Citações indiretas do mesmo autor ........................................................ 71
+Citações indiretas de autores diferentes ................................................ 72
+Notas ...................................................................................................... 72
+Notas de referência ................................................................................ 73
+Notas explicativas .................................................................................. 73
+
+Citações diretas de e-books e documentos não paginados ................... 74
+Dicas quanto ao uso de sinais gráficos, letras maiúsculas e minúsculas e
+espaçamento entre linhas em citações .................................................. 76
+3.10
+
+REFERÊNCIAS ...................................................................................... 78
+Modelos de referências........................................................................ 79
+Livro, dicionário, folheto, manual, enciclopédia, trabalho acadêmico, etc.
+............................................................................................................... 79
+Livro eletrônico (E-book) ........................................................................ 81
+Trabalho de conclusão de curso, dissertação e tese ............................. 81
+Trabalho de conclusão de curso, dissertação e tese em meio eletrônico
+............................................................................................................... 82
+Parte de livro .......................................................................................... 83
+Parte de trabalhos acadêmicos .............................................................. 84
+Parte de livro em meio eletrônico ........................................................... 84
+Parte de trabalhos acadêmicos em meio eletrônico ............................... 85
+Coleção de publicação periódica............................................................ 86
+Coleção de publicação periódica em meio eletrônico ............................ 86
+Volume, fascículo, suplemento, número especial de publicação periódica
+............................................................................................................... 87
+Artigo ou matéria de publicação periódica ............................................. 87
+Artigo ou matéria de publicação periódica em meio eletrônico .............. 88
+Artigo ou matéria de jornal ..................................................................... 89
+Artigo ou matéria de jornal em meio eletrônico ...................................... 90
+Evento no todo em monografia .............................................................. 90
+Evento no todo em publicação periódica ................................................ 91
+Evento no todo em meio eletrônico ........................................................ 91
+Parte de evento em monografia ............................................................. 92
+Parte de evento em publicação periódica .............................................. 93
+Parte de evento em meio eletrônico ....................................................... 93
+Patente ................................................................................................... 94
+Patente em meio eletrônico .................................................................... 94
+Legislação .............................................................................................. 95
+Legislação em meio eletrônico ............................................................... 96
+Constituição............................................................................................ 97
+
+Decreto ................................................................................................... 97
+Decreto-Lei ............................................................................................. 98
+Emenda constitucional ........................................................................... 98
+Emenda à lei orgânica ............................................................................ 98
+Lei complementar ................................................................................... 98
+Lei delegada ........................................................................................... 98
+Lei ordinária............................................................................................ 99
+Lei orgânica ............................................................................................ 99
+Medida provisória ................................................................................... 99
+Jurisprudência ........................................................................................ 99
+Jurisprudência em meio eletrônico ....................................................... 100
+Acórdão ................................................................................................ 101
+Sentença .............................................................................................. 101
+Súmula ................................................................................................. 102
+Atos administrativos normativos ........................................................... 102
+Atos administrativos normativos em meio eletrônico ............................ 102
+Filmes, vídeos, entre outros ................................................................. 103
+Filmes, vídeos, entre outros em meio eletrônico .................................. 104
+Documento sonoro no todo .................................................................. 104
+Parte de documento sonoro ................................................................. 105
+Documento sonoro em meio eletrônico ................................................ 106
+Partitura impressa ................................................................................ 106
+Partitura em meio eletrônico................................................................. 107
+Documento iconográfico ....................................................................... 107
+Documento iconográfico em meio eletrônico........................................ 108
+Documento cartográfico ....................................................................... 108
+Documento cartográfico em meio eletrônico ........................................ 109
+Documento tridimensional .................................................................... 110
+Documento de acesso exclusivo em meio eletrônico ........................... 110
+Transcrição dos elementos ............................................................... 112
+Pessoa física ........................................................................................ 112
+Indicação de responsabilidade: organizador, editor, coordenador, etc. 114
+Obra publicada sob pseudônimo .......................................................... 115
+Obras psicografadas ............................................................................ 115
+
+Obras adaptadas .................................................................................. 115
+Entrevistas............................................................................................ 116
+Pessoa jurídica ..................................................................................... 116
+Pessoa jurídica: três ou mais autores .................................................. 116
+Instituição governamental da administração direta .............................. 117
+Estados e municípios homônimos ........................................................ 117
+Instituições com denominação específica ............................................ 118
+Eventos ................................................................................................ 118
+Autoria desconhecida ........................................................................... 119
+Título e subtítulo ................................................................................... 119
+Títulos iniciados por artigo.................................................................... 120
+Títulos e subtítulos longos .................................................................... 120
+Títulos de periódicos na forma abreviada ............................................ 121
+Título inexistente .................................................................................. 121
+Edição .................................................................................................. 121
+Local ..................................................................................................... 122
+Editora .................................................................................................. 123
+Data ...................................................................................................... 126
+Descrição física: paginação, formato, ilustração e dimensão de
+documentos .......................................................................................... 128
+Séries e coleções ................................................................................. 132
+Notas .................................................................................................... 132
+4
+
+TRABALHOS DE CONCLUSÃO DE CURSO ALTERNATIVOS ........ 133
+
+4.1
+
+ARTIGO................................................................................................ 133
+Estrutura ............................................................................................. 134
+Apresentação Gráfica ........................................................................ 137
+
+4.2
+
+RELATÓRIO......................................................................................... 138
+
+4.3
+
+DISSERTAÇÃO E TESE COM COMPILAÇÃO DE ARTIGOS ............. 139
+
+5
+
+ENTREGA DE TRABALHOS ACADÊMICOS ..................................... 141
+REFERÊNCIAS.................................................................................... 142
+
+15
+
+1
+
+INTRODUÇÃO
+A Biblioteca Universitária (BU) desempenha papel importante no processo de
+
+padronização dos trabalhos acadêmicos produzidos na Universidade do Estado de
+Santa Catarina (Udesc), sendo facilitadora e disseminadora da informação.
+Responsável pela guarda e tratamento da produção científica da Universidade, a BU
+oferece, por esse Manual, orientações sobre a estrutura, normalização e
+apresentação gráfica dos trabalhos acadêmicos resultantes de cursos de graduação
+e pós-graduação:
+a) cursos de graduação: Trabalho de Conclusão de Curso (TCC), Relatório de
+Estágio, Artigo;
+b) cursos de pós-graduação lato sensu (Especialização): Monografia de
+Especialização ou Aperfeiçoamento, Artigo;
+c) cursos de pós-graduação stricto sensu (Mestrado): Dissertação;
+d) cursos de pós-graduação stricto sensu (Doutorado): Tese;
+e) estágio pós-doutoral (Pós-Doutorado): Relatório.
+As diretivas adotadas pela BU Udesc, expostas neste Manual, baseiam-se nas
+Normas Técnicas Brasileiras (NBR) de informação e documentação da Associação
+Brasileira de Normas Técnicas (ABNT), contemplando algumas especificidades da
+Universidade. O uso desse Manual não dispensa a consulta às normas da ABNT:
+
+NBR 6022:2018 – artigo em publicação periódica técnica e/ou científica
+NBR 6023:2025 – referências
+NBR 6024:2012 – numeração progressiva das seções de um documento
+NBR 6027:2012 – sumário
+NBR 6028:2021 – resumo, resenha e recensão
+NBR 6034:2004 – índice
+NBR 10520:2023 – citações em documentos
+NBR 14724:2024 – trabalhos acadêmicos
+
+16
+
+2
+
+ESTRUTURA DE TRABALHOS ACADÊMICOS
+Conforme a NBR 14724 (ABNT, 2024), os trabalhos acadêmicos são
+
+estruturados em duas partes: externa e interna.
+A parte externa é constituída por capa e lombada. A parte interna é composta
+por três quesitos fundamentais: elementos pré-textuais, elementos textuais e
+elementos pós-textuais, conforme a Figura 1:
+Figura 1 - Estrutura de trabalhos acadêmicos
+
+Fonte: Elaborada pelos autores (2021).
+
+17
+
+No Quadro 1 estão dispostos os elementos das partes externa e interna, que
+serão discorridos nas próximas subseções desse manual.
+Quadro 1 - Elementos dos trabalhos acadêmicos
+Parte externa
+
+Capa (obrigatório)
+Lombada (opcional)1
+Folha de rosto (obrigatório)
+Ficha de identificação da obra (obrigatório)2
+Errata (opcional)
+Folha de aprovação (obrigatório)3
+Dedicatória (opcional)
+Agradecimentos (opcional)
+Elementos pré-textuais
+
+Epígrafe (opcional)
+Resumo na língua vernácula (obrigatório)
+Resumo em língua estrangeira (obrigatório)
+Lista de ilustrações (opcional)
+Lista de tabelas (opcional)
+
+Parte interna
+
+Lista de abreviaturas e siglas (opcional)
+Lista de símbolos (opcional)
+Sumário (obrigatório)
+Introdução (obrigatório)
+Elementos textuais
+
+Desenvolvimento (obrigatório)
+Conclusão (obrigatório)
+Referências (obrigatório)
+Glossário (opcional)
+
+Elementos pós-textuais
+
+Apêndice (opcional)
+Anexo (opcional)
+Índice (opcional)
+
+Fonte: Elaborado pelos autores (2021), com base na NBR 14724 (ABNT, 2024).
+
+1 A lombada é obrigatória somente para trabalhos impressos.
+2 A ficha de identificação da obra é obrigatória apenas para Teses e Dissertações. Não deve constar
+
+em trabalhos de graduação.
+3 A folha de aprovação é obrigatória para Teses e Dissertações.
+
+18
+
+2.1 PARTE EXTERNA: CAPA E LOMBADA
+A parte externa de um trabalho acadêmico é constituída por capa e lombada.
+A lombada é um elemento utilizado em trabalhos impressos. Conforme a IN nº
+12, de 07 de agosto de 2020 (Udesc, 2020), os trabalhos de conclusão de curso de
+graduação e pós-graduação da Udesc deverão ser entregues somente em formato
+digital. Portanto, não se faz necessário abordar o elemento lombada neste Manual.
+A capa é elemento obrigatório em todos os trabalhos acadêmicos. Constitui “[...]
+proteção externa do trabalho e sobre a qual se imprimem as informações
+indispensáveis à sua identificação” (ABNT, 2024, p. 2). Conforme a NBR 14724
+(ABNT, 2024), as informações na capa devem ser apresentadas na seguinte ordem:
+a) nome da Universidade seguida da sigla, nome do Centro seguido da sigla e
+nome do curso (para a pós-graduação, deve-se transcrever o nome do
+programa no lugar do nome do curso);
+b) nome do autor;
+c) título do trabalho;
+d) subtítulo: se houver, deve ser precedido de dois pontos;
+e) número do volume (se houver);
+f) local: cidade4 da Universidade onde deve ser apresentado o trabalho;
+g) ano de depósito (entrega do trabalho).
+Na Figura 2, ilustra-se o modelo de capa para trabalhos acadêmicos:
+
+4 No caso de cidades homônimas, utilizar a sigla do Estado para diferenciá-las, separados por vírgula.
+
+Exemplo: Viçosa, AL / Viçosa, MG / Viçosa, RN; Brasília, DF / Brasília, MG. Recomenda-se consultar
+o nome da cidade no site IBGE Cidades, disponível em: https://cidades.ibge.gov.br/.
+
+19
+
+Figura 2 - Modelo de capa para trabalhos de acadêmicos
+
+Fonte: Elaborada pelos autores (2021).
+
+20
+
+2.2 PARTE INTERNA
+A parte interna de um trabalho acadêmico é subdivida em elementos prétextuais, textuais e pós-textuais. Deve ser apresentada conforme 2.2.1 a 2.2.3.
+Elementos pré-textuais
+Apresentam informações que auxiliam na identificação e utilização do trabalho
+pelo leitor.
+Folha de rosto
+Elemento obrigatório, sobre a qual constam as informações essenciais à
+identificação do trabalho (ABNT, 2024).
+Conforme a NBR 14724 (ABNT, 2024), a apresentação dos elementos deve ser
+na seguinte ordem:
+a) nome do autor;
+b) título do trabalho;
+c) subtítulo: se houver, deve ser precedido de dois pontos;
+d) número do volume (se houver);
+e) natureza: tipo do trabalho (tese, dissertação, trabalho de conclusão de curso
+e outros) e objetivo (aprovação em disciplina, grau pretendido e outros);
+nome da instituição a que é submetido; área de concentração;
+f) nome do orientador(a):
+- orientador: Prof. titulação (Dr., Me., Esp.) e nome completo;
+- orientadora: Prof.ª titulação (Dra., Ma., Esp.) e nome completo.
+g) nome do coorientador(a), se houver, siga as instruções da alínea f;
+h) local: cidade5 da Universidade onde deve ser apresentado o trabalho;
+i) ano de depósito (entrega do trabalho).
+
+5 No caso de cidades homônimas, utilizar a sigla do Estado para diferenciá-las, separados por vírgula.
+
+Exemplo: Viçosa, AL / Viçosa, MG / Viçosa, RN; Brasília, DF / Brasília, MG. Recomenda-se consultar
+o nome da cidade no site IBGE Cidades, disponível em: https://cidades.ibge.gov.br/.
+
+21
+
+O modelo de folha de rosto a ser utilizada em todos os trabalhos acadêmicos
+está ilustrado na Figura 3.
+Figura 3 - Modelo de folha de rosto
+
+Fonte: Elaborada pelos autores (2021).
+
+22
+
+Ficha de identificação da obra
+Deve conter os dados de identificação da obra.
+
+A inclusão da Ficha de Identificação da Obra após a Folha de Rosto é
+obrigatória somente para Teses e Dissertações.
+
+Para alunos da Pós-Graduação, a BU Udesc disponibiliza um Sistema de
+Geração
+
+Automática
+
+da
+
+Ficha
+
+de
+
+Identificação
+
+da
+
+Obra:
+
+https://www.udesc.br/bu/manuais/ficha.
+Casos não contemplados pelo Gerador de Ficha de Identificação da Obra,
+como Ficha Catalográfica para professores, entrar em contato com a Biblioteca
+Setorial Udesc do seu Centro de Ensino.
+Errata
+Elemento opcional. Constitui-se pela referência do trabalho e pelo texto da
+errata que apresenta a lista dos erros ocorridos no texto com as correções. Deve ser
+apresentada em papel avulso ou encartado (ABNT, 2024).
+Exemplo na Figura 4:
+Figura 4 - Modelo de errata
+
+Fonte: Elaborada pelos autores (2021).
+
+23
+
+Folha de aprovação
+Elemento obrigatório para teses e dissertações e opcional para os demais
+trabalhos acadêmicos. Deve conter todos os elementos da Folha de Rosto, acrescido
+dos nomes do orientador e coorientador (se houver), dos membros da banca
+examinadora com suas respectivas titulações e instituições de origem, local e data da
+defesa do trabalho acadêmico.
+Este documento é apenas informativo, tendo por finalidade a apresentação dos
+membros da banca examinadora.
+Não se escreve o título Folha de Aprovação.
+Na Figura 5 é exemplificado o modelo de Folha de Aprovação:
+Figura 5 - Modelo de folha de aprovação
+
+Fonte: Elaborada pelos autores (2021).
+
+24
+
+Dedicatória
+Elemento opcional utilizado pelo autor para registrar homenagens ou
+dedicatórias a determinadas pessoas. Deve estar localizada após a Folha de
+Aprovação e escrita com a mesma fonte e espaçamento do trabalho. Localiza-se do
+meio da página para a margem direita. Não se escreve a nomenclatura Dedicatória.
+Na Figura 6, apresenta-se um exemplo de Dedicatória:
+Figura 6 - Modelo de dedicatória
+
+Fonte: Elaborada pelos autores (2021).
+
+25
+
+Agradecimentos
+Elemento opcional, dirigido a quem contribuiu de forma significativa à
+elaboração do trabalho, isto é: instituições, empresas, orientadores, pesquisadores,
+colegas, familiares e amigos. Recomenda-se que os agradecimentos sejam colocados
+de forma hierárquica de importância e redigidos com a mesma fonte e espaçamento
+do corpo do texto do trabalho. Deve-se incluir a nomenclatura Agradecimentos,
+conforme ilustrado na Figura 7:
+Figura 7 - Modelo de agradecimentos
+
+Fonte: Elaborada pelos autores (2021).
+
+Epígrafe
+Elemento opcional, utilizado pelo autor para apresentar uma citação seguida
+de indicação da autoria, com conteúdo pertinente ao trabalho acadêmico, conforme a
+NBR 10520 (ABNT, 2023). A epígrafe deve ser inserida após os agradecimentos ou
+nas folhas/páginas de abertura das seções primárias (ABNT, 2024). Observar:
+a) epígrafe com até três linhas: fonte 12, sem negrito, espaçamento 1,5 entre
+linhas, alinhamento justificado. Se a citação for direta, deverá estar entre
+aspas e constar o número de página do trecho do documento citado na
+chamada de autor;
+
+26
+
+b) epígrafe com quatro linhas ou mais: se for citação direta, utilizar fonte 10,
+sem negrito, espaçamento simples entre linhas, alinhamento justificado, sem
+aspas, recuo de 4 cm em relação à margem esquerda, constando o número
+de página do trecho do documento citado na chamada de autor.
+Não incluir a nomenclatura Epígrafe. Exemplos de epígrafes a serem incluídas
+na parte pré-textual do trabalho acadêmico estão na Figura 8:
+Figura 8 - Modelo de epígrafes: a) até três linhas; b) quatro linhas ou mais
+
+Fonte: Elaborada pelos autores (2021).
+
+Resumo na língua vernácula
+Elemento obrigatório que contém a apresentação concisa dos pontos
+relevantes do trabalho, fornecendo visão rápida e clara do conteúdo e das conclusões.
+Deve ser elaborado conforme os requisitos estipulados pela NBR 6028 (ABNT, 2021).
+Deverá conter, de forma clara e sintética, a natureza do trabalho, o objetivo, o
+método, os resultados e as conclusões, visando fornecer elementos para o leitor
+decidir sobre a consulta do trabalho no todo. O resumo deve, conforme ABNT (2021):
+a) ser iniciado com frase concisa e informativa, que apresente o tema principal
+do documento;
+b) ser redigido em parágrafo único, em linguagem clara e objetiva, sem recuo
+de parágrafo na primeira linha;
+
+27
+
+c) convém o uso dos verbos deve ser na voz ativa, utilizando-se de preferência
+a terceira pessoa do singular;
+d) ser inteligível por si mesmo (dispensar a consulta ao trabalho);
+e) evitar a enumeração de tópicos e itens;
+f) evitar repetição de frases inteiras do trabalho ou trechos literais do corpo do
+trabalho;
+g) respeitar a ordem em que as ideias ou fatos são apresentados;
+h) evitar o uso de parágrafos, frases negativas, abreviaturas, fórmulas,
+diagramas, quadros, equações etc.;
+i) evitar o uso de símbolos e contrações que não sejam de uso comum;
+j) em trabalhos acadêmicos, a referência do documento não precede o
+resumo.
+O resumo deve conter:
+a) 150 a 500 palavras para trabalhos acadêmicos: dissertações, teses, TCCs
+e relatórios;
+b) 100 a 250 palavras para os artigos de periódicos.
+Em trabalhos acadêmicos, o título RESUMO deve ser centralizado na parte
+superior da página, em caixa alta e negrito. O texto deve ser redigido em parágrafo
+único, com espaçamento 1,5 entre linhas para todos os trabalhos acadêmicos (Figura
+9). Em artigos científicos, o título Resumo deve apresentar somente a letra inicial em
+caixa alta, e o texto deve ser redigido com espaçamento simples entre linhas (ABNT,
+2021).
+Logo abaixo do texto do resumo, devem figurar as palavras-chave. A expressão
+Palavras-chave deve estar em negrito, com a letra inicial em caixa alta. As palavraschave em si devem ser apresentadas em letra minúscula, com exceção dos nomes
+próprios e termos científicos. Devem ser separadas entre si por ponto e vírgula,
+finalizadas por ponto. No mínimo três (3) e no máximo cinco (5) palavras-chave
+(ABNT, 2021).
+Na Figura 9, apresenta-se um exemplo da apresentação do resumo em um
+trabalho acadêmico:
+
+28
+
+Figura 9 - Exemplo de apresentação de resumo
+
+Fonte: Elaborada pelos autores (2021).
+
+A referência completa do TCC deve constar no resumo/abstract somente
+quando estes forem publicados separadamente do trabalho acadêmico.
+
+Resumo em língua estrangeira
+Elemento obrigatório para todos os trabalhos de conclusão de curso (ABNT,
+2024). Opcional para os demais trabalhos acadêmicos, inclusive artigo científico.
+Constitui versão do resumo em português para um idioma de divulgação
+internacional. Deve aparecer em página distinta e seguindo a mesma formatação do
+resumo em português.
+
+29
+
+Lista de ilustrações
+Último elemento antes da apresentação do sumário, as listas devem ser
+incluídas quando necessário, onde são arrolados diferentes itens que aparecem no
+decorrer da obra.
+A lista de ilustrações é:
+Deve ser elaborada de acordo com a ordem apresentada no texto, com cada
+item designado por seu nome específico, travessão, título e respectivo
+número da folha ou página. Quando necessário, recomenda-se a elaboração
+de lista própria para cada tipo de ilustração (desenhos, esquemas,
+fluxogramas, fotografias, gráficos, mapas, organogramas, plantas, quadros,
+retratos e outras) (ABNT, 2024, p. 8).
+
+Conforme explicitado acima, a ABNT indica a elaboração de uma lista de
+ilustrações com todos os itens arrolados e designados por seu nome específico,
+conforme a ordem em que aparecem no texto (Figura 1, Fotografia 1, Gráfico 1,
+Quadro 1, entre outros). É recomendado, ainda e quando necessário, a elaboração
+de lista própria para cada tipo de ilustração. No entanto, não é determinado um
+número mínimo de ilustrações para tal lista específica.
+Nesse caso, a BU Udesc estabelece a elaboração de listas específicas para
+cada tipo de ilustração somente quando existirem muitos itens de cada tipo: cinco (5)
+ou mais (mais do que cinco desenhos, gráficos etc.). Caso contrário, elabora-se uma
+única lista, denominada “Lista de ilustrações” com os elementos ordenados conforme
+aparecem no texto, nominando-os “Figura” e, portanto, não diferenciando fotografia,
+gráfico, quadro e outros, conforme consta na Figura 10:
+
+30
+
+Figura 10 - Modelo de listas: a) lista específica; b) lista de ilustrações
+
+Fonte: Elaborada pelos autores (2021).
+
+Quanto à apresentação das listas, recomenda-se:
+a) segundo a NBR 14724 (ABNT, 2024), a ordem de apresentação das listas
+deve ser:
+- lista de ilustrações: fica a critério do autor a ordem das listas, quando
+houver diferentes listas para as ilustrações como figuras, quadros,
+gráficos etc.;
+- lista de tabelas;
+- lista de abreviaturas e siglas;
+- lista de símbolos.
+b) nos itens: designação do item, indicativo numérico, travessão, título da
+ilustração, linha pontilhada e número de folha ou página. Se o título da
+ilustração ocupar mais de uma linha, a segunda linha deverá iniciar abaixo
+da primeira palavra do título, conforme exemplificado na Figura 10b;
+c) espaçamento 1,5 entre linhas para toda a lista.
+
+31
+
+Lista de tabelas
+É a relação das tabelas de acordo com a ordem apresentada no trabalho, com
+cada item designado por seu nome específico, acompanhado do respectivo número
+da página (Figura 11):
+Figura 11 - Modelo de apresentação da lista de tabelas
+
+Fonte: Elaborada pelos autores (2021).
+
+Lista de abreviaturas e siglas
+Consiste na relação alfabética das abreviaturas e siglas utilizadas no trabalho,
+seguida de seus termos por extenso (Figura 12):
+
+32
+
+Figura 12 - Exemplo de lista de abreviaturas e siglas
+
+Fonte: Elaborada pelos autores (2021).
+
+No corpo do trabalho, na primeira vez em que abreviaturas e siglas forem
+mencionadas no texto devem aparecer entre parênteses, precedidas de sua forma por
+extenso. A partir dessa primeira inserção, poderá ser utilizada apenas a forma
+abreviada, ou seja, usar somente a abreviatura ou a sigla.
+
+33
+
+Lista de símbolos
+Elaborada de acordo com a ordem apresentada no texto, constando o devido
+significado, conforme a Figura 13:
+Figura 13 - Modelo de apresentação da lista de símbolos
+
+Fonte: Elaborada pelos autores (2021).
+
+Sumário
+Elemento obrigatório em todos os trabalhos acadêmicos e último elemento prétextual, devendo ser elaborado de acordo com a NBR 6027 (ABNT, 2012b).
+Trata-se da enumeração das principais divisões, seções e outras partes do
+trabalho, contendo a mesma ordem e grafia em que ocorrem no texto (ABNT, 2012b).
+
+34
+
+De acordo com a NBR 6027 (ABNT, 2012b, p. 2): “Os indicativos das seções
+que compõem o sumário [...], devem ser alinhados à esquerda, conforme a ABNT NBR
+6024 [numeração progressiva]”. Os títulos e subtítulos (se houver), seguem os
+indicativos das seções (sem sinal gráfico) e devem ser alinhados à esquerda,
+conforme a margem do indicativo de seção mais extenso. Elementos pós-textuais
+(Referências, Anexos, Apêndices e Índices) seguem, igualmente, alinhamento
+conforme o indicativo de seção mais extenso, porém não deve haver indicativo de
+seção para esses elementos.
+Na Figura 14, ilustra-se o alinhamento das seções de um sumário:
+Figura 14 - Modelo de alinhamento de sumário: títulos das seções, alinhados
+conforme indicativo numérico mais extenso
+
+Fonte: Elaborada pelos autores (2021).
+
+Apenas as partes que sucedem o sumário devem ser incluídas, ou seja, não
+incluir: dedicatória, agradecimentos, epígrafe, resumo e listas.
+Caso o trabalho tenha mais de um volume, deve ser incluído o sumário de toda
+a obra em todos os volumes.
+Recomenda-se que seja utilizado o espaçamento 1,5 entre linhas para todo o
+sumário. Quanto à fonte, empregar o mesmo tipo e tamanho utilizados no corpo do
+trabalho.
+
+35
+
+A Figura 15 exemplifica um modelo sumário:
+Figura 15 - Modelo de apresentação de sumário
+
+Fonte: Elaborada pelos autores (2021).
+
+36
+
+Elementos textuais
+Devem ser apresentados conforme 2.2.2.1 a 2.2.2.3.
+Introdução
+Expõe os objetivos do trabalho, bem como as razões de sua elaboração. Tem
+caráter didático de apresentação.
+Deve abordar:
+a) o problema de pesquisa, proposto de forma clara e objetiva;
+b) os objetivos, delimitando o que se pretende fazer;
+c) a justificativa, destacando a importância do estudo;
+d) as definições e conceitos necessários à compreensão do estudo;
+e) a forma como está estruturado o trabalho e o que contém cada uma de suas
+partes.
+Desenvolvimento
+É a demonstração lógica e detalhada de todo o trabalho, explicitando a
+pesquisa ou o estudo realizado; explica, discute e demonstra a pertinência das teorias
+utilizadas na exposição e resolução do problema.
+O desenvolvimento pode ser subdivido em seções e subseções, tendo
+nomenclaturas definidas pelo autor de acordo com o conteúdo apresentado.
+Contempla a revisão da literatura e apresenta as bases teóricas necessárias e
+empregadas para dar fundamentação ao assunto. Exige do autor uma extensa busca
+na literatura de livros, revistas, documentos e informações relevantes, produzidas até
+então e que se relacionam ao problema. Dessa forma, o autor terá conhecimento das
+contribuições de pesquisas já realizadas. Todas as ideias consideradas relevantes
+são registradas com os respectivos dados bibliográficos completos, quando houver o
+uso de citações.
+Estabelece confronto entre ideias, tendo em vista o problema, os objetivos, as
+teorias relevantes e as conclusões dos autores das obras consultadas. Esta é a fase
+da construção, elaboração e exposição do levantamento e da análise teórica sobre o
+
+37
+
+tema enfocado. Exige análise e síntese, assim como reflexão crítica das obras, do
+tema e do problema de pesquisa.
+Além da fundamentação teórica, deve-se descrever a metodologia utilizada no
+desenvolvimento do estudo, detalhando quais são os métodos, a abordagem, o
+universo da pesquisa e os procedimentos utilizados para a coleta dos dados. A
+apresentação e a análise dos resultados também integram o desenvolvimento do
+trabalho.
+Conclusão
+É a parte final do texto, devendo ser retomado o problema inicial e revistos os
+objetivos, comentando se foram atingidos, ou não, e enunciadas as principais
+contribuições. Sintetiza as principais ideias, bem como os resultados, avaliando
+pontos positivos e negativos. Geralmente inclui recomendações e sugestões para
+trabalhos futuros.
+Elementos pós-textuais
+Devem ser apresentados conforme 2.2.3.1 a 2.2.3.4.
+Referências
+Elemento obrigatório em todo trabalho acadêmico, trata-se de um "[...] conjunto
+padronizado de elementos descritivos, retirados de um documento, que permite sua
+identificação individual” (ABNT, 2025, p. 3).
+Para elaboração das referências, deve-se consultar a NBR 6023 (ABNT, 2025).
+As referências devem estar em uma lista única e no final do trabalho acadêmico.
+Sugere-se que as obras consultadas, mas não citadas no corpo do trabalho, sejam
+incluídas em um apêndice, pois obrigatoriamente todos os itens presentes na lista de
+referências devem ter sido citados no corpo de texto do trabalho. Regras e exemplos
+de referências, ver na seção 3.10.
+
+38
+
+Glossário
+Elemento opcional que relaciona as palavras ou expressões técnicas, utilizadas
+no texto, de uso restrito ou não conhecido, acompanhado das respectivas definições
+(ABNT, 2024). As palavras e termos do glossário devem estar dispostos em ordem
+alfabética. Ao relacioná-las, observar:
+a) alinhamento justificado;
+b) palavras e termos com a primeira letra maiúscula;
+c) separar as palavras e termos do significado por dois pontos e um espaço;
+d) o significado por extenso com a primeira letra maiúscula;
+e) espaçamento: 1,5 entre linhas.
+Modelo de glossário pode ser visualizado na Figura 16:
+Figura 16 - Modelo de apresentação de glossário
+
+Fonte: Elaborada pelos autores (2021).
+
+39
+
+Apêndice e Anexo
+Apêndice é o material elaborado pelo próprio autor, a fim de complementar sua
+argumentação (roteiro de entrevista, ilustração, tabela e outros).
+Anexo é o documento elaborado por outro autor, utilizado para dar suporte a
+fundamentação, argumentação, comprovação ou ilustração.
+Os títulos APÊNDICE e ANEXO devem estar centralizados na parte superior
+da folha, com letras em caixa alta e negrito. Devem ser identificados por sequência
+alfabética, espaço, travessão, espaço e respectivos títulos. Utilizam-se letras
+maiúsculas dobradas na identificação dos apêndices e anexos quando esgotadas as
+letras do alfabeto. Exemplo:
+
+APÊNDICE A – TÍTULO DO APÊNDICE
+ANEXO A – TÍTULO DO ANEXO
+
+Como elemento pós-textual, os apêndices e anexos devem iniciar sempre em
+nova página.
+Para sua citação no texto, os apêndices e anexos podem aparecer entre
+parênteses no final da frase ou livre de parênteses se inseridos na redação:
+
+Proteção externa do trabalho, deve conter informações que o identifiquem
+(APÊNDICE A).
+A proteção externa do trabalho, APÊNDICE A, deve conter informações que o
+identifiquem.
+
+A Figura 17 ilustra modelo de apêndice:
+
+40
+
+Figura 17 - Modelo de apêndice
+
+Fonte: Lazzari (2011, p. 49).
+
+41
+
+Índice
+Consiste na lista de “[...] palavras ou frases, ordenadas segundo determinado
+critério, que localiza e remete para as informações contidas num texto” (ABNT, 2004,
+p. 1). Elaborado conforme a NBR 6034 (ABNT, 2004).
+Quanto à sua ordenação, o índice pode ser em ordem alfabética, sistemática,
+cronológica, numérica ou alfanumérica. Quanto ao enfoque, pode ser: especial
+(autores, assuntos, títulos, pessoas, nomes geográficos, citações, anunciantes) e,
+geral (quando combinadas categorias do enfoque especial como, índice de autores e
+assuntos) (ABNT, 2004).
+O título ÍNDICE deve estar centralizado na parte superior da folha com as letras
+em caixa alta e negrito e deve definir sua função ou conteúdo. Exemplo: ÍNDICE DE
+ASSUNTO, ÍNDICE CRONOLÓGICO.
+O índice remissivo é utilizado com frequência e se trata de uma lista de
+assuntos, conceitos ou termos em ordem alfabética, seguidos da indicação da(s)
+página(s) da obra onde podem ser encontrados, conforme ilustrado na Figura 18:
+Figura 18 - Modelo de índice
+
+Fonte: Elaborada pelos autores (2021).
+
+O índice não deve ser confundido com sumário e lista.
+
+42
+
+3
+
+REGRAS GERAIS DE APRESENTAÇÃO
+Deve ser apresentada conforme 3.1 a 3.10.
+
+3.1 FORMATAÇÃO DO PAPEL E FONTE
+A formatação do papel e da fonte dos trabalhos acadêmicos da Udesc deve
+seguir os parâmetros expostos no Quadro 2.
+Quadro 2 - Formatação do papel e fonte
+Elementos
+
+Apresentação gráfica
+Branco, em formato A4 (21 cm x 29,7 cm)
+Os textos devem ser digitados na cor preta, podendo utilizar-se outras
+cores somente para as ilustrações (não são considerados o título, a
+fonte e legenda da ilustração, que devem ser na cor preta).
+
+Papel
+
+Os textos devem ser digitados no anverso da folha (frente), pois os
+trabalhos estarão disponíveis somente em formato digital.
+Os elementos pré-textuais (folha de rosto, agradecimentos, resumo,
+etc.), textuais (seções primárias) e pós-textuais (referências, apêndice
+etc.) devem iniciar sempre em nova página.
+
+Margens
+
+Esquerda e superior: 3 cm
+Direita e inferior: 2 cm
+Arial ou Times New Roman (padronizar uma fonte para todo o
+trabalho).
+
+Fonte
+
+Tamanho 12 para todo o trabalho.
+Tamanho 10: citações com mais de três linhas, paginação, notas de
+rodapé, dados internacionais de catalogação na publicação, legendas
+e fontes das ilustrações e tabelas.
+
+Fonte: Elaborado pelos autores (2021), com base na NBR 14724 (ABNT, 2024).
+
+43
+
+3.2 ALINHAMENTO, ESPAÇAMENTO E PARÁGRAFOS
+Os trabalhos acadêmicos devem seguir os parâmetros expostos no Quadro 3
+quanto ao alinhamento, espaçamento e parágrafo:
+Quadro 3 - Formatação do alinhamento, espaçamento e parágrafo
+Elementos
+
+Apresentação gráfica
+Capa, folha de rosto e folha de aprovação: centralizado.
+Natureza do trabalho (tipo do trabalho, objetivo, nome da instituição
+e área de concentração constante na folha de rosto e folha de
+
+Alinhamento
+
+aprovação): justificado.
+Indicativos de seção: alinhados à esquerda.
+Texto do corpo do trabalho: justificado.
+Referências: alinhadas à esquerda.
+1,5 entre linhas para todo o texto do trabalho.
+Simples entre linhas: citações com mais de três linhas, notas de
+
+Espaçamento rodapé, legendas e fontes das ilustrações e tabelas, natureza do
+trabalho e referências.
+Referências: separadas entre si por um espaço simples em branco.
+1,25 (1 tab.) da margem esquerda.
+Citações diretas com mais de três linhas: recuo de 4 cm da margem
+Parágrafo
+
+esquerda.
+Natureza do trabalho: recuo de 8 cm da margem esquerda.
+Evitar linhas órfãs ou viúvas (uma só linha de texto no final ou no
+início da página).
+
+Fonte: Elaborado pelos autores (2021), com base na NBR 14724 (ABNT, 2024).
+
+44
+
+Notas de rodapé
+Constituem notas de rodapé: notas de referência (indicam a referência
+completa de uma obra) e notas explicativas (esclarecem ou complementam o texto).
+A numeração das notas de rodapé é feita por algarismos arábicos, devendo ser única
+e consecutiva em todo trabalho, portanto, não reiniciando a cada página.
+As notas de rodapé são digitadas dentro das margens, separadas do texto por
+um espaço simples e por filete de 5 cm da margem esquerda (ABNT, 2024). Seu
+alinhamento deve ser “[...] a partir da segunda linha da mesma nota, abaixo da
+primeira letra da primeira palavra, de forma a destacar o expoente, sem espaço entre
+elas e com fonte menor” (ABNT, 2024, p. 10). Formatação das notas de rodapé:
+a) notas de referência: devem ser digitadas com espaçamento simples entre
+linhas, fonte 10 e com alinhamento à esquerda. Se houver mais de duas
+referências, não se deve deixar espaço entre elas;
+
+45
+
+b) notas explicativas: devem ser digitadas com espaçamento simples entre
+linhas, fonte 10 e alinhamento justificado.
+
+Indicativos de seção
+Os indicativos das seções que precedem os títulos devem ser em algarismos
+arábicos, alinhados à esquerda e separados dos títulos por um espaço de caractere
+(sem ponto) (ABNT, 2024).
+Os títulos das seções primárias devem iniciar sempre em nova página e
+localizados na parte superior da mancha gráfica, devendo ser separados do texto
+subsequente por um espaço de 1,5 entre linhas e com 0 pt antes e depois de
+espaçamento. Os títulos das seções secundárias, terciárias, quaternárias e quinárias
+devem aparecer na sequência do texto (sem iniciar nova página), separados do texto
+anterior e posterior por 1 (um) espaço de 1,5 linha em branco e com 0 pt antes e
+depois de espaçamento (ABNT, 2024). “Títulos que ocupem mais de uma linha devem
+ser, a partir da segunda linha, alinhados abaixo da primeira letra da primeira palavra
+do título” (ABNT, 2024, p. 10).
+Os indicativos de seção e espaçamento do texto estão ilustrados na Figura 19.
+
+46
+
+Figura 19 - Indicativos de seção e espaçamentos do texto
+
+Fonte: Elaborada pelos autores (2021).
+
+Títulos sem indicativo numérico
+Os títulos sem indicativo numérico (errata, agradecimentos, listas, resumos,
+sumário, referências, glossário, apêndices, anexos e índices) devem ser centralizados
+na parte superior da folha, digitados em caixa alta e em negrito, pois devem apresentar
+o mesmo recurso tipográfico das seções primárias do trabalho (ABNT, 2024).
+Devem ser iniciados sempre em nova página, localizados na parte superior da
+mancha gráfica e separados do texto que os sucede por um espaço de 1,5 entre linhas
+e com 0 pt antes e depois de espaçamento (Figura 20).
+
+47
+
+Figura 20 - Modelo de título sem indicativo numérico
+
+Fonte: Elaborada pelos autores (2021).
+
+Elementos sem título e sem indicativo numérico
+Os elementos sem título e sem indicativo numérico (folha de aprovação,
+dedicatória e epígrafe) devem iniciar sempre em nova página do trabalho.
+3.3 PAGINAÇÃO
+Todas as páginas do trabalho, a partir da folha de rosto, devem ser contadas
+sequencialmente, mas nem todas são numeradas. A numeração é colocada a partir
+da primeira página da parte textual (Introdução) em algarismos arábicos, fonte
+tamanho 10, no canto superior direito da folha, respeitando 2 cm da borda superior e
+direita da folha (Figura 21) (ABNT, 2024).
+
+48
+
+Figura 21 - Exemplo de paginação
+
+Fonte: Elaborada pelos autores (2021).
+
+Em trabalhos com mais de um volume, a numeração das páginas obedecerá a
+uma única sequência do primeiro ao último volume, e a indicação do número de
+volumes deve aparecer na capa e na folha de rosto, abaixo do título (ou subtítulo, se
+houver) (ABNT, 2024).
+3.4 NUMERAÇÃO PROGRESSIVA
+A NBR 6024 (ABNT, 2012a) fixa as condições para um sistema de numeração
+progressiva das divisões e subdivisões do texto de um documento. Seguindo a norma,
+os documentos são divididos em:
+a) seção primária: principal divisão do texto, representa os títulos das seções
+e capítulos. Nestas seções, os títulos devem figurar em letra maiúscula com
+destaque negrito, seguindo a sequência dos números inteiros a partir de 1
+e iniciados em página nova (anverso);
+b) seção secundária: representa a primeira subdivisão da seção primária.
+Sugere-se que figure em letra maiúscula e sem destaque;
+c) seção terciária: representa a subdivisão da seção secundária. Sugere-se
+que o título seja em letra minúscula com destaque tipográfico do tipo negrito;
+d) seção quaternária: representa a subdivisão da seção terciária. Sugere-se
+que o título seja em letra minúscula com destaque tipográfico do tipo itálico;
+e) seção quinária: representa a subdivisão da seção quaternária. Título em
+letra minúscula e sem destaque tipográfico.
+
+49
+
+Deve limitar-se a numeração progressiva até, no máximo, a seção quinária. No
+exemplo abaixo, é possível visualizar mais facilmente a forma como deve ser
+apresentada a numeração progressiva das divisões do texto.
+
+4 MATERIAL E MÉTODOS
+
+(seção primária)
+
+4.1 INSTITUIÇÕES PESQUISADAS
+
+(seção secundária)
+
+4.1.1 Universidade de São Paulo
+
+(seção terciária)
+
+4.1.1.1 Centro de Desportos
+
+(seção quaternária)
+
+4.1.1.1.1 Atletismo
+
+(seção quinária)
+
+Regras de apresentação da numeração progressiva
+Na apresentação da numeração progressiva deve-se (ABNT, 2012a):
+a) utilizar algarismos arábicos;
+b) o título das seções deve ser colocado após o indicativo numérico, alinhado
+à margem esquerda, separado por um espaço;
+c) não usar ponto, hífen, travessão ou qualquer sinal após o indicativo de
+seção ou de título;
+d) todas as seções devem conter um texto relacionado a elas;
+e) o indicativo de uma seção primária deve ser grafado em números inteiros;
+f) errata, agradecimentos, listas de ilustrações, lista de tabelas, lista de
+abreviaturas e siglas, lista de símbolos, resumo, sumário, referências,
+glossário, apêndice, anexo e índice devem ser centralizados, não
+numerados e com a mesma grafia das seções primárias;
+g) títulos que ocupem mais de uma linha devem ser alinhados a partir da
+segunda linha, abaixo da primeira letra da primeira palavra do título.
+
+50
+
+Alíneas
+As alíneas são usadas para indicar assuntos que não possuem título, conforme
+consta na NBR 6024 (ABNT, 2012a) e são dispostas graficamente da seguinte forma:
+a) o texto que antecede às alíneas termina em dois pontos;
+b) as alíneas devem ser indicadas alfabeticamente em letras minúsculas,
+seguidas de parênteses; devem ser usadas letras dobradas quando
+esgotadas as letras do alfabeto;
+c) as letras indicativas das alíneas devem ficar recuadas em relação à margem
+esquerda;
+d) o texto da alínea deve começar por letra minúscula e terminar em ponto e
+vírgula, havendo exceção da última alínea que deve terminar em ponto final;
+e) o texto da alínea deve terminar em dois pontos (se houver subalínea);
+f) a segunda e as seguintes linhas do texto da alínea devem estar alinhadas
+sob a primeira letra do texto da própria alínea.
+Subalínea
+Conforme a norma, a subalínea é uma subdivisão de uma alínea e segue as
+seguintes regras de apresentação:
+a) devem começar por travessão seguido de espaço;
+b) devem apresentar recuo em relação à alínea;
+c) o texto da subalínea deve começar por letra minúscula e terminar em ponto
+e vírgula, exceto a última alínea que termina em ponto final;
+d) a segunda e as seguintes linhas do texto da subalínea devem estar
+alinhadas sob a primeira letra do texto da própria subalínea.
+Abaixo, exemplo de alínea e subalínea:
+
+a) alínea:
+- subalínea;
+- subalínea.
+b) alínea;
+c) alínea.
+
+51
+
+3.5 ILUSTRAÇÕES
+As ilustrações complementam visualmente o texto e têm por finalidade
+esclarecer e facilitar a sua compreensão. Sua enumeração deve constar em lista prétexto, de acordo com a ordem apresentada no texto. São consideradas ilustrações:
+esquemas, fluxogramas, gráficos, quadros, organogramas, fotografias, plantas,
+mapas, desenhos, entre outras.
+Devem ser citadas no texto e inseridas o mais próximo possível ao trecho a que
+se referem. As ilustrações devem ser enquadradas nas mesmas margens adotadas
+para o texto; as de tamanho maior do que a página (como mapas, gráficos e outros)
+podem ser colocadas em formato paisagem no corpo do texto ou como anexo ou
+apêndice. Faz-se menção à localização da ilustração, sugerindo ao leitor consultar o
+anexo ou apêndice.
+No texto, deve-se sempre remeter o leitor a consultar as ilustrações em uma
+informação isolada, ou entre parênteses. Exemplos:
+
+Na Figura 21 mostram-se os dados coletados durante as entrevistas [...].
+Durante a primeira metade do século, a taxa de mortalidade infantil
+regrediu consideravelmente (Quadro 1).
+Conforme demonstrado no ANEXO B, o PIB do país se manteve estável
+durante a crise [...].
+
+Entre o texto e a identificação da ilustração (título), deixa-se um espaço de 1,5
+entre linhas.
+A identificação da ilustração aparece na sua parte superior, precedida da
+palavra designativa (gráfico, quadro, fotografia, planta, mapa, desenho, entre outras)
+sem negrito e seguida do número de ordem da ocorrência no texto, em algarismos
+arábicos, travessão e respectivo título. Deve constar em fonte 12, espaçamento 1,5
+entre linhas e alinhamento centralizado (ABNT, 2024). Exemplos:
+
+52
+
+Figura 1 – Transparência em revista
+Quadro 3 – Porcentagem de absorção de água tratada em cada unidade de
+tratamento.
+
+A fonte consultada deve ser indicada na parte inferior (elemento obrigatório,
+mesmo que seja elaborado pelo autor), apresentada em fonte tamanho 10,
+espaçamento simples entre linhas, alinhamento centralizado e seguir as normas de
+apresentação da NBR 10520 (ABNT, 2023) quanto à chamada de autor, pois deve
+apresentar número de página na qual foi consultada a ilustração. Para as Ilustrações
+adaptadas (gráficos, quadros, entre outras), utilizar “Fonte: Adaptado de Xxxxx (ano,
+p. x)”.
+O documento consultado deve constar na lista de referências no final do
+trabalho, conforme a NBR 6023 (ABNT, 2025).
+Na Figura 22, exemplifica-se a formatação de ilustração citada no texto:
+Fonte 12, espaçamento 1,5
+Alinhamento: centralizado
+
+1 espaço de 1,5
+entre linhas
+
+Figura 22 - Formatação de ilustração citada no texto
+
+Fonte: Allebrandt (2018, p. 91).
+
+Fonte 10, espaçamento simples
+Alinhamento: centralizado
+
+Na lista de referências:
+ALLEBRANDT, Ricardo. Equilíbrio vegeto produtivo e potencial enológico de videiras europeias sobre diferentes
+porta-enxertos. 2018. 98 p. Tese (Doutorado em Produção Vegetal) – Universidade do Estado de Santa Catarina, Centro
+de Ciências Agroveterinárias, Lages, 2018. Disponível em:
+http://sistemabu.udesc.br/pergamumweb/vinculos/00005f/00005f70.pdf. Acesso em: 13 jul. 2020.
+
+53
+
+Quando se tratar de uma ilustração elaborada pelo autor, deve-se, na fonte,
+mencionar essa informação e o ano em que a ilustração foi produzida, entre
+parênteses. Exemplo:
+
+Fonte: Elaborada pelo autor (2021).
+Fonte: Elaborada pela autora (2021).
+
+Outras informações necessárias à compreensão da ilustração devem ser
+colocadas na parte inferior, após sua identificação, como: legendas, notas e outras.
+Duas ou mais ilustrações podem constar da mesma página, cada uma contendo seu
+título/número e fonte. Quando se tratar de ilustrações relacionadas, podem ser
+agrupadas sob um mesmo título/número e fonte, com identificação para cada figura
+(Figura 8).
+3.6 TABELAS
+A principal diferença entre quadros e tabelas está relacionada ao conteúdo e à
+formatação. A ABNT não específica o tipo de conteúdo a ser incluído em um quadro,
+mas se trata de informações textuais. As bordas laterais de um quadro (esquerda e
+direita) devem ser fechadas.
+Para a apresentação das tabelas, a NBR 14724 (ABNT, 2024) remete às
+Normas de Apresentação Tabular do Instituto Brasileiro de Geografia e Estatística
+(IBGE), publicadas em 1993. Segundo IBGE (1993), a informação central de uma
+tabela é o dado numérico e deve seguir as seguintes regras de apresentação:
+a) a tabela deve estar inserida o mais perto possível do texto a que seus dados
+estão relacionados;
+b) a tabela deve apresentar título, cabeçalho, conteúdo, fonte e, se necessário,
+nota(s) explicativa(s);
+c) sua identificação aparece sempre no topo da tabela, precedida pela palavra
+designativa “Tabela”, seguida de seu número de ordem de ocorrência no
+
+54
+
+texto, travessão e título (em fonte 12, espaçamento 1,5 entre linhas e
+alinhamento centralizado – padrão Udesc);
+d) toda tabela deve conter cabeçalho para indicar o conteúdo das colunas;
+e) pode estar configurada em espaçamento simples entre linhas, com fonte
+tamanho 10 ou 12 e deve seguir o mesmo padrão em todo o trabalho;
+f) a moldura da tabela não deve possuir bordas laterais que delimitem a
+esquerda e a direita;
+g) não se utilizam traços horizontais para separar as linhas;
+h) a fonte consultada e eventuais notas devem aparecer na parte inferior da
+tabela (em fonte tamanho 10, espaçamento simples entre linhas e
+alinhamento centralizado – padrão Udesc);
+i) recomenda-se que a tabela seja apresentada em uma única página;
+j) se a tabela ocupar mais de uma página, deve ser continuada na(s) página(s)
+seguinte(s), repetindo seu título e cabeçalho em cada uma, com as
+seguintes indicações (alinhadas à direita): continua (na primeira página),
+continuação (nas páginas seguintes) e conclusão (na última página).
+A seguir, na Tabela 1 é exemplificado como deve ser apresentada em mais de
+uma página:
+
+55
+
+Tabela 1 - Estimativas da população residente nos municípios de Santa Catarina
+com data de referência em 01 de Julho de 2015
+
+Município
+Abdon Batista
+Abelardo Luz
+Agrolândia
+Agronômica
+Água Doce
+Águas de Chapecó
+Águas Frias
+Águas Mornas
+Alfredo Wagner
+Alto Bela Vista
+Anchieta
+Angelina
+Anita Garibaldi
+Anitápolis
+Antônio Carlos
+Apiúna
+Arabutã
+Araquari
+Araranguá
+Armazém
+Arroio Trinta
+Arvoredo
+Ascurra
+Atalanta
+Aurora
+Balneário Arroio do Silva
+Balneário Barra do Sul
+Balneário Camboriú
+Balneário Gaivota
+Balneário Piçarras
+Balneário Rincão
+Bandeirante
+Barra Bonita
+Barra Velha
+Bela Vista do Toldo
+Belmonte
+Benedito Novo
+Biguaçu
+Blumenau
+Bocaina do Sul
+Bom Jardim da Serra
+
+População
+Estimada
+2630
+17717
+10272
+5306
+7132
+6379
+2408
+6113
+9850
+1987
+5987
+5053
+7881
+3253
+8118
+10322
+4276
+32454
+65769
+8341
+3563
+2271
+7781
+3282
+5674
+11616
+9828
+128155
+9841
+20617
+12018
+2808
+1790
+26374
+6248
+2700
+11168
+64488
+338876
+3424
+4631
+
+Município
+Bom Jesus
+Bom Jesus do Oeste
+Bom Retiro
+Bombinhas
+Botuverá
+Braço do Norte
+Braço do Trombudo
+Brunópolis
+Brusque
+Caçador
+Caibi
+Calmon
+Camboriú
+Campo Alegre
+Campo Belo do Sul
+Campo Erê
+Campos Novos
+Canelinha
+Canoinhas
+Capão Alto
+Capinzal
+Capivari de Baixo
+Catanduvas
+Caxambu do Sul
+Celso Ramos
+Cerro Negro
+Chapadão do Lageado
+Chapecó
+Cocal do Sul
+Concórdia
+Cordilheira Alta
+Coronel Freitas
+Coronel Martins
+Correia Pinto
+Corupá
+Criciúma
+Cunha Porã
+Cunhataí
+Curitibanos
+Descanso
+Dionísio Cerqueira
+
+Fonte: Adaptado de IBGE (2015).
+
+(continua)
+População
+Estimada
+2821
+2156
+9598
+17477
+4943
+31765
+3654
+2639
+122775
+75812
+6243
+3398
+74434
+11992
+7297
+8993
+35054
+11617
+54188
+2654
+22129
+23663
+10374
+4028
+2776
+3362
+2912
+205795
+16156
+72642
+4184
+10201
+2534
+13826
+15132
+206918
+10982
+1943
+39231
+8505
+15339
+
+56
+
+Tabela 1 - Estimativas da população residente nos municípios de Santa Catarina
+com data de referência em 01 de Julho de 2015
+
+Município
+Dona Emma
+Doutor Pedrinho
+Entre Rios
+Ermo
+Erval Velho
+Faxinal dos Guedes
+Flor do Sertão
+Florianópolis
+Formosa do Sul
+Forquilhinha
+Fraiburgo
+Frei Rogério
+Galvão
+Garopaba
+Garuva
+Gaspar
+Gov.Celso Ramos
+Grão Pará
+Gravatal
+Guabiruba
+Guaraciaba
+Guaramirim
+Guarujá do Sul
+Guatambu
+Herval d'Oeste
+Ibiam
+Ibicaré
+Ibirama
+Içara
+Ilhota
+Imaruí
+Imbituba
+Imbuia
+Indaial
+Iomerê
+Ipira
+Iporã do Oeste
+Ipuaçu
+Ipumirim
+Iraceminha
+Irani
+
+População
+Estimada
+3997
+3937
+3151
+2078
+4464
+10771
+1600
+469690
+2576
+25129
+35942
+2249
+3217
+21061
+16786
+65024
+13944
+6478
+11231
+21612
+10374
+40878
+5097
+4739
+22204
+1970
+3313
+18412
+53145
+13493
+10933
+43168
+6040
+63489
+2880
+4637
+8823
+7262
+7499
+4139
+10118
+
+Município
+Irati
+Irineópolis
+Itá
+Itaiópolis
+Itajaí
+Itapema
+Itapiranga
+Itapoá
+Ituporanga
+Jaborá
+Jacinto Machado
+Jaguaruna
+Jaraguá do Sul
+Jardinópolis
+Joaçaba
+Joinville
+José Boiteux
+Jupiá
+Lacerdópolis
+Lages
+Laguna
+Lajeado Grande
+Laurentino
+Lauro Muller
+Lebon Régis
+Leoberto Leal
+Lindóia do Sul
+Lontras
+Luiz Alves
+Luzerna
+Macieira
+Mafra
+Major Gercino
+Major Vieira
+Maracajá
+Maravilha
+Marema
+Massaranduba
+Matos Costa
+Meleiro
+Mirim Doce
+
+Fonte: Adaptado de IBGE (2015).
+
+(continuação)
+População
+Estimada
+2025
+10989
+6347
+21263
+205271
+57089
+16398
+18137
+24061
+4023
+10608
+18980
+163735
+1672
+29008
+562151
+4862
+2142
+2246
+158732
+44650
+1470
+6598
+14996
+12105
+3218
+4644
+11393
+11908
+5701
+1815
+55313
+3402
+7899
+6963
+24345
+1999
+16024
+2690
+7066
+2424
+
+57
+
+Tabela 1 - Estimativas da população residente nos municípios de Santa Catarina
+com data de referência em 01 de Julho de 2015
+
+Município
+Modelo
+Mondaí
+Monte Carlo
+Monte Castelo
+Morro da Fumaça
+Morro Grande
+Navegantes
+Nova Erechim
+Nova Itaberaba
+Nova Trento
+Nova Veneza
+Novo Horizonte
+Orleans
+Otacílio Costa
+Ouro
+Ouro Verde
+Paial
+Painel
+Palhoça
+Palma Sola
+Palmeira
+Palmitos
+Papanduva
+Paraíso
+Passo de Torres
+Passos Maia
+Paulo Lopes
+Pedras Grandes
+Penha
+Peritiba
+Pescaria Brava
+Petrolândia
+Pinhalzinho
+Pinheiro Preto
+Piratuba
+Planalto Alegre
+Pomerode
+Ponte Alta
+Ponte Alta do Norte
+Ponte Serrada
+Porto Belo
+
+População
+Estimada
+4169
+11189
+9695
+8475
+17213
+2921
+72772
+4729
+4339
+13621
+14470
+2606
+22449
+17835
+7399
+2263
+1637
+2381
+157833
+7652
+2537
+16262
+18793
+3763
+7912
+4314
+7203
+4068
+29493
+2906
+9835
+6080
+18696
+3396
+4316
+2803
+31181
+4825
+3397
+11452
+19189
+
+(conclusão)
+População
+Município
+Estimada
+Porto União
+34882
+Pouso Redondo
+16424
+Praia Grande
+7370
+Presidente Castello Branco
+1650
+Presidente Getúlio
+16474
+Presidente Nereu
+2309
+Princesa
+2877
+Quilombo
+10149
+Rancho Queimado
+2849
+Rio das Antas
+6246
+Rio do Campo
+6113
+Rio do Oeste
+7392
+Rio do Sul
+67237
+Rio dos Cedros
+11157
+Rio Fortuna
+4582
+Rio Negrinho
+41602
+Rio Rufino
+2485
+Riqueza
+4740
+Rodeio
+11380
+Romelândia
+5220
+Salete
+7594
+Saltinho
+3897
+Salto Veloso
+4576
+Sangão
+11767
+Santa Cecília
+16510
+Santa Helena
+2309
+Santa Rosa de Lima
+2128
+Santa Rosa do Sul
+8309
+Santa Terezinha
+8864
+Sta. Terezinha do Progresso
+2666
+Santiago do Sul
+1365
+Santo Amaro da Imperatriz
+21920
+São Bento do Sul
+80936
+São Bernardino
+2545
+São Bonifácio
+2944
+São Carlos
+10944
+São Cristovão do Sul
+5360
+São Domingos
+9516
+São Francisco do Sul
+48606
+São João Batista
+32720
+São João do Itaperiú
+3634
+
+Fonte: Adaptado de IBGE (2015).
+
+58
+
+3.7 SIGLAS
+As siglas, geralmente formadas pelas letras iniciais dos vocábulos que
+compõem o nome de uma organização, instituição, entre outros, devem aparecer no
+texto inicialmente por extenso, seguidas da sigla entre parênteses. Exemplo:
+Universidade do Estado de Santa Catarina (Udesc). Nas inserções subsequentes,
+utilizar somente a sigla. Exemplo: Udesc.
+Na utilização de siglas, observam-se os seguintes critérios:
+a) no caso do uso de siglas já consagradas ou convencionais, a designação
+oficial deve ser respeitada:
+
+Empresa Brasileira de Correios e Telégrafos (ECT) - não EBCT
+
+b) não são colocados pontos intermediários e ponto final nas siglas:
+
+Instituto Médico Legal (IML) - não I.M.L.
+
+c) deve-se acrescentar a letra s, sempre minúscula para indicar o plural das
+siglas:
+
+“Não é permitido que sejam consultados números e situações de CPFs
+apenas digitando o nome da pessoa” (Brasil, 2010).
+
+d) siglas compostas por até três letras devem ser grafadas em letras
+maiúsculas:
+
+Organização das Nações Unidas (ONU)
+Santa Catarina (SC)
+
+59
+
+e) siglas formadas por mais de três letras, se pronunciáveis como uma palavra,
+devem ser grafadas apenas com a primeira letra maiúscula e as demais
+com letras minúsculas:
+
+Universidade do Estado de Santa Catarina (Udesc)
+Coordenação de Aperfeiçoamento de Pessoal de Ensino Superior
+(Capes)
+
+f) siglas formadas por mais de três letras devem ser escritas com todas as
+letras maiúsculas quando cada uma de suas letras ou parte delas é
+pronunciada separadamente:
+
+Imposto Predial Territorial Urbano (IPTU)
+Banco Nacional de Desenvolvimento Econômico (BNDES)
+
+g) deve-se manter a forma das siglas que forem criadas com letras maiúsculas
+e minúsculas para diferenciação:
+
+Conselho Nacional de Desenvolvimento Científico e Tecnológico
+(CNPq) – para diferenciá-lo de Conselho Nacional do Petróleo (CNP)
+
+h) para siglas de origem estrangeira, adota-se sua forma original, mesmo
+quando seu nome por extenso em português não corresponda
+perfeitamente à sigla:
+
+Organização das Nações Unidas para a Educação, a Ciência e a Cultura
+(Unesco)
+Sistema de Posicionamento Global (GPS)
+
+60
+
+3.8 EQUAÇÕES E FÓRMULAS
+As equações e fórmulas devem ser destacadas no texto, podendo ser
+numeradas com algarismos arábicos entre parênteses, alinhados à margem direita,
+permitindo o uso de uma entrelinha maior que comporte seus elementos (ABNT,
+2024).
+As chamadas às equações e fórmulas no texto devem ser feitas da seguinte
+forma: equação (1), fórmula (2).
+Exemplo 1:
+O Teorema de Pitágoras é uma equação (1) que pode ser aplicada em qualquer
+triângulo retângulo (triângulo que tem ângulo de 90°).
+
+𝑎2 + 𝑏 2 = 𝑐 2
+
+(1)
+
+Exemplo 2:
+A dopamina é um composto orgânico de função mista álcool, fenol e amina que
+apresenta fórmula (2) molecular:
+
+𝐶8 𝐻11 𝑁𝑂2
+
+(2)
+
+Exemplo 3:
+O modelo matemático de Huang (HUG), dado pelas equações (3) e (4) foi
+elaborado, visando ao fornecimento de uma descrição mais simples do crescimento
+bacteriano.
+y(t)= y0 + 𝑦𝑚𝑎𝑥 − ln [𝑒 𝑦0 + (𝑒 𝑦𝑚𝑎𝑥 − 𝑒 𝑦0 )𝑒 −𝜇𝑚𝑎𝑥 𝛽(𝑡) ]
+
+(3)
+
+1 1 + 𝑒 −4(𝑡−λ)
+𝛽(𝑡) = 𝑡 + ln
+4
+1 + 𝑒 4λ
+
+(4)
+
+onde 𝑦(𝑡) corresponde ao logaritmo natural da concentração celular (log UFC/g) no
+instante 𝑡 (dias), 𝑦max é o logaritmo natural da população bacteriana (log UFC/g) final,
+𝑦0 corresponde ao logaritmo natural da população bacteriana inicial (log UFC/g) e 𝛽(𝑡)
+é a função de transição.
+
+61
+
+Exemplo 4:
+Para o cálculo da intensidade fórmula (5) de Intensidade-Duração-Frequência
+apresentada, os valores encontrados seguindo os parâmetros apresentados e como
+o resultado é dado em mm/h, haverá também a sua conversão para m/s.
+
+𝑖=
+𝑖=
+𝑖 = 44,222
+
+𝐾𝑇 𝑚
+(𝑡 + 𝑏)𝑛
+
+(5)
+
+625,58 𝑥 50,171
+(60 + 8,89)0,691
+𝑚𝑚
+1𝑚
+1ℎ
+𝑥
+𝑥
+ℎ 1000 𝑚𝑚 3600 𝑠
+
+𝑖 = 1,2284 𝑥 10−5 𝑚⁄𝑠
+onde, 𝑖 é a intensidade média máxima de precipitação em mm/h; 𝑇 é o Período de
+retorno em anos; 𝑡 é a duração da chuva em minutos; 𝑘, 𝑚, 𝑏, 𝑛 são os parâmetros da
+equação, determinados para cada local.
+3.9 CITAÇÕES EM DOCUMENTOS
+A NBR 10520 (ABNT, 2023) contempla as diretrizes a apresentação de citações
+em documentos. Conforme a norma, citar é mencionar informação extraída de outra
+fonte.
+
+Todos os documentos citados deverão constar na lista de Referências.
+A não utilização e/ou uso inadequado de citações e referências pode
+configurar plágio: https://www.udesc.br/bu/manuais/plagio.
+
+62
+
+Sistema de chamada
+Ao redigir o texto, o autor deve escolher entre duas formas de apresentação
+das citações: o sistema de chamada alfabético ou o sistema de chamada numérico.
+O método selecionado deve ser seguido ao longo de todo o trabalho:
+a) sistema autor-data: a indicação da fonte é feita pelo sobrenome de cada
+autor ou pelo nome de cada entidade responsável, seguido(s) da data de
+publicação do documento e da(s) página(s) quando necessário (ABNT,
+2023). Exemplo:
+No texto:
+Não se considera “[...] a biblioteca digital como um continente passivo de
+textos, mas como um instrumento potencial que desestabiliza o atual sistema de
+relações” (Tammaro; Salarelli, 2008, p. 15).
+
+b) sistema numérico: a indicação da fonte é feita por numeração única e
+consecutiva, remetendo à lista de referências ao final do trabalho, do
+capítulo ou da parte, na mesma ordem em que aparecem no texto. A
+indicação da numeração pode ser feita entre parênteses, alinhada ao texto
+ou situada em expoente, após a pontuação que fecha a citação. Não deve
+ser utilizado quando houver notas (ABNT, 2002). Exemplo:
+
+No texto:
+Conforme Alvarenga “Livros e documentos são registros do conhecimento
+humano que é formado de conceitos” (15, p. 34).
+Ou
+Conforme Alvarenga “Livros e documentos são registros do conhecimento
+humano que é formado de conceitos” 15, p. 34.
+Na nota
+___________________
+15 Alvarenga, 2006, p. 34.
+
+Obs.: na lista de referências, deverá estar na 15ª posição.
+
+63
+
+Tipos de citação
+Conforme a NBR 10520 (ABNT, 2023), as citações podem ser:
+a) citações diretas: transcrições literais do texto do autor consultado,
+acompanhadas de informações sobre a fonte (autor, ano, página);
+b) citações indiretas: são reproduções de ideias ou pensamentos de um autor
+consultado, transcritas com as palavras do autor do trabalho (paráfrase);
+c) citação de citação: menção direta ou indireta de um texto de um autor o qual
+não se teve acesso ao documento original. Ou seja, a informação foi colhida
+de um autor que mencionou outro.
+
+Os exemplos a seguir seguem o modelo autor-data.
+Dicas quanto à pontuação, uso de letras maiúsculas/minúsculas e
+espaçamento entre linhas em citações; ver seção 3.9.3.12.
+
+Citação direta
+A seguir são apresentados exemplos de citação direta curta (até três linhas) e
+citação direta longa (mais de três linhas).
+Citação direta curta (até três linhas)
+As citações diretas com até três linhas “[...] devem estar contidas entre aspas
+duplas. As aspas simples são utilizadas para indicar citação no interior da citação”
+(ABNT, 2023, p. 11). Devem apresentar autor, ano e página.
+
+64
+
+Exemplos com até três autores: até três autores citam-se todos.
+
+“Texto texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto” (Silva, 2020, p. 12).
+“Texto texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto” (Souza; Santos; Matos, 2020, p. 10).
+Ou
+Conforme Silva (2020, p. 12), “Texto texto texto texto texto texto texto
+texto texto texto texto texto texto texto texto texto”.
+Conforme Souza, Santos e Matos (2020, p. 10), “Texto texto texto texto
+texto texto texto texto texto texto texto texto texto”.
+
+Exemplos com mais de três autores: quando a obra tiver mais de três
+autores, cita-se o primeiro autor seguido da expressão o et al. (e outros) ou cita-se
+todos os autores.
+
+“Texto texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto” (Maciel et al., 2020, p. 12).
+“Texto texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto” (Maciel; Brum; Del Bianco; Costa, 2020, p. 10).
+Ou
+Conforme Maciel et al. (2020, p. 12), “Texto texto texto texto texto texto
+texto texto texto texto texto texto texto texto texto texto”.
+Conforme Maciel, Brum, Del Bianco e Costa (2020, p. 10), “Texto texto
+texto texto texto texto texto texto texto texto texto texto texto texto texto texto”.
+
+65
+
+Na citação seguido da expressão o et al.:
+“Herein, we have leveraged methylation profiling to define the sCNA and
+immune landscape of primary prostate cancer in a diverse cohort with
+integrated genetic ancestry information and clinical follow-up” (Vidotto et al.,
+2023, p. 12).
+Na referência seguido da expressão o et al.:
+VIDOTTO, Thiago et al. Association of self-identified race and genetic
+ancestry with the immunogenomic landscape of primary prostate cancer. Jci
+Insight, [s. l.] v. 8, n. 3, p. 1-16, 8 fev. 2023. Disponível em:
+https://pubmed.ncbi.nlm.nih.gov/36752203/. Acesso em: 16 ago. 2023.
+Ou
+Na citação com todos os autores:
+“Herein, we have leveraged methylation profiling to define the sCNA and
+immune landscape of primary prostate cancer in a diverse cohort with
+integrated genetic ancestry information and clinical follow-up” (Vidotto; Imada;
+Faisal; Murali; Mendes; Kaur; Zheng; Xu; Schaeffer; Isaacs; Sfanos;
+Marchionni; Lotan, 2023, p. 12).
+Na referência com todos os autores:
+VIDOTTO, Thiago; IMADA, Eddie L.; FAISAL, Farzana; MURALI, Sanjana;
+MENDES, Adrianna A.; KAUR, Harsimar; ZHENG, Siqun; XU, Jianfeng;
+SCHAEFFER, Edward M.; ISAACS, William B.; SFANOS, Karen S.;
+MARCHIONNI, Luigi; LOTAN, Tamara L. Association of self-identified race
+and genetic ancestry with the immunogenomic landscape of primary prostate
+cancer. Jci Insight, [s. l.] v. 8, n. 3, p. 1-16, 8 fev. 2023. Disponível em:
+https://pubmed.ncbi.nlm.nih.gov/36752203/. Acesso em: 16 ago. 2023.
+
+66
+
+Citação direta longa (mais de três linhas)
+As citações diretas com mais três linhas “[...] deve ser destacada com recuo
+padronizado em relação à margem esquerda, com letra menor que a utilizada no texto,
+em espaço simples e sem as aspas. Recomenda-se o recuo de 4 cm” (ABNT, 2023,
+p. 12). Ou seja, recuo de 4 cm e fonte tamanho 10 para as citações diretas longas,
+com espaçamentos simples entre linhas. As citações devem ser precedidas e
+antecedidas por um (1) espaço de 1,5 entre linhas.
+Exemplos:
+Nesse contexto, o combate às fake news compreende:
+Texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto texto texto texto texto texto (Silva, 2020,
+p. 21).
+
+Ou
+Nesse contexto, de acordo com Souza et al. (2020, p. 30), o combate às
+fake news compreende:
+Texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto texto texto texto texto texto.
+
+Citação indireta
+Nas citações indiretas não há necessidade de usar aspas e indicar a página,
+considerando que é uma paráfrase. Faz-se necessário apresentar o autor e ano.
+Quando a obra tiver mais de três autores, pode-se usar o et al. ou citar todos os
+autores.
+
+67
+
+Exemplos com até três autores:
+
+Texto texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto (Silva, 2020).
+Texto texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto (Souza; Santos; Matos, 2020).
+Ou
+Silva (2020) explica que texto texto texto texto texto texto texto texto
+texto texto texto texto texto texto texto texto texto.
+Souza, Santos e Matos (2020) atestam que texto texto texto texto texto
+texto texto texto texto texto texto texto texto texto texto texto texto.
+
+Exemplos com mais de três autores:
+
+Texto, texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto (Maciel et al., 2020).
+Ou
+Maciel et al. (2020) explicam que texto texto texto texto texto texto texto
+texto texto texto texto texto texto texto texto texto texto.
+Conforme Maciel, Brum, Del Bianco e Costa (2020), Texto texto texto
+texto texto texto texto texto texto texto texto texto texto texto texto texto.
+
+68
+
+Citação de citação
+Citação de citação é a citação direta ou indireta de uma obra a qual não se teve
+acesso ao documento original, ou seja, a informação foi colhida de um autor que
+mencionou outro (ABNT, 2023). Usa-se a expressão apud (citado por). Somente a
+referência completa do documento consultado deverá constar na lista de referências.
+Exemplos:
+
+Segundo Silva (2015, p. 10 apud Sousa, 2020, p. 3), “[...] texto texto texto
+texto texto texto texto texto texto texto texto texto texto texto texto texto texto”.
+“Texto texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto” (Vianna, 1986, p. 172 apud Segatto, 1995, p. 214).
+Conforme Silva (1972 apud Nardi, 1993), texto texto texto texto texto
+texto texto texto texto texto texto texto texto texto texto texto texto.
+Texto texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto texto texto texto texto (Silva, 1972 apud Nardi,
+1993).
+
+Recomendamos dar preferência ao uso de citações diretas e indiretas em
+detrimento das citações de citações (apud), por garantirem maior rigor
+acadêmico.
+
+69
+
+Regras gerais de apresentação
+Explicitam-se algumas regras gerais de apresentação, de acordo com a NBR
+10520 (ABNT, 2023).
+Supressões: [...]
+Supressões [...] são empregadas para omitir ou suprimir parte do texto que
+achar pertinente.
+
+Conforme Silva (2020, p. 12), “[...] texto texto texto texto texto texto texto
+texto texto texto texto texto texto texto texto [...]”.
+
+Ênfase ou destaque: grifo nosso
+Os trechos da citação podem ser enfatizados por meio do uso de negrito, sublinhado
+ou itálico. Indicar essa alteração na chamada da citação com a expressão (grifo nosso)
+quando o destaque foi realizado por terceiros (autor do trabalho).
+
+“[...] texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto” (Souto, 2020, p. 46, grifo nosso).
+
+Interpolações, acréscimos ou comentários: [ ]
+O sinal [ ] é utilizado nas citações diretas para complementar ou acrescentar
+informações no texto.
+“Texto texto texto texto texto texto [texto texto texto] texto texto texto
+texto texto texto” (Silva, 2020, p. 10).
+
+70
+
+Dados obtidos em fontes não publicadas formalmente
+Para citações de fontes não publicadas, como palestras, debates, entrevistas,
+comunicações e discursos, elas devem ser indicadas no texto ou em nota quando
+utilizadas.
+
+No texto:
+O Entrevistado 5 considera as bibliotecas universitárias comunitárias
+como iniciativas populares de mediação de informação1.
+Na nota:
+_________________
+1 Entrevista de pesquisa concedida em 10 de março de 2020, na cidade do Rio de Janeiro.
+
+Tradução nossa
+Quando a citação for traduzida pelo autor, utilizar a expressão tradução nossa
+ou tradução própria.
+
+“[...] texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto” (Smith, 1989, p. 100, tradução nossa).
+
+Coincidências de sobrenome na mesma obra
+Quando em uma mesma obra houverem dois ou mais autores com o mesmo
+sobrenome não é necessário fazer a diferenciação por prenome.
+De acordo com Gomes e Gomes (2019).
+Ou
+(Gomes; Gomes, 2019)
+
+71
+
+Coincidências de sobrenomes e data
+Para diferenciar autores com o mesmo sobrenome e data de publicação,
+acrescenta-se a inicial do prenome ou prenome por extenso, para distinguir os nomes
+que tiverem a mesma inicial.
+(Barbosa, C., 1965)
+(Barbosa, O., 1965)
+Ou
+(Barbosa, Cássio, 1965)
+(Barbosa, Celso, 1965)
+Ou
+Segundo C. Barbosa (1965)
+Segundo O. Barbosa (1965).
+Ou
+De acordo com Cássio Barbosa (1965) e Celso Barbosa (1965)
+
+Coincidências de autor e ano
+Para citações do mesmo autor em documentos diferentes, publicados no
+mesmo ano, usam-se letras minúsculas para distinguir.
+
+Conforme Silva (2020a, p. 7)
+
+Conforme Silva (2020a)
+
+Conforme Silva (2020b, p. 7)
+
+Conforme Silva (2020b)
+
+Citações indiretas do mesmo autor
+Para citações indiretas do mesmo autor em documentos com datas diferentes,
+separa-se o ano com vírgula quando eles são mencionados simultaneamente em
+ordem cronológica.
+
+72
+
+(Silva, 2010, 2015, 2017)
+
+(Souza; Silva; Santos, 2015, 2020)
+
+Conforme Silva (2010, 2015, 2017)
+
+Souza, Silva e Santos (2015, 2020)
+
+Citações indiretas de autores diferentes
+Para citações indiretas de diferentes autores e mencionados simultaneamente,
+devem ser separados por ponto-e-vírgula, em ordem alfabética.
+
+Texto texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto (Fonseca, 2000; Paiva, 2015; Silva, 2002).
+
+Notas
+São notas que aparecem na margem inferior das páginas em que são
+mencionadas. Servem para focalizar os pontos que não devem ser incluídos no texto,
+a fim de não o sobrecarregar. Sugere-se não utilizar simultaneamente notas
+explicativas com notas de referência.
+Podem ser:
+a) notas de referência: indicam as fontes consultadas ou remetem a outras
+partes da obra onde o assunto foi abordado;
+b) notas explicativas: evitam explicações longas dentro do texto, prejudiciais à
+linha de argumentação.
+As notas são usadas para:
+a) esclarecimentos (comentários, explanações ou traduções);
+b) citação de autoridade (indica fonte consultada);
+c) referências cruzadas (indica outras partes da obra ou de outras obras sobre
+o assunto mencionado).
+
+73
+
+Notas de referência
+São as notas que indicam fontes consultadas ou remetem a outras partes da
+obra em que o assunto foi abordado (sistema numérico de citações).
+A numeração das notas de referência é feita em algarismos arábicos, devendo
+ter numeração única e consecutiva, portanto, não iniciada em cada página.
+
+No texto:
+Segundo Faria¹, texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto texto texto.
+No rodapé da página:
+
+Fonte 10
+Espaçamento simples entre linhas
+Alinhamento à esquerda
+
+______________
+¹ Faria, José Eduardo (org.). Direitos humanos, direitos sociais e justiça. São Paulo:
+Malheiros, 1994.
+Deixe um (1) espaço entre o indicativo numérico e o texto.
+A Segunda linha deve estar alinhada abaixo da primeira letra da primeira palavra.
+
+Notas explicativas
+São usadas para comentários, esclarecimentos que não podem ser incluídos
+no texto e aparecem no rodapé da página. A norma recomenda que a numeração seja
+iniciada a cada capítulo ou parte e não a cada página. Coloca-se o número de
+chamada do texto. As citações deverão ter numeração única e consecutiva o número
+após o término da citação.
+
+No texto:
+Texto texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto¹.
+No rodapé da página:
+
+Fonte 10
+Espaçamento simples entre linhas
+Alinhamento à esquerda
+
+______________
+¹ comentários, esclarecimentos, texto, texto, texto, texto, texto, texto, texto, texto, texto, texto,
+texto, texto, texto, texto, texto, texto, texto, texto, texto, texto, texto, texto, texto, texto.
+Deixe um (1) espaço entre o indicativo numérico e o texto.
+A Segunda linha deve estar alinhada abaixo da primeira letra da primeira palavra.
+
+74
+
+Citações diretas de e-books e documentos não paginados
+Os E-books podem ser acessados em diferentes plataformas e dispositivos
+digitais; alguns deles possuem paginação fixa; outros, nem sempre, podendo a
+numeração das páginas variar conforme a configuração de leitura e o tamanho da
+fonte. Há, ainda, E-books que apresentam a posição e tempo de leitura.
+Para E-books paginados, proceder citação direta curta ou longa, informando
+o número de página:
+
+Para E-books não paginados, a NBR 10520 (ABNT, 2023) não especifica
+citação direta para esse tipo de documento, mas como indica “o número localizador,
+em publicações eletrônicas, deve ser precedido pela respectiva abreviatura (local.)”
+(ABNT, 2023, p. 10), sugere-se indicar o capítulo, parte, ou posição de leitura do
+trecho citado.
+No texto:
+Conforme Krenak (2020, local. 53), “Texto texto texto texto texto texto texto
+texto texto texto texto texto texto texto”.
+Na lista de referências:
+KRENAK, Ailton. O amanhã não está à venda. São Paulo: Companhia das Letras, 2020. E-book. Não
+paginado. Disponível em: https://www.amazon.com.br/. Acesso em: ago. 2023.
+
+75
+
+Para demais tipos de documentos não paginados (ou com paginação
+irregular), inserir essa informação na chamada de autor:
+
+No texto:
+“Texto texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto texto texto” (Sistema [...], 1993).
+Na lista de referências:
+SISTEMA de ensino Tamandaré: sargento do Exército e da Aeronáutica. [Rio de Janeiro]:
+Colégio Tamandaré, 1993. Não paginado.
+
+Para citações diretas de documentos não paginados, convém a indicação da
+localização:
+Para documentos online, inserir essa informação na chamada de autor:
+
+No texto:
+"Texto texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto texto texto” (Brasil, 1988, cap. V, art. 49, inc. I).
+Na lista de referências:
+BRASIL. Constituição (1988). Constituição da República Federativa do Brasil de 1988.
+Brasília, DF: Casa Civil, 1988. Disponível:
+https://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm. Acesso em: 16 ago. 2023.
+
+76
+
+Dicas quanto ao uso de sinais gráficos, letras maiúsculas e minúsculas e
+espaçamento entre linhas em citações
+Em citações diretas, observar como o autor apresenta o trecho a ser
+transposto ao trabalho acadêmico: inicial maiúscula ou minúscula e ponto final.
+Transcrever exatamente como o autor expõe o trecho e, se necessário, fazer recorte,
+utilizando o sinal de supressão [...].
+Exemplos em citações diretas curtas:
+Autor inicia com
+letra maiúscula.
+
+Conforme Alvarenga (2006, p. 87): “Livros e documentos são registros do
+conhecimento humano que é formado de conceitos”.
+Na citação, o ponto deve ser usado para
+encerrar a frase e não a citação.
+
+O sinal de supressão [...] indica a retirada de um trecho
+(recorte) da frase do autor. Inicial minúscula.
+
+Não se considera “[...] a biblioteca digital como um continente passivo de textos,
+mas como um instrumento potencial que desestabiliza o atual sistema de relações”
+(Tammaro; Salarelli, 2008, p. 157).
+
+Ponto final depois deve ser usado para
+encerrar a frase e não a citação.
+
+“O desejo de ter todas as bibliotecas disponíveis no próprio computador é ainda
+hoje muito difundido na sociedade [...]” (Tammaro; Salarelli, 2008, p. 113).
+Recorte de um trecho da frase do autor, [...] significa
+que a frase do autor continua. Ponto final para encerrar
+a frase.
+
+Em citações diretas longas, seguem-se os mesmos apontamentos quanto aos
+sinais gráficos (exceto as aspas), bem como o uso de letras maiúsculas e minúsculas.
+
+77
+
+Exemplo em citações diretas longas:
+
+Nesse contexto, o combate às fake news compreende:
+
+1 espaço de 1,5
+entre linhas
+
+Fonte 10; sem aspas;
+espaçamento simples entre
+linhas; recuo de 4 cm da
+margem esquerda
+
+[...] texto texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto texto. (Silva, 2020, p. 21).
+
+Conforme visto acima, é primordial chegar às fontes de informação que
+veiculam tais notícias, etc.
+Em citações indiretas, por tratar-se de reproduções de ideias ou pensamentos
+de um autor consultado, transcritas com as palavras do autor do trabalho (paráfrase),
+observa-se somente a pontuação.
+
+Exemplo em citações indiretas:
+Texto texto texto texto texto texto texto texto texto texto texto texto texto texto
+texto texto texto texto (Souza; Santos; Matos, 2020).
+Deve-se utilizar ponto final somente no final
+da sua frase, após a chamada de autor.
+
+Os apontamentos dessa subseção são válidos para citação de citação (apud).
+
+78
+
+3.10 REFERÊNCIAS
+A NBR 6023 (ABNT, 2025) orienta a elaboração de referências de diversos
+materiais: artigo, dissertação, documento jurídico, livro, patente, tese, filme, vídeo,
+foto, site e outros. Destaca-se que toda a obra citada deverá constar na lista de
+referências, ordenada em ordem alfabética.
+A referência pode aparecer na nota de rodapé, em lista de referências (nos
+capítulos ou no final da obra) e quando antecede resumos e resenhas (quando esses
+são apresentados em forma avulsa, ou seja, quando os resumos e resenhas não estão
+inseridos no trabalho acadêmico). Sobre a formatação:
+a) na lista de referências: “As referências devem ser elaboradas em espaço
+simples, alinhadas à margem esquerda do texto e separadas entre si por
+uma linha em branco de espaço simples” (ABNT, 2025, p. 5);
+b) em notas de rodapé: “[...] devem ser alinhadas à margem esquerda do texto
+e, a partir da segunda linha da mesma referência, abaixo da primeira letra
+da primeira palavra, de forma a destacar o expoente e sem espaço entre
+elas” (ABNT, 2025, p. 5).
+Na Figura 23, exemplifica-se o modelo de lista de referências:
+Figura 23 - Modelo de lista de referências: alinhamento e espaçamento
+
+Fonte: Elaborada pelos autores (2021).
+
+79
+
+O recurso tipográfico (negrito, itálico) utilizado para destacar o título de cada
+referência deve ser uniforme em todas as referências da lista. Excetuam-se os casos
+de obras sem indicação de autoria e ou responsabilidade “[...] cujo elemento de
+entrada seja o próprio título, já destacado pelo uso de letras maiúsculas na primeira
+palavra, incluindo artigo (definido ou indefinido) e palavra monossilábica iniciais [...]”
+(ABNT, 2025, p. 5).
+Modelos de referências
+A seguir, exibem-se os modelos de referências para cada tipo de obra e
+formato, conforme a NBR 6023 (ABNT, 2025). Os exemplos contêm apenas os
+elementos essenciais da referência. Para conhecer os elementos complementares,
+leia-se a norma.
+Todas as explicações a seguir estão embasadas na NBR 6023. Alguns
+exemplos de referência foram extraídos da própria norma (ABNT, 2025).
+Livro, dicionário, folheto, manual, enciclopédia, trabalho acadêmico, etc.
+Os elementos essenciais para livro, dicionário, manual e folheto, etc. são:
+
+SOBRENOME, Prenome do autor. Título da obra: subtítulo (se houver).
+Número da edição (se houver). Local de publicação: Editora, data de
+publicação.
+
+O título da obra deve ser destacado em negrito ou itálico. O sobrenome do autor
+fica em maiúsculo, já o prenome pode ser escrito por extenso ou abreviado. Nas obras
+com mais de três autores, pode aplicar-se o et al. (e outros) após o primeiro autor ou
+nomear todos:
+a) um autor:
+GIL, Antônio Carlos. Como elaborar projetos de pesquisa. 4. ed. São Paulo: Atlas,
+2002.
+
+80
+
+GIL, A. C. Como elaborar projetos de pesquisa. 4. ed. São Paulo: Atlas, 2002.
+b) dois autores:
+MARCONI, Marina de Andrade; LAKATOS, Eva Maria. Técnicas de pesquisa:
+planejamento e execução de pesquisas, amostragens e técnicas de pesquisa,
+elaboração, análise e interpretação de dados. 8. ed. São Paulo: Atlas, 2018.
+MARCONI, M. A.; LAKATOS, E. M. Técnicas de pesquisa: planejamento e
+execução de pesquisas, amostragens e técnicas de pesquisa, elaboração, análise e
+interpretação de dados. 8. ed. São Paulo: Atlas, 2018.
+c) três autores:
+KIME, Linda Almgren; CLARK, Judy; MICHAEL, Beverly. Álgebra na universidade:
+um curso pré-cálculo. 5. ed. Rio de Janeiro: LTC, 2014.
+KIME, L. A.; CLARK, J.; MICHAEL, B. Álgebra na universidade: um curso précálculo. 5. ed. Rio de Janeiro: LTC, 2014.
+d) mais de três autores:
+TAYLOR, Robert; LEVINE, Denis; MARCELLIN-LITTLE, Denis; MILLIS, Darryl.
+Reabilitação e fisioterapia na prática de pequenos animais. São Paulo: Roca,
+2008.
+TAYLOR, R.; LEVINE, D.; MARCELLIN-LITTLE, D.; MILLIS, D. Reabilitação e
+fisioterapia na prática de pequenos animais. São Paulo: Roca, 2008.
+TAYLOR, Robert et al. Reabilitação e fisioterapia na prática de pequenos
+animais. São Paulo: Roca, 2008.
+TAYLOR, R. et al. Reabilitação e fisioterapia na prática de pequenos animais.
+São Paulo: Roca, 2008.
+
+Padronizar em todas as referências a apresentação dos prenomes dos
+autores: abreviados ou por extenso.
+Ver seção 3.10.2 Transcrição dos elementos
+
+81
+
+Livro eletrônico (E-book)
+Os elementos essenciais para livros no meio eletrônico ou digital são:
+
+SOBRENOME, Prenome do autor. Título da obra: subtítulo (se houver).
+Número da edição (se houver). Local de publicação: Editora, data de
+publicação. Descrição física. Disponível em: https://. Acesso em: 10 jun.
+2020.
+
+Acrescentar na referência a descrição física do suporte (CD, DVD, pen drive,
+e-book, disco blu-ray e outros). No caso de documentos disponíveis online, o
+endereço eletrônico e a data de acesso devem ser registrados.
+BOUDON, Raymond; BOURRICAUD, François. Dicionário crítico de sociologia. 2.
+ed. São Paulo: Ática, 2000. 2 CD-ROM.
+HUGHES-HALLETT, Deborah. Cálculo: a uma e a várias variáveis: volume 2. 5. ed.
+Rio de Janeiro: LTC, 2012. E-book. Disponível em:
+http://site.ebrary.com/lib/bibliotecaudesc/Doc?id=10707390. Acesso em: 17 mar.
+2015.
+GODINHO, Thais. Vida organizada: como definir prioridades e transformar seus
+sonhos em objetivos. São Paulo: Gente, 2014. E-book.
+Trabalho de conclusão de curso, dissertação e tese
+Os elementos essenciais para trabalhos acadêmicos são:
+
+SOBRENOME, Prenome do autor. Título da obra: subtítulo (se houver). Ano
+de depósito. Tipo do trabalho (grau e curso) - Vinculação acadêmica, local de
+apresentação/defesa, data.
+
+O título da obra deve ser destacado em negrito ou itálico. O sobrenome do autor
+fica em maiúsculo, já o prenome pode ser escrito por extenso ou abreviado. Nas obras
+
+82
+
+com mais de três autores, pode aplicar-se o et al. (e outros) após o primeiro autor ou
+nomear todos:
+MADALENA, C. da S. Competências empreendedoras para prestação de
+serviços de informação por bibliotecários no Brasil. 2018. Dissertação (Mestrado
+em Gestão da Informação) – Centro de Ciências Humanas e da Educação,
+Universidade do Estado de Santa Catarina, Florianópolis, 2018.
+MEIRA JÚNIOR, Fernando. A burocracia no ingresso no ensino superior, um
+estudo sobre a documentação exigida e a política de cotas. 2017. Trabalho de
+Conclusão de Curso (Especialização em Gestão Pública Universitária) – Centro de
+Ciências da Administração e Socioeconômicas, Universidade do Estado de Santa
+Catarina, Florianópolis, 2017.
+SABADIN, Karina. Avaliação da conservação de bebida isotônica elaborada
+com conservante e diferentes estabilizantes. 2019. Trabalho de Conclusão de
+Curso (Bacharelado em Engenharia de Alimentos) – Centro de Educação Superior
+do Oeste, Universidade do Estado de Santa Catarina, Pinhalzinho, 2019.
+SALES, F. de. 'A gente quer ter voz ativa, no nosso destino mandar':
+contribuições da música como fonte de informação para a prática pedagógica nas
+bibliotecas escolares. 2016. Tese (Doutorado em Educação) – Centro de Ciências
+Humanas e da Educação, Universidade do Estado de Santa Catarina, Florianópolis,
+2016.
+Trabalho de conclusão de curso, dissertação e tese em meio eletrônico
+Os elementos essenciais para trabalhos acadêmicos em meio eletrônico ou
+digital são:
+
+SOBRENOME, Prenome do autor. Título da obra: subtítulo (se houver). Ano
+de depósito. Tipo do trabalho (grau e curso) - Vinculação acadêmica, local de
+apresentação/defesa, data. Descrição física. Disponível em: https://. Acesso
+em: 10 jun. 2020.
+
+Acrescentar na referência a descrição física do suporte (CD, DVD, pen drive,
+disco blu-ray e outros). No caso de documentos disponíveis online, o endereço
+eletrônico e a data de acesso devem ser registrados.
+
+83
+
+SABADIN, Karina. Avaliação da conservação de bebida isotônica elaborada
+com conservante e diferentes estabilizantes. 2019. Trabalho de Conclusão de
+Curso (Bacharelado em Engenharia de Alimentos) – Centro de Educação Superior
+do Oeste, Universidade do Estado de Santa Catarina, Pinhalzinho, 2019. 1 CDROM.
+NASCIMENTO, A. L. do. Características físico-químicas e microbiológicas de
+queijo colonial artesanal de leite cru obtido de vacas jerseys suplementadas
+com óleos essenciais. 2024. Dissertação (Pós-Graduação Acadêmico em
+Zootecnia) – Centro de Educação Superior do Oeste, Universidade do Estado de
+Santa Catarina, Chapecó, 2024. Disponível em:
+https://repositorio.udesc.br/handle/UDESC/1219. Acesso em: 17 jun. 2025.
+Parte de livro
+Inclui seção, capítulo, volume, fragmento e outras partes de uma obra, com
+autor ou título próprios. Os elementos essenciais são:
+
+SOBRENOME, Prenome do autor. Título da parte: subtítulo (se houver). In:
+SOBRENOME, Prenome do autor. Título da obra: subtítulo (se houver).
+Número da edição (se houver). Local de publicação: Editora, data de
+publicação. Página inicial e final.
+
+Acrescenta-se a expressão In: depois autor e título da parte. O título da obra
+deve ser destacado em negrito ou itálico. O sobrenome do autor fica em maiúsculo, já
+o prenome pode ser escrito por extenso ou abreviado. Nas obras com mais de três
+autores, pode aplicar-se o et al. (e outros) após o primeiro autor ou nomear todos. A
+descrição física da parte deve ser informada.
+LÜDORF, Sílvia Maria Agatti. O projeto de pesquisa. In: LÜDORF, Sílvia Maria Agatti
+Metodologia da pesquisa: do projeto ao trabalho de conclusão de curso. 2. ed.
+Curitiba: Appris, 2017. p. 40-45.
+
+84
+
+Parte de trabalhos acadêmicos
+Inclui seção, capítulo, volume, fragmento e outras partes de uma obra, com
+autor e/ou título próprios. Os elementos essenciais são:
+
+SOBRENOME, Prenome do autor. Título da parte: subtítulo (se houver). In:
+SOBRENOME, Prenome do autor. Título da obra: subtítulo (se houver).
+Ano de depósito. Tipo do trabalho (grau e curso) - Vinculação acadêmica,
+local de apresentação/defesa, data. Página inicial e final.
+
+Acrescenta-se a expressão In: depois autor e título da parte. O título da obra
+deve ser destacado em negrito ou itálico. O sobrenome do autor fica em maiúsculo, já
+o prenome pode ser escrito por extenso ou abreviado. Nas obras com mais de três
+autores, pode aplicar-se o et al. (e outros) após o primeiro autor ou nomear todos. A
+descrição física da parte deve ser informada.
+SALES, F. de. Caminhando contra o vento – bibliotecas escolar e informação. In:
+SALES, F. de. “A gente quer ter voz ativa, no nosso destino mandar”:
+contribuições da música como fonte de informação para a prática pedagógica nas
+bibliotecas escolares. 2016. Tese (Doutorado em Educação) – Centro de Ciências
+Humanas e da Educação, Universidade do Estado de Santa Catarina, Florianópolis,
+2016. p. 43-62.
+Parte de livro em meio eletrônico
+Inclui seção, capítulo, volume, fragmento e outras partes de uma obra, com
+autor e/ou título próprios de livros em meio eletrônico ou digital. Os elementos
+essenciais são:
+
+SOBRENOME, Prenome do autor. Título da parte: subtítulo (se houver). In:
+SOBRENOME, Prenome do autor. Título da obra: subtítulo (se houver).
+Número da edição (se houver). Local de publicação: Editora, data de
+publicação. Página inicial e final. Descrição do suporte. Disponível em:
+https://. Acesso em: 10 jun. 2020.
+
+85
+
+Acrescenta-se a expressão In: depois autor e título da parte. No final da
+referência, informa-se a descrição física da parte, acrescentando a descrição física do
+suporte (CD, DVD, pen drive, disco blu-ray e outros). No caso de documentos
+disponíveis online, o endereço eletrônico e a data de acesso devem ser registrados.
+LÜDORF, Sílvia Maria Agatti. O projeto de pesquisa. In: LÜDORF, Sílvia Maria Agatti
+Metodologia da pesquisa: do projeto ao trabalho de conclusão de curso. 2. ed.
+Curitiba: Appris, 2017. p. 40-45. E-book.
+Parte de trabalhos acadêmicos em meio eletrônico
+Inclui seção, capítulo, volume, fragmento e outras partes de uma obra, com
+autor e/ou título próprios de trabalhos acadêmicos em meio eletrônico ou digital. Os
+elementos essenciais são:
+
+SOBRENOME, Prenome do autor. Título da parte: subtítulo (se houver). In:
+SOBRENOME, Prenome do autor. Título da obra: subtítulo (se houver).
+Ano de depósito. Tipo do trabalho (grau e curso) - Vinculação acadêmica,
+local de apresentação/defesa, data. Folha inicial e final. Descrição do suporte.
+Disponível em: https://. Acesso em: 10 jun. 2020.
+
+Acrescenta-se a expressão In: depois autor e título da parte. No final da
+referência, informa-se a descrição física da parte, acrescentando a descrição física do
+suporte (CD, DVD, pen drive, disco blu-ray e outros). No caso de documentos
+disponíveis online, o endereço eletrônico e a data de acesso devem ser registrados.
+SALES, F. de. Caminhando contra o vento – bibliotecas escolar e informação. In:
+SALES, F. de. “A gente quer ter voz ativa, no nosso destino mandar”:
+contribuições da música como fonte de informação para a prática pedagógica nas
+bibliotecas escolares. 2016. Tese (Doutorado em Educação) – Centro de Ciências
+Humanas e da Educação, Universidade do Estado de Santa Catarina, Florianópolis,
+2016. p. 43-62. Disponível em:
+http://sistemabu.udesc.br/pergamumweb/vinculos/000021/0000219d.pdf. Acesso: em
+30 abr. 2020.
+
+86
+
+Coleção de publicação periódica
+Os elementos essenciais para a referência de toda coleção de título periódico
+são:
+
+TÍTULO: subtítulo (se houver). Local de publicação: Editora, data de iníciodata de encerramento da publicação (se houver). ISSN (se houver).
+
+Em referências de coleções e publicações periódicas “[...] o título deve ser o
+primeiro elemento da referência, grafado em letras maiúsculas” (ABNT, 2025, p. 40).
+ÉPOCA. São Paulo: Globo, 2002- . ISSN 1415-5494.
+REVISTA DE ADMINISTRAÇÃO CONTEMPORÂNEA - RAC. Maringá: ANPAD,
+1997- . ISSN 1982-7849.
+Coleção de publicação periódica em meio eletrônico
+Os elementos essenciais para a referência de coleção em meio eletrônico ou
+digital são:
+
+TÍTULO: subtítulo (se houver). Local de publicação: Editora, data de iníciodata de encerramento da publicação (se houver). ISSN (se houver) descrição
+do suporte. DOI (se houver). Disponível em: https://. Acesso em: 10 jun. 2020.
+
+Em referências de coleções e publicações periódicas “[...] o título deve ser o
+primeiro elemento da referência, grafado em letras maiúsculas” (ABNT, 2025, p. 40).
+JORNAL DA CIÊNCIA. [S. l.]: SBPC, 1985- . Versão online. Disponível em:
+http://www.jornaldaciencia.org.br/edicoes/?url=http://jcnoticias.jornaldaciencia.org.br/
+category/pdf/. Acesso em: 20 abr. 2020.
+
+87
+
+REVISTA DE ADMINISTRAÇÃO CONTEMPORÂNEA - RAC. Maringá: ANPAD,
+1997- . ISSN 1982-7849 versão online. Disponível em:
+https://rac.anpad.org.br/index.php/rac. Acesso em: 20 abr. 2020.
+Volume, fascículo, suplemento, número especial de publicação periódica
+Os elementos essenciais para referência de volume, fascículo, suplemento,
+número especial e outros, são:
+
+TÍTULO: subtítulo (se houver). Local de publicação: Editora, v. (se houver), n.
+(se houver), informação de período e data de publicação.
+
+Em referências de volume ou fascículo de publicações periódicas “[...] o título
+deve ser o primeiro elemento da referência, grafado em letras maiúsculas” (ABNT,
+2025, p. 40).
+ÉPOCA. São Paulo: Globo, n. 781, maio 2013.
+MODAPALAVRA. Florianópolis: UDESC, v. 13, n. 28, abr./jun. 2020.
+Artigo ou matéria de publicação periódica
+Inclui partes de publicação periódica, artigo, comunicação, editorial, entrevista,
+recensão, reportagem, resenha e outros. Os elementos essenciais para Artigo ou
+matéria de publicação periódica são:
+
+SOBRENOME, Prenome do autor. Título do artigo: subtítulo (se houver).
+Título do periódico: subtítulo (se houver), local de publicação, numeração
+do ano e/ou volume, número e/ou edição, tomo (se houver), páginas inicial e
+final e data ou período de publicação.
+
+O título do periódico deve ser destacado em negrito ou itálico. O sobrenome do
+autor fica em maiúsculo, já o prenome pode ser escrito por extenso ou abreviado. Nas
+
+88
+
+obras com mais de três autores, pode aplicar-se o et al. (e outros) após o primeiro
+autor ou nomear todos:
+PIZARRO, D. C.; ZORZETTO, G. J.; LAURINDO, K. R.; VIEIRA, K. R.; TREVISOL
+NETO, O.; CHAGAS, R. L. O discurso dos ingressantes nos cursos de
+Biblioteconomia de Santa Catarina: suas motivações para a escolha do curso.
+Revista ACB, Florianópolis, v. 20, n. 3, p. 423-438, set./dez. 2015.
+PIZARRO, D. C. et al. O discurso dos ingressantes nos cursos de Biblioteconomia
+de Santa Catarina: suas motivações para a escolha do curso. Revista ACB,
+Florianópolis, v. 20, n. 3, p. 423-438, set./dez. 2015.
+SEKEFF, Gisela. O emprego dos sonhos. Domingo, Rio de Janeiro, ano 26, n.
+1344, p. 30-36, 3 fev. 2002.
+Artigo ou matéria de publicação periódica em meio eletrônico
+Os elementos essenciais para artigo ou matéria de publicação periódica em
+meio eletrônico são:
+
+SOBRENOME, Prenome do autor. Título do artigo: subtítulo (se houver).
+Título do periódico: subtítulo (se houver), local de publicação, numeração do
+ano e/ou volume (se houver), número e/ou edição (se houver), tomo (se
+houver), páginas inicial e final, e data ou período de publicação. DOI (se
+houver). Disponível em: https://. Acesso em: 10 jun. 2020.
+
+Acrescentar o DOI (se houver) e a descrição física do suporte (CD, DVD, pen
+drive, e-book, disco blu-ray e outros). No caso de documentos disponíveis online, o
+endereço eletrônico e a data de acesso devem ser registrados.
+CUNHA, Murilo Bastos da. Das bibliotecas convencionais às digitais: diferenças e
+convergências. Perspectivas em Ciência da Informação, Belo Horizonte, v. 13, n.
+1, p. 2-17, abr./jun. 2008. DOI: https://doi.org/10.1590/S1413-99362008000100002.
+Disponível em: http://www.scielo.br/pdf/pci/v13n1/v13n1a02.pdf. Acesso em: 9 abr.
+2020.
+DANTAS, José Alves et al. Regulação da auditoria em sistemas bancários: análise
+do cenário internacional e fatores determinantes. Revista Contabilidade &
+Finanças, São Paulo, v. 25, n. 64, p. 7-18, jan./abr. 2014. DOI:
+http://dx.doi.org/10.1590/S1519-70772014000100002. Disponível em:
+
+89
+
+http://www.scielo.br/scielo.php?script=sci_arttext&pid=S151970772014000100002&l
+ng=en&nrm=iso. Acesso em: 20 maio 2014.
+CAVALCANTI, Erinaldo Vicente. O que necessita saber um professor para ensinar
+história? Como os estudantes em formação inicial interpretam essa questão?.
+Revista Tempo e Argumento, Florianópolis, v. 17, n. 44, e0201, 2025. DOI:
+10.5965/2175180317442025e0201. Disponível em:
+https://revistas.udesc.br/index.php/tempo/article/view/2175180317442025e0201.
+Acesso em: 18 jun. 2025.
+DRABENSTOTT, Karen; BURMAN, Celeste. Revisão analítica da biblioteca do
+futuro. Ci. Inf., Brasília, DF, v. 26, n. 2, p. 01-15, maio 1997. DOI:
+https://doi.org/10.1590/S0100-19651997000200012. Disponível em:
+http://revista.ibict.br/ciinf/article/view/710/720. Acesso em: 9 abr. 2020.
+Artigo ou matéria de jornal
+Inclui comunicação, editorial, entrevista, recensão, reportagem, resenha e
+outros. Os elementos essenciais para artigo ou matéria de jornal são:
+
+SOBRENOME, Prenome do autor. Título do artigo: subtítulo (se houver).
+Título do periódico: subtítulo (se houver), local de publicação, numeração
+do ano e/ou volume, número (se houver), data de publicação. Seção, caderno
+ou parte do jornal.
+
+Quando não houver seção, caderno ou parte, a paginação do artigo ou matéria
+precede a data. O título do periódico deve ser destacado em negrito ou itálico; o
+sobrenome do autor fica em maiúsculo, já o prenome pode ser escrito por extenso ou
+abreviado. Nas obras com mais de três autores, pode aplicar-se o et al. (e outros)
+após o primeiro autor ou nomear todos:
+OTTA, Lu Aiko. Parcela do tesouro nos empréstimos do BNDES cresce 566 % em
+oito anos. O Estado de S. Paulo, São Paulo, ano 131, n. 42656, 1 ago. 2010.
+Economia & Negócios, p. B1.
+
+90
+
+Artigo ou matéria de jornal em meio eletrônico
+Os elementos essenciais para referências de artigo ou matéria de jornal em
+meio eletrônico ou digital são:
+
+SOBRENOME, Prenome do autor. Título do artigo: subtítulo (se houver).
+Título do periódico: subtítulo (se houver), local de publicação, numeração
+do ano e/ou volume, número (se houver), data de publicação. Seção, caderno
+ou parte do jornal. DOI (se houver). Disponível em: https://. Acesso em: 10
+jun. 2020.
+
+Acrescentar o DOI (se houver) e a descrição física do suporte (CD, DVD, pen
+drive, e-book, disco blu-ray e outros). No caso de documentos disponíveis online, o
+endereço eletrônico e a data de acesso devem ser registrados.
+VERÍSSIMO, L. F. Um gosto pela ironia. Zero Hora, Porto Alegre, ano 47, n. 16.414,
+p. 2, 12 ago. 2010. Disponível em:
+http://www.clicrbs.com.br/zerohora/jsp/default.jspx?uf=1&action=flip. Acesso em: 12
+ago. 2010.
+Evento no todo em monografia
+Os elementos essenciais para atas, anais, proceedings, etc. no todo, são:
+
+NOME DO EVENTO, numeração (se houver), ano, local (cidade, se houver)
+de realização. Título do documento [...]. Local: editora, data da publicação.
+
+O nome do evento deve ficar em maiúsculo e o título da obra deve ser
+destacado em negrito ou itálico.
+SEMINÁRIO INTERNACIONAL DE BIBLIOTECAS UNIVERSITÁRIAS, 20., 2018,
+Salvador. Proceedings [...]. Salvador: UFBA, 2018.
+SEMINÁRIO NACIONAL SOBRE DESASTRES AMBIENTAIS, 2000, Curitiba. Anais
+[...]. Brasília, DF: [s. n.], 2001.
+
+91
+
+Evento no todo em publicação periódica
+Os elementos essenciais de atas, anais, proceedings etc. em publicação
+periódica são:
+
+NOME DO EVENTO, numeração (se houver), ano, local (cidade, se houver)
+de realização. Título do documento. Título do periódico. Local: editora,
+período, ano.
+
+O nome do evento deve ficar em maiúsculo e o título do periódico deve ser
+destacado em negrito ou itálico.
+CONGRESSO BRASILEIRO DE OLERICULTURA, 41.; ENCONTRO SOBRE
+PLANTAS MEDICINAIS, AROMÁTICAS E CONDIMENTARES, 1., 2001, Brasília,
+DF. Apresentação, artigos, palestras, instruções.... Horticultura Brasileira. Brasília,
+DF: Sociedade de Olericultura do Brasil, v. 19, n. 2, jul. 2001.
+CONGRESSO DO CENTRO-OESTE DE CLÍNICOS VETERINÁRIOS DE
+PEQUENOS ANIMAIS, 3.; FEIRA DO CENTRO-OESTE DO MERCADO PET, 3.,
+2006, [Brasília, DF]. [Trabalhos científicos e casos clínicos]. Ciência Animal
+Brasileira. Goiânia: UFG, nov. 2006. Suplemento 1.
+Evento no todo em meio eletrônico
+Os elementos essenciais de atas, anais, proceedings etc. em meio eletrônico
+ou digital são:
+
+NOME DO EVENTO, numeração (se houver), ano, local (cidade, se houver)
+de realização. Título do documento. Local: editora, data da publicação. DOI
+(se houver). Disponível em: https://. Acesso em: 10 jun. 2020.
+
+Acrescentar o DOI (se houver) e a descrição física do suporte (CD, DVD, pen
+drive, e-book, disco blu-ray e outros). No caso de documentos disponíveis online, o
+endereço eletrônico e a data de acesso devem ser registrados.
+
+92
+
+CONGRESSO BRASILEIRO DE BIBLIOTECONOMIA E DOCUMENTAÇÃO, 28.,
+2019, Vitória. Anais eletrônicos [...]. Vitória: FEBAB, 2019. Disponível em:
+https://portal.febab.org.br/anais/index. Acesso em: 20 abr. 2020.
+NEUROMATCH CONFERENCE, 1., 2020. Anais eletrônicos [...]. [S.l.]: Neuromatch,
+2020. Disponível em: https://neuromatch.io/conference/. Acesso em: 18 jun. 2025.
+Parte de evento em monografia
+Os elementos essenciais de partes de atas, anais, proceedings etc. são:
+
+SOBRENOME, Prenome do autor. Título do trabalho: subtítulo (se houver).
+In: NOME DO EVENTO, numeração (se houver), ano, local (cidade, se
+houver) de realização. Título do documento. Local: editora, data da
+publicação. Página inicial e final.
+
+Acrescenta-se a expressão In: depois autor e do título da parte. O título do
+documento deve ser destacado em negrito ou itálico. O sobrenome do autor fica em
+maiúsculo, já o prenome pode ser escrito por extenso ou abreviado. Nas obras com
+mais de três autores, pode aplicar-se o et al. (e outros) após o primeiro autor ou
+nomear todos. A descrição física da parte deve ser informada.
+BRAYNER, A. R. A.; MEDEIROS, C. B. Incorporação do tempo em SGBD orientado
+a objetos. In: SIMPÓSIO BRASILEIRO DE BANCO DE DADOS, 9., 1994, São
+Paulo. Anais [...]. São Paulo: USP, 1994. p. 16-29.
+SILVA, O. Tendências para bibliotecas no século XXI. In: CONGRESSO
+BRASILEIRO DE BIBLIOTECONOMIA E DOCUMENTAÇÃO, 2., 1970, [s. l.]. Anais
+[...]. [S. l.]: FEBAB, 1970. p. 15-20.
+ZUBEN, A. V. et al. Vigilância epidemiológica da leishmaniose visceral americana
+(LVA) em cães no município de Campinas, São Paulo. In: REUNIÃO DE PESQUISA
+APLICADA EM DOENÇAS DE CHAGAS, 26.; REUNIÃO DE PESQUISA APLICADA
+EM LEISHMANIOSES, 14., 2010, Uberaba. Anais [...]. Uberaba: Universidade
+Federal do Triangulo Mineiro, 2010. p. 135-175.
+
+93
+
+Parte de evento em publicação periódica
+Os elementos essenciais de partes de atas, anais, proceedings, etc. são:
+
+SOBRENOME, Prenome do autor. Título do trabalho. Título do periódico,
+local de publicação, numeração do ano e/ou volume, número e/ou edição,
+tomo (se houver), páginas inicial e final, data ou período de publicação. Nota
+indicando o número e o nome do evento, ano, local (cidade, se houver).
+
+O título do periódico deve ser destacado em negrito ou itálico. O sobrenome do
+autor fica em maiúsculo, já o prenome pode ser escrito por extenso ou abreviado. Nas
+obras com mais de três autores, pode nomear-se o primeiro autor e aplicar o et al. (e
+outros) ou nomear todos. A descrição física da parte deve ser informada.
+GONÇALVES, R. P. M. et al. Aspectos hematológicos de cães parasitados por
+Babesia canis na cidade de Niterói, RJ entre os anos de 1994 a 2005: parte 1:
+eritrograma. Ciência Animal Brasileira, Goiânia, p. 271-273, nov. 2006. Supl. 1.
+Trabalho apresentado no 3º Congresso do Centro-Oeste de Clínicos Veterinários de
+Pequenos Animais, 2006, [Brasília, DF].
+Parte de evento em meio eletrônico
+Os elementos essenciais em partes de atas, anais, proceedings, etc. em meio
+eletrônico ou digital são:
+
+SOBRENOME, Prenome do autor. Título do trabalho: subtítulo (se houver). In:
+NOME DO EVENTO, numeração (se houver), ano, local (cidade, se houver)
+de realização. Título do documento. Local: editora, data da publicação.
+Página inicial e final. Disponível em: https://. Acesso em: 10 jun. 2020.
+
+Acrescentar o DOI (se houver) e a descrição física do suporte (CD, DVD, pen
+drive, e-book, blu-ray disc e outros). No caso de documentos disponíveis online, o
+endereço eletrônico e a data de acesso devem ser registrados.
+
+94
+
+NUNES, F. P. N. Fake news e nativos digitais: qual o papel do bibliotecário? In:
+CONGRESSO BRASILEIRO DE BIBLIOTECONOMIA E DOCUMENTAÇÃO, 28.,
+2019, Vitória. Anais eletrônicos [...]. Vitória: FEBAB, 2019. p. 1-6. Disponível em:
+https://portal.febab.org.br/anais/article/view/2233/2234. Acesso em: 20 abr. 2020.
+Patente
+Os elementos essenciais à patente são:
+
+SOBRENOME, Prenome do inventor. Título. Depositante: nome. Procurador:
+nome (se houver). Número da patente. Depósito: data. Concessão: data.
+
+O título da patente deve ser destacado em negrito ou itálico. O sobrenome do
+inventor fica em maiúsculo, já o prenome pode ser escrito por extenso ou abreviado.
+Nas obras com mais de três inventores, pode aplicar-se o et al. (e outros) após o
+primeiro ou nomear todos:
+BERTAZZOLI, Rodnei et al. Eletrodos de difusão gasosa modificados com
+catalisadores redox, processo e reator eletroquímico de síntese de peróxido de
+hidrogênio utilizando os mesmos. Depositante: Universidade Estadual de
+Campinas. Procurador: Maria Cristina Valim Lourenço Gomes. BR n. PI0600460-1A.
+Depósito: 27 jan. 2006. Concessão: 25 mar. 2008.
+Patente em meio eletrônico
+Os elementos essenciais à patente em meio eletrônico ou digital são:
+
+SOBRENOME, Prenome do inventor. Título. Depositante: nome. Procurador:
+nome (se houver). Número da patente. Depósito: data. Concessão: data.
+Disponível em: https://. Acesso em: 10 jun. 2020.
+
+Acrescentar na referência a descrição física do suporte (CD, DVD, pen drive,
+e-book, blu-ray disc e outros). No caso de documentos disponíveis online, o endereço
+eletrônico e a data de acesso devem ser registrados.
+
+95
+
+GALEMBECK, Fernando; SOUZA, Maria de Fátima Brito. Process to obtain an
+Intercalated or exfoliated polyester with clay hybrid nanocomposite material.
+Depositante: Universidade Estadual de Campinas; Rhodia Ster S/A.
+WO2005/030850 A1, Depósito: 1 Oct. 2003, Concessão: 7 Apr. 2005. Disponível em:
+http://www.iprvillage.Info/portal/servlet/DIIDirect?CC=WO&PN=2005030850&DT=A1
+&SrcAuth=Wila&Token=UtWHB3Mmc98t05i1AVPmaGE5dYhs00Nlt38dpA3EfnOosu
+e2.GSz63ySsIiukTB8VQWW32lISV87n4_naNBY8lhYY30Rw1UeDo_8Yo8UVD0.
+Acesso em: 27 ago. 2010.
+Legislação
+Inclui: Constituição, Decreto, Decreto-Lei, Emenda Constitucional, Emenda à
+Lei Orgânica, Lei Complementar, Lei Delegada, Lei Ordinária, Lei Orgânica e Medida
+Provisória, entre outros. Os elementos essenciais são:
+
+JURISDIÇÃO OU CABEÇALHO DA ENTIDADE. Epígrafe. Ementa transcrita
+conforme publicada. Número da edição (se houver). Local de publicação:
+Editora, data de publicação.
+
+“Em ementas e epígrafes demasiadamente longas, pode-se suprimir parte do
+texto, desde que não seja alterado o sentido. A supressão deve ser indicada por
+reticências, entre colchetes” (ABTN, 2025, p. 21).
+BRASIL. [Constituição (1988)]. Constituição da República Federativa do Brasil.
+Rio de Janeiro: Roma Victor, 2002.
+BRASIL. Lei nº 10.406, de 10 de janeiro de 2002. Institui o Código Civil. Diário
+Oficial da União: seção 1, Brasília, DF, ano 139, n. 8, p. 1-74, 11 jan. 2002.
+
+96
+
+A Figura 24 ilustra os elementos essenciais da referência acima:
+Figura 24 - Identificação dos elementos para referenciar legislação
+
+Fonte: Elaborada pelos autores (2021).
+
+BRASIL. Lei nº 12.244, de 24 de maio de 2010. Dispõe sobre a universalização das
+bibliotecas nas instituições de ensino do País. Diário Oficial da União: seção 1,
+Brasília, DF, p. 3, 25 maio 2010.
+RIO GRANDE DO SUL. [Constituição (1989)]. Constituição do Estado do Rio
+Grande do Sul. 4. ed. atual. Porto Alegre: Assembleia Legislativa do Estado do Rio
+Grande do Sul, 1995.
+Legislação em meio eletrônico
+Os elementos essenciais para legislação em meio eletrônico ou digital são:
+
+JURISDIÇÃO OU CABEÇALHO DA ENTIDADE. Epígrafe. Ementa transcrita
+conforme publicada. Número da edição (se houver). Local de publicação:
+Editora, data de publicação. Disponível em: https://. Acesso em: 10 jun. 2020.
+
+Acrescentar na referência a descrição física do suporte (CD, DVD, pen drive,
+e-book, disco blu-ray e outros). No caso de documentos disponíveis online, o
+endereço eletrônico e a data de acesso devem ser registrados.
+
+97
+
+BRASIL. Lei nº 11.899, de 8 de janeiro de 2009. Institui o Dia Nacional da Leitura e
+a Semana Nacional da Leitura e da Literatura. Brasília, DF: Presidência da
+República, 2009. Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato20072010/2009/Lei/L11899.htm. Acesso em: 15 dez. 2018.
+Na Figura 25, ilustram-se os elementos essenciais da referência acima:
+Figura 25 - Identificação dos elementos para referenciar legislação em meio
+eletrônico
+
+Fonte: Elaborada pelos autores (2021).
+
+Nas seções a seguir, tem-se os exemplos de referências de legislações em
+meio eletrônico.
+Constituição
+BRASIL. [Constituição (1988)]. Constituição da República Federativa do Brasil de
+1988. Brasília, DF: Presidência da República, 1988. Disponível em:
+http://www.planalto.gov.br/ccivil_03/constituicao/constituicao.htm. Acesso em: 11
+dez. 2018.
+Decreto
+SANTA CATARINA. Decreto nº 525, de 23 de março de 2020. Dispõe sobre novas
+medidas para enfrentamento da emergência de saúde pública de importância
+internacional decorrente do coronavírus e estabelece outras providências.
+
+98
+
+Florianópolis: Governo do Estado, 2020. Disponível em:
+https://www.sc.gov.br/images/DECRETO_525.pdf. Acesso em: 9 abr. 2020.
+Decreto-Lei
+BRASIL. Decreto-Lei nº 2.481, de 3 de outubro de 1988. Dispõe sobre o registro
+provisório para o estrangeiro em situação ilegal em território nacional. Brasília, DF:
+Presidência da República, 1988. Disponível em:
+http://www.planalto.gov.br/ccivil_03/decreto-lei/Del2481.htm. Acesso em: 9 abr.
+2020.
+Emenda constitucional
+BRASIL. Emenda Constitucional nº 105, de 12 de dezembro de 2019. Acrescenta
+o art. 166-A à Constituição Federal, para autorizar a transferência de recursos
+federais a Estados, ao Distrito Federal e a Municípios mediante emendas ao projeto
+de lei orçamentária anual. Brasília, DF: Presidência da República, 2019. Disponível
+em: http://www.planalto.gov.br/ccivil_03/constituicao/emendas/emc/emc105.htm.
+Acesso em: 9 abr. 2020.
+Emenda à lei orgânica
+CAÇADOR (SC). Emenda à Lei Orgânica do Município nº 16, de 06 de junho de
+2017. Altera e revoga dispositivos da Lei Orgânica do Município de Caçador.
+Caçador: Câmara Municipal, 2017. Disponível em:
+https://static.fecam.net.br/uploads/77/arquivos/1061768_EMENDA_A_LEI_ORGANI
+CA_N_16_2017.pdf. Acesso em: 9 abr. 2020.
+Lei complementar
+BRASIL. Lei Complementar nº 171, de 27 de dezembro de 2019. Altera a Lei
+Complementar nº 87, de 13 de setembro de 1996 (Lei Kandir), para prorrogar prazos
+em relação à apropriação dos créditos do imposto estadual sobre operações
+relativas à circulação de mercadorias e sobre prestações de serviços de transporte
+interestadual e intermunicipal e de comunicação (ICMS). Brasília, DF: Presidência da
+República, 2019. Disponível em:
+http://www.planalto.gov.br/ccivil_03/leis/lcp/Lcp171.htm. Acesso em: 09 abr. 2020.
+Lei delegada
+BRASIL. Lei Delegada nº 13, de 27 de agosto de 1992. Institui Gratificações de
+Atividade para os servidores civis do Poder Executivo, revê vantagens e dá outras
+
+99
+
+providências. Brasília, DF: Presidência da República, 1992. Disponível em:
+https://www.planalto.gov.br/ccivil_03/LEIS/Ldl/Ldl13.htm. Acesso em: 9 abr. 2020.
+Lei ordinária
+BRASIL. Lei nº 13.987, de 07 de abril de 2020. Altera a Lei nº 11.947, de 16 de
+junho de 2009, para autorizar, em caráter excepcional, durante o período de
+suspensão das aulas em razão de situação de emergência ou calamidade pública, a
+distribuição de gêneros alimentícios adquiridos com recursos do Programa Nacional
+de Alimentação Escolar (Pnae) aos pais ou responsáveis dos estudantes das
+escolas públicas de educação básica. Brasília, DF: Presidência da República, 2020.
+Disponível em: http://www.planalto.gov.br/ccivil_03/_ato20192022/2020/lei/L13987.htm. Acesso em: 9 abr. 2020.
+Lei orgânica
+FLORIANÓPOLIS. Lei Orgânica. Lei Orgânica do Município de Florianópolis/SC.
+Florianópolis: Câmara Municipal, 2014. Disponível em:
+https://www.camaraibirama.sc.gov.br/publicacoes-legais/lei-organica-municipal7.html. Acesso em: 9 abr. 2020.
+Medida provisória
+BRASIL. Medida Provisória nº 950, de 8 de abril de 2020. Dispõe sobre medidas
+temporárias emergenciais destinadas ao setor elétrico para enfrentamento do estado
+de calamidade pública reconhecido pelo Decreto Legislativo nº 6, de 20 de março de
+2020, e da emergência de saúde pública de importância internacional decorrente da
+pandemia de coronavírus (covid-19). Brasília, DF: Presidência da República, 2020.
+Disponível em: http://www.planalto.gov.br/ccivil_03/_Ato20192022/2020/Mpv/mpv950.htm. Acesso em: 9 abr. 2020.
+Jurisprudência
+Inclui acórdão, decisão interlocutória, despacho, sentença, súmula, entre
+outros. Os elementos essenciais são:
+
+JURISDIÇÃO. Nome da corte ou tribunal (turma e/ou região, se houver). Tipo
+de documento. Número do processo (se houver). Ementa (se houver). Vara,
+ofício, cartório, câmara ou outra unidade do tribunal. Nome do relator
+(precedido da palavra Relator, se houver); data de julgamento (se houver);
+dados da publicação.
+
+100
+
+BRASIL. Supremo Tribunal Federal (2. Turma). Recurso Extraordinário 313060/SP.
+Leis 10.927/91 e 11.262 do município de São Paulo. Seguro obrigatório contra furto
+e roubo de automóveis. Shopping centers, lojas de departamento, supermercados e
+empresas com estacionamento para mais de cinquenta veículos.
+Inconstitucionalidade. Recorrente: Banco do Estado de São Paulo S/A BANESPA.
+Recorrido: Município de São Paulo. Relatora: Min. Ellen Gracie, 29 de novembro de
+20 05. Lex: jurisprudência do Supremo Tribunal Federal, São Paulo, v. 28, n. 327, p.
+226-230, 2006.
+Jurisprudência em meio eletrônico
+Os elementos essenciais para jurisprudência em meio eletrônico ou digital são:
+
+JURISDIÇÃO. Nome da corte ou tribunal (turma e/ou região, se houver). Tipo
+de documento. Número do processo (se houver). Ementa (se houver). Vara,
+ofício, cartório, câmara ou outra unidade do tribunal. Nome do relator
+(precedido da palavra Relator, se houver); data de julgamento (se houver);
+dados da publicação. Disponível em: https://. Acesso em: 10 jun. 2020.
+
+Acrescentar na referência a descrição física do suporte (CD, DVD, pen drive,
+e-book, disco blu-ray e outros). No caso de documentos disponíveis online, o
+endereço eletrônico e a data de acesso devem ser registrados.
+BRASIL. Supremo Tribunal Federal (2. Turma). Recurso Extraordinário
+313060/SP. RE 313060 SP. Leis 10.927/91 e 11.262 do município de São Paulo.
+Seguro obrigatório contra furto e roubo de automóveis. Shopping centers, lojas de
+departamento, supermercados e empresas com estacionamento para mais de
+cinquenta veículos. Inconstitucionalidade. Recorrente: Banco do Estado de São
+Paulo S/A – BANESPA. Recorrido: Município de São Paulo. Relatora: Min. Ellen
+Gracie, 29 de novembro de 2005. Disponível em: http://redir.
+stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=260670. Acesso em: 19
+ago. 2011.
+
+101
+
+A Figura 26 ilustra os elementos essenciais da referência acima:
+
+Figura 26 - Identificação dos elementos para referenciar jurisprudência em meio
+eletrônico
+
+Fonte: Elaborada pelos autores (2021).
+
+Nas seções a seguir são apresentados exemplos de jurisprudência em meio
+eletrônico.
+Acórdão
+BRASIL. Supremo Tribunal Federal (1. Turma). Acórdão. RCL 29033 AGR / RJ.
+Direito administrativo. Agravo interno em reclamação. Nepotismo. Súmula vinculante
+13. Relatora: Min. Roberto Barroso, 17 de setembro de 2019. Disponível em:
+http://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=751915279.
+Acesso em: 9 abr. 2020.
+Sentença
+BRASIL. Supremo Tribunal Federal (1. Turma). Habeas Corpus nº 137773 Mato
+Grosso do Sul. Embargos de declaração recebidos como agravo regimental.
+Decisão negativa de seguimento a habeas corpus. Pedido de reconhecimento da
+perda do objeto da impetração. Falta de interesse recursal. Ato superveniente que
+não justifica a alegada perda do objeto. Relatora: Ministra Rosa Weber, 07 de
+dezembro de 2018. Disponível em:
+http://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docI D=748860232.
+Acesso em: 10 jan. 2019.
+
+102
+
+Súmula
+BRASIL. Superior Tribunal de Justiça. Súmula n° 333. Cabe mandado de segurança
+contra ato praticado em licitação promovida por sociedade de economia mista ou
+empresa pública. Brasília, DF: Superior Tribunal de Justiça, [2007]. Disponível em:
+http://www.stj.jus.br/SCON/sumanot/toc.jsp?&b=TEMA&p=true&t
+=&l=10&i=340#TIT333TEMA0. Acesso em: 19 ago. 2011
+Atos administrativos normativos
+Inclui ato normativo, aviso, circular, contrato, decreto, deliberação, despacho,
+edital, estatuto, instrução normativa, ofício, ordem de serviço, parecer, parecer
+normativo, parecer técnico, portaria, regimento, regulamento e resolução, entre
+outros. Os elementos essenciais são:
+
+JURISDIÇÃO OU CABEÇALHO DA ENTIDADE. Epígrafe: tipo, número e
+data de assinatura do documento; ementa. Dados da publicação.
+
+RIO DE JANEIRO (Estado). Corregedoria Geral de Justiça. Aviso nº 309, de 28 de
+junho de 2005. [Dispõe sobre a suspensão do expediente na 6. Vara de Órfãos e
+Sucessões da Comarca da Capital nos dias 01, 08, 15, 22 e 29 de julho de 2005].
+Diário Oficial do Estado do Rio de Janeiro: parte 3: seção 2: Poder Judiciário, Rio
+de Janeiro, ano 31, n. 19, p. 71, 30 jun. 2005.
+Atos administrativos normativos em meio eletrônico
+Os elementos essenciais para atos administrativos normativos em meio
+eletrônico ou digital são:
+
+JURISDIÇÃO OU CABEÇALHO DA ENTIDADE. Epígrafe: tipo, número e
+data de assinatura do documento; ementa. Dados da publicação. Disponível
+em: https://. Acesso em: 10 jun. 2020.
+
+103
+
+Acrescentar na referência a descrição física do suporte (CD, DVD, pen drive,
+e-book, disco blu-ray e outros). No caso de documentos disponíveis online, o
+endereço eletrônico e a data de acesso devem ser registrados.
+BRASIL. Ministério da Fazenda. Secretaria de Acompanhamento Econômico.
+Parecer técnico nº 06013/2006/RJ. Rio de Janeiro: Ministério da Fazenda, 09 set.
+2006. Disponível em: https://docplayer.com.br/12375788-Ministerio-da-fazendasecretaria-de-acompanhamento-economico-parecer-tecnico-n-o-06013-2006-rj.html.
+Acesso em: 28 abr. 2020.
+A Figura 27 ilustra os elementos essenciais da referência acima:
+Figura 27 - Identificação dos elementos para referenciar atos administrativos em
+meio eletrônico
+
+Fonte: Elaborada pelos autores (2021).
+
+Filmes, vídeos, entre outros
+Os elementos essenciais para referenciar filmes, vídeos, entre outros, são:
+
+TÍTULO da obra: subtítulo (se houver). Diretor e/ou produtor local. Local de
+publicação: Empresa produtora ou distribuidora, data. Especificação do
+suporte.
+
+104
+
+No título da obra, apenas a primeira palavra deve ser transcrita com letras
+maiúsculas; ou as duas primeiras, se o título iniciar por monossílabo: artigo definido
+ou indefinido e palavra monossílaba.
+OS PERIGOS do uso de tóxicos. Produção de Jorge Ramos de Andrade. São Paulo:
+CERAVI, 1983. 1 fita de vídeo (30 min), VHS, son., color.
+Filmes, vídeos, entre outros em meio eletrônico
+Os elementos essenciais para referenciar filmes, vídeos, entre outros em meio
+eletrônico ou digital são:
+
+TÍTULO da obra: subtítulo (se houver). Diretor e/ou produtor local. Local de
+publicação: Empresa produtora ou distribuidora, data. Disponível em: https://.
+Acesso em: 10 jun. 2020.
+
+Acrescentar na referência a descrição física do suporte (CD, DVD, pen drive,
+e-book, disco blu-ray e outros). No caso de documentos disponíveis online, o
+endereço eletrônico e a data de acesso devem ser registrados.
+CONHEÇA e usufrua das bibliotecas da Udesc. Produção de vídeo: Sara de Bem
+Apolinario. Design Gráfico: Sara de Bem Apolinario, Maria Eduarda Marcelino,
+Beatriz Bastos, Anelise Zimmermann e Maurício Dick. Soundtrack: Early Morning by
+Borrtex. Florianópolis: Biblioteca Universitária, 2019. 1 vídeo (1 min). Publicado pelo
+canal Biblioteca Universitária Udesc. Disponível em:
+https://www.youtube.com/watch?v=xT_7n5IvAag. Acesso em: 23 jun. 2025.
+Documento sonoro no todo
+Os elementos essenciais para referenciar documentos sonoros no todo são:
+
+TÍTULO da obra: subtítulo (se houver). Diretor e/ou compositor e/ou intérprete
+e/ou ledor. Local de gravação: Gravadora, data. Especificação do suporte.
+
+105
+
+No título da obra, apenas a primeira palavra deve ser transcrita com letras
+maiúsculas, ou as duas primeiras no caso haver um artigo (definido ou indefinido) ou
+palavra monossilábica iniciando o título.
+No caso de audiolivros, quando houver a indicação de autor, ele deve preceder
+o título.
+BÍBLIA em áudio: novo testamento. Intérprete: Cid Moreira. Brasília, DF: Sociedade
+Bíblica do Brasil, 2010. 1 disco blu-ray.
+COLASANTI, Marina. A casa das palavras: e outras crônicas. Ledor: Anselmo
+Denófrio. São Paulo: Ática, 2002. 1 disco sonoro (124 min.)
+Parte de documento sonoro
+Os elementos essenciais para referenciar parte documento sonoro são:
+
+TÍTULO da parte: subtítulo (se houver). Intérprete da parte. Compositor da
+parte. In: TÍTULO da obra completa: subtítulo (se houver). Diretor e/ou
+compositor e/ou intérprete e/ou ledor. Local de gravação: Gravadora, data.
+Especificação do suporte. Especificação da parte.
+
+No título da obra, apenas a primeira palavra deve ser transcrita com letras
+maiúsculas, ou as duas primeiras no caso haver um artigo (definido ou indefinido) ou
+palavra monossilábica iniciando o título. Acrescenta-se a expressão In: seguido da
+referência do documento sonoro no todo.
+No caso de audiolivros, quando houver a indicação de autor da parte, ele deve
+preceder o título da parte.
+GOMES, Laurentino. A guerra. Ledor: Pedro Bial. In: GOMES, Laurentino. 1822.
+Ledor: Pedro Bial. [S. l.]: Plugme, 2011. 1 audiolivro (CD-ROM), faixa 10.
+JURA secreta. Intérprete: Simone. Compositores: S. Costa e A. Silva. In: FACE a
+face. Intérprete: Simone. [S. l.]: Emi-Odeon Brasil, 1977. 1 CD, faixa 7.
+
+106
+
+Documento sonoro em meio eletrônico
+Os elementos essenciais para referenciar documentos sonoros em meio
+eletrônico ou digital são:
+
+TÍTULO da obra: subtítulo (se houver). Diretor e/ou compositor e/ou intérprete
+e/ou ledor. Local de gravação: Gravadora, data. Disponível em: https://.
+Acesso em: 10 jun. 2020.
+
+Acrescentar na referência a descrição física do suporte (CD, DVD, pen drive,
+e-book, disco blu-ray e outros). No caso de documentos disponíveis online, o
+endereço eletrônico e a data de acesso devem ser registrados.
+MAMILOS #244: humor na quarentena. Entrevistadoras: Ju Wallauer e Cris Bartis.
+Entrevistados: Júlia Rabello e Paulo Viera. [São Paulo]: B9 Company, 2020.
+Podcast. Disponível em: https://www.b9.com.br/shows/mamilos/mamilos-244-humorna-quarentena/. Acesso em: 30 mar. 2020.
+Partitura impressa
+Os elementos essenciais para referenciar partituras são:
+
+SOBRENOME, Prenome do autor. Título da obra: subtítulo (se houver).
+Instrumento a que se destina, desde que não faça parte do título. Local:
+editor, data. Descrição física.
+
+O título da partitura deve ser destacado em negrito ou itálico. O sobrenome do
+autor fica em maiúsculo, já o prenome pode ser escrito por extenso ou abreviado. Nas
+obras com mais de três autores, pode aplicar-se o et al. (e outros) após o primeiro
+autor ou nomear todos:
+GARCIA, J. M. N.; BRIGHENTI, R.; MATTOS, C. P. de. Matinas do Natal. Rio de
+Janeiro: FUNARTE, 1978. Partituras.
+
+107
+
+WIDMER, Ernst. Duo opus 127: para violino e piano. São Paulo: Irmãos Vitale,
+1981. 1 partitura.
+XENAKIS, Iannis. Aïs. Pour baryton amplifié, percussion solo et grand orchestre.
+Paris: Salabert, 1980. 1 partitura.
+Partitura em meio eletrônico
+Os elementos essenciais para referenciar as partituras em meio eletrônico ou
+digital são:
+
+SOBRENOME, Prenome do autor. Título da obra: subtítulo (se houver).
+Instrumento a que se destina, desde que não faça parte do título. Local:
+editor, data. Descrição física. Descrição física. Disponível em: https://. Acesso
+em: 10 jun. 2020.
+
+Acrescentar na referência a descrição física do suporte (CD, DVD, pen drive,
+e-book, disco blu-ray e outros). No caso de documentos disponíveis online, o
+endereço eletrônico e a data de acesso devem ser registrados.
+BEETHOVEN, Ludwig van. Neunte symphonie: op. 125. Orquestra. Leipzig:
+Breitkopf & Härtel, 1863. 1 partitura. Disponível em: http://imslp.org/wiki/File:TNBeethoven_Breitkopf_Serie_1_Band_3_B_9.jpg. Acesso em: 20 jun. 2012.
+VIVALDI, Antônio Lucio. A primavera. [S. l.: s. n.], c1723. 1 partitura (6 p.). Violino.
+Disponível em: http://pt.cantorion.org/music/4646/Concerto-No.-1-%22Laprimavera%22-Solo-violin. Acesso em: 9 abr. 2020.
+Documento iconográfico
+São documentos iconográficos: pintura, gravura, ilustração, fotografia, desenho
+técnico, diapositivo, diafilme, material estereográfico, transparência, cartaz, entre
+outros.
+
+108
+
+Os elementos essenciais para referenciar documentos iconográficos são:
+
+SOBRENOME, Prenome do autor. Título: subtítulo (se houver). Data.
+Suporte.
+
+O título da do documento iconográfico deve ser destacado em negrito ou itálico.
+Quando não existir o título, deve indicar-se a expressão [Sem título] entre colchetes.
+O sobrenome do autor fica em maiúsculo, já o prenome pode ser escrito por extenso
+ou abreviado. Nas obras com mais de três autores, pode aplicar-se o et al. (e outros)
+após o primeiro autor ou nomear todos:
+FERRARI, León. [Sem título]. 1990. Pintura, pastel e tinta acrílica sobre madeira,
+160 × 220 × 5 cm.
+KOBAYASHI, K. Doença dos xavantes. 1980. 1 fotografia.
+Documento iconográfico em meio eletrônico
+Os elementos essenciais para referenciar os documentos iconográficos em
+meio eletrônico ou digital são:
+
+SOBRENOME, Prenome do autor. Título: subtítulo (se houver). Data.
+Suporte. Disponível em: https://. Acesso em: 10 jun. 2020.
+
+Acrescentar na referência a descrição física do suporte (CD, DVD, pen drive,
+e-book, disco blu-ray e outros). No caso de documentos disponíveis online, o
+endereço eletrônico e a data de acesso devem ser registrados.
+HOUTE, Jef Van den. Black hole. 1 June 2010. 1 fotografia. Disponível em:
+http://photo.net/photodb/ photo?photo_id=11724012. Acesso em: 26 maio 2011.
+Documento cartográfico
+
+109
+
+São documentos cartográficos: atlas, mapa, globo, fotografia aérea, entre
+outros. Os elementos essenciais para referenciar documentos cartográficos são:
+
+SOBRENOME, Prenome do autor. Título: subtítulo (se houver). Local:
+Editora, data. Descrição física. Escala (se houver)
+
+O título do documento cartográfico deve ser destacado em negrito ou itálico. O
+sobrenome do autor fica em maiúsculo, já o prenome pode ser escrito por extenso ou
+abreviado. Nas obras com mais de três autores, pode aplicar-se o et al. (e outros)
+após o primeiro autor ou nomear todos:
+IBGE. Fauna ameaçada de extinção: invertebrados aquáticos e peixes - 2009. Rio
+de Janeiro: [s. n.], 2009. 1 mapa, color., 94 x 117 cm. Escala 1:5.000.000.
+INSTITUTO GEOGRÁFICO E CARTOGRÁFICO (São Paulo). Regiões de governo
+do Estado de São Paulo. São Paulo: IGC, 1994. 1 atlas. Escala 1:2.000.
+Documento cartográfico em meio eletrônico
+Os elementos essenciais para referenciar os documentos cartográficos em
+meio eletrônico ou digital são:
+
+SOBRENOME, Prenome do autor. Título: subtítulo (se houver). Local:
+Editora, data. Descrição física. Escala (se houver). Disponível em: https://.
+Acesso em: 10 jun. 2020.
+
+Acrescentar na referência a descrição física do suporte (CD, DVD, pen drive,
+e-book, disco blu-ray e outros). No caso de documentos disponíveis online, o
+endereço eletrônico e a data de acesso devem ser registrados.
+FLORIDA MUSEUM OF NATURAL HISTORY. 1931-2000 Brazil’s confirmed
+unprovoked shark attacks. Gainesville: Florida Museum of Natural History, [2000?].
+
+110
+
+1 mapa, color. Escala 1:40.000.000. Disponível em: http://www.flmnh.ufl.edu/
+fish/Sharks/ statistics/Gattack/map/Brazil.jpg. Acesso em: 15 jan. 2002.
+INSTITUTO DE PESQUISAS ESPACIAIS (Brasil). Adamantina, São Paulo. São
+José dos Campos: INPE, 2014. 1 imagem de satélite, color. Disponível em:
+http://www.dgi.inpe.br/CDSR/. Acesso em: 26 nov. 2014.
+SÃO LEOPOLDO RS. In: GOOGLE maps. Mountain View: Google, 2018. Disponível
+em: https://maps.google.com.br/maps?hl=pt-BR. Acesso em: 17 dez. 2018
+Documento tridimensional
+São documentos tridimensionais as esculturas: maquetes, objetos (fósseis,
+esqueletos, objetos de museu, animais empalhados e monumentos), entre outros.
+Os elementos essenciais para referenciar documentos tridimensionais são:
+
+SOBRENOME, Prenome do autor. Título: subtítulo (se houver). Local:
+Produtor, data. Especificação do objeto.
+
+O título da obra deve ser destacado em negrito ou itálico. O sobrenome do autor
+fica em maiúsculo, já o prenome pode ser escrito por extenso ou abreviado. Nas obras
+com mais de três autores, pode aplicar-se o et al. (e outros) após o primeiro autor ou
+nomear todos:
+COMPANHIA DAS ÍNDIAS. [Bule de porcelana]. [China]: Companhia das Índias,
+[18--]. 1 bule.
+DUCHAMP, Marcel. Escultura para viajar. 1918. 1 escultura variável, borracha
+colorida e cordel.
+Documento de acesso exclusivo em meio eletrônico
+Inclui bases de dados, listas de discussão, programas de computador, redes
+sociais, mensagens eletrônicas, entre outros.
+Os elementos essenciais para referenciar documentos de acesso exclusivo em
+meio eletrônico ou digital são:
+
+111
+
+SOBRENOME, Prenome do autor. Título: subtítulo (se houver). Versão ou
+edição (se houver). Local (se houver), data. Descrição física do meio
+eletrônico.
+
+O título da obra deve ser destacado em negrito ou itálico. O sobrenome do autor
+fica em maiúsculo, já o prenome pode ser escrito por extenso ou abreviado. Nas obras
+com mais de três autores, pode aplicar-se o et al. (e outros) após o primeiro autor ou
+nomear todos.
+Acrescentar na referência a descrição física do suporte (CD, DVD, pen drive,
+e-book, disco blu-ray e outros). No caso de documentos disponíveis online, o
+endereço eletrônico e a data de acesso devem ser registrados.
+OLIVEIRA, José P. M. Repositório digital da UFRGS é destaque em ranking
+internacional. Maceió, 19 ago. 2011. Twitter: @biblioufal. Disponível em:
+http://twitter.com/#!/biblioufal. Acesso em: 20 ago. 2011.
+UDESC. Coronavírus: aulas e expediente presencial da Udesc seguem suspensos.
+Florianópolis, 7 abr. 2020. Facebook: @udesc. Disponível em:
+https://www.facebook.com/udesc/photos/a.355685267791180/4316875068338827/?t
+ype=3&theater. Acesso em: 9 abr. 2020.
+CORONAVÍRUS. In: WIKIPEDIA: the free encyclopedia. 7 jun. 2020. Disponível em:
+https://pt.wikipedia.org/wiki/Coronav%C3%ADrus. Acesso em: 30 jun. 2020.
+UDESC. Biblioteca Universitária. Florianópolis: UDESC, c2016. Disponível em:
+https://www.udesc.br/bu. Acesso em: 9 abr. 2020.
+CID, Rodrigo. Deus: argumentos da impossibilidade e da incompatibilidade. In:
+CARVALHO, Mário Augusto Queiroz et al. Blog investigação filosófica. Rio de
+Janeiro, 23 abr. 2011. Disponível em: http:// investigacaofilosofica.blogspot.com/search/label/Postagens. Acesso em: 23 ago. 2011.
+UDESC. Biblioteca Universitária. E hoje no Dia Mundial da Saúde convidamos
+vocês para um momento de reflexão! 07 abr. 2020. Instagram: @bibliotecaudesc.
+Disponível em: https://www.instagram.com/p/B-sj-KAcNH/?utm_source=ig_web_copy_link. Acesso em: 9 abr. 2020.
+UDESC. Biblioteca Universitária. Como acessar os e-books da Udesc 20 mar.
+2020. 1 vídeo (3 min 2 s). Publicado pelo canal Biblioteca Udesc. Disponível em:
+https://youtu.be/h0nCU1OEC98. Acesso em: 9 abr. 2020.
+
+112
+
+Transcrição dos elementos
+Os padrões indicados nessa seção são aplicados em todos os tipos de
+documentos. Devem ser apresentados conforme 3.10.2.1 a 3.10.2.12.
+Pessoa física
+De acordo com a NBR 6023 (ABNT, 2025, p. 34) “O autor deve ser indicado
+pelo último sobrenome, em letras maiúsculas, seguido do prenome e outros
+sobrenomes, abreviados ou não, conforme consta no documento. [...]. Os autores
+devem ser separados por ponto e vírgula, seguidos de um espaço”.
+Os prenomes e sobrenomes para o mesmo autor devem ser padronizados,
+quando aparecerem de diferentes formas em documentos distintos. Padronizar a
+apresentação de todas as referências quanto à indicação dos prenomes dos autores:
+abreviados ou por extenso. Quando houver até três autores, indicar todos; quatro
+autores ou mais, pode aplicar-se o et al. (e outros) após o primeiro autor ou nomear
+todos.
+Para obras que possuem quatro ou mais autores, a norma de citações NBR
+10520 (ABNT, 2023) prevê possibilidade de citar o primeiro autor seguido da
+expressão et al. ou citar todos os autores, porém indiferente do formato utilizado este
+deve ser uniforme em todas as citações no documento.
+Nas referências:
+GIL, A. C. Como elaborar projetos de pesquisa. 4. ed. São Paulo: Atlas, 2002.
+No texto:
+(Gil, 2002).
+Nas referências:
+KIME, Linda Almgren; CLARK, Judy; MICHAEL, Beverly. Álgebra na universidade:
+um curso pré-cálculo. 5. ed. Rio de Janeiro: LTC, 2014.
+ou
+KIME, L. A.; CLARK, J.; MICHAEL, B. Álgebra na universidade: um curso précálculo. 5. ed. Rio de Janeiro: LTC, 2014.
+No texto:
+(Kime; Clark; Michael, 2014)
+
+113
+
+Nas referências:
+TAYLOR, Robert; LEVINE, Denis; MARCELLIN-LITTLE, Denis; MILLIS, Darryl.
+Reabilitação e fisioterapia na prática de pequenos animais. São Paulo: Roca,
+2008.
+No texto:
+(Taylor; Levine; Marcellin-Little; Millis, 2008)
+Ou
+Nas referências:
+TAYLOR, Robert et al. Reabilitação e fisioterapia na prática de pequenos
+animais. São Paulo: Roca, 2008.
+No texto:
+(Taylor et al., 2008)
+Alguns exemplos de sobrenomes de pessoa física:
+a) sobrenomes hispânicos:
+- GARCÍA MÁRQUEZ, Gabriel;
+- CERCAS, Javier;
+- SAHELICES GONZÁLEZ, Paulino;
+- VARGAS LOSSA, Maio;
+- VILA-MATAS, Enrique.
+b) sobrenomes com grau de parentesco:
+- ASSAF NETO, Alexandre;
+- GRISARD FILHO, Waldyr;
+- MARTINS SOBRINHO, Pedro Manoel.
+c) sobrenomes compostos:
+- ESPÍRITO SANTO, Miguel Frederico de;
+- MONTE ALEGRE, Rogério;
+- LEVI-STRAUSS, Claude;
+- SAINT-ARNAUD, Yves;
+- SAINT-EXUPÉRY, Antoine de.
+d) sobrenomes com prefixos (variam conforme a língua e composição):
+- CASA, Bartolomé de las;
+- D’AMBROSIO, Ubiratan;
+- DELLA VOLPAIA, Eufrosino;
+- DU MAURIER, Daphne;
+
+114
+
+- GRIPP, Klauss van der;
+- LA TORRE, Massimo;
+- LE ROUGE, Gustave;
+- MACDONALD, William;
+- MUHLL, Peter von der
+- RIO, Antônio del;
+- VAN DER POST, Christian W. Hendrik;
+- VOM ENDE, Erich;
+- VON BRAUN, Wernher.
+e) sobrenomes precedidos com partículas “de”, “da”, “dos”, “e”:
+- ANJO, Antônio dos;
+- CASTRO SOBRINHO, Antônio Ribeiro de;
+- FONSECA, Adolfo Castro da;
+- SILVA, Manoel de Souza e.
+Indicação de responsabilidade: organizador, editor, coordenador, etc.
+Quando houver tipos de responsabilidade pelo conjunto da obra em coletâneas
+de vários autores, o autor referenciado é o responsável intelectual. A palavra que
+caracteriza a responsabilidade (organizador, compilador, coordenador, editor, entre
+outros), deve ser descrita de forma abreviada, no singular, entre parênteses, em letras
+minúsculas e sempre no gênero masculino: (org.), (comp.), (coord.), (ed.). Havendo
+mais de um responsável, o tipo de participação deve constar após o último nome, no
+singular:
+D'ANTOLA, Arlette (org.). Origens da imprensa. São Paulo: Saraiva, 2012.
+LUJAN, Roger Patron (comp.). Um presente especial. Tradução Sonia da Silva. 3.
+ed. São Paulo: Aquariana, 1993. 167 p.
+MARCONDES, E.; LIMA, I. N. de (coord.). Dietas em pediatria clínica. 4. ed. São
+Paulo: Sarvier, 1993.
+OYUELA-CAYCEDO, A.; RAYMOND, J. S. (ed.). Recent advances in the
+archaeology of Northen Andes. Los Angeles: University of California, Institute of
+Archaeology, 1998.
+
+115
+
+Os demais tipos de responsabilidade, como tradutor, revisor, orientador,
+ilustrador, podem ser acrescentados após o título, conforme aparecem no documento:
+ALBERGARIA, Lino de. Cinco anos sem chover: história de Lino de Albergari.
+Ilustrações de Paulo Lyra. 12. ed. São Paulo: FTD, 1994. 63 p.
+DANTE ALIGHIERI. A divina comédia. Tradução, prefácio e notas: Hernâni Donato.
+São Paulo: Círculo do Livro, [1983]. 344p.
+LAZZARI, Letícia. Políticas para gestão da produção científica da Universidade
+do Estado de Santa Catarina. Orientador: Divino Ignácio Ribeiro Júnior. 2019. 127
+p. Dissertação (Mestrado) - Universidade do Estado de Santa Catarina, Centro de
+Ciências Humanas e da Educação, Programa de Pós-Graduação em Gestão de
+Unidades de Informação, Florianópolis, 2019.
+Obra publicada sob pseudônimo
+Para obra publicada sob pseudônimo, este deve ser adotado na referência,
+desde que seja a forma adotada pelo autor:
+XUXA. Xuxa: uma história de amor. São Paulo: Globo, 2006.
+Obras psicografadas
+Para obras psicografadas, a entrada da referência deve ser pelo nome do
+espírito:
+EMMANUEL (Espírito). Alma e coração. Psicografado por Francisco Cândido
+Xavier. São Paulo: Pensamento, 1976.
+Obras adaptadas
+Para obras adaptadas, a entrada da referência deve ser pelo responsável pela
+adaptação:
+MOURO, Marco. A noite das camas trocadas. [Adaptado da obra de] Giovanni
+Boccaccio. São Paulo: Luzeiro, 1979.
+
+116
+
+Entrevistas
+Para entrevistas, a entrada da referência deve ser pelo entrevistado:
+HAMEL, Gary. Eficiência não basta: as empresas precisam inovar na gestão.
+[Entrevista cedida a] Chris Stanley. HSM Management, São Paulo, n. 79, mar./abr.
+2010. Disponível em: http://www.revistahsm.com.br/coluna/gary-hamel-e-gestao-naera-da-criatividade/. Acesso em: 23 mar. 2017.
+Pessoa jurídica
+Obras em que o responsável pelo documento seja pessoa jurídica (empresas,
+órgãos governamentais, associações, etc.), a entrada deve ser pela forma mais
+conhecida ou conforme consta no documento, transcrito por extenso ou abreviado
+(sigla), em letras maiúsculas.
+Os nomes para o mesmo autor devem ser padronizados quando aparecerem
+de diferentes formas em documentos distintos.
+ASSOCIAÇÃO BRASILEIRA DE NORMAS TÉCNICAS. ABNT NBR 14724:
+informação e documentação: trabalhos acadêmicos: apresentação. Rio de Janeiro:
+ABNT, 2024.
+Ou
+ABNT. ABNT NBR 14724: informação e documentação: trabalhos acadêmicos:
+apresentação. Rio de Janeiro: ABNT, 2024.
+PETROBRAS. Biocombustíveis: 50 perguntas e respostas sobre este novo
+mercado. Rio de Janeiro: PETROBRAS, 2007.
+Pessoa jurídica: três ou mais autores
+Quando houver até três autores, todos devem ser indicados. Para quatro ou
+mais autores, pode indicar-se todos ou nomear o primeiro, seguido de et al.
+AGÊNCIA NACIONAL DE ÁGUA (Brasil); COMPANHIA AMBIENTAL DO ESTADO
+DE SÃO PAULO. Guia nacional de coleta de preservação de amostras: água,
+sedimento, comunidades aquáticas e afluentes líquidos. Brasília, DF: ANA; São
+Paulo: CETESB, 2011. 327 p. Disponível em:
+http://www.cetesb.sp.gpv.br/userfiles/file/laboratorios/publicacoes/guia-nacionalcoleta-2012.pdf. Acesso em: 26 fev. 2015.
+
+117
+
+Instituição governamental da administração direta
+Para instituição governamental da administração direta: “[...] seu nome deve
+ser precedido pelo nome do órgão superior ou pelo nome da jurisdição à qual
+pertence”. (ABNT, 2025, p. 38).
+BRASIL. Ministério da Educação. Educação profissional. Brasília, DF: IBS, 2000.
+SÃO PAULO (Estado). Secretaria do Meio Ambiente. Diretrizes para a política
+ambiental do Estado de São Paulo. São Paulo: Secretaria do Meio Ambiente,
+1993.
+Estados e municípios homônimos
+No caso de Estados e Municípios homônimos, indicar entre parênteses a
+palavra (Estado) ou (Município).
+RIO DE JANEIRO (Município). Secretaria Municipal de Educação e Cultura.
+Bibliografia carioca 1977. Rio de Janeiro: Secretaria Municipal de Educação e
+Cultura, 1978.
+No caso de Municípios homônimos, indicar entre parênteses a sigla do Estado.
+Municípios homônimos como local de publicação, a sigla do Estado constará após
+vírgula:
+VIÇOSA (MG). Lei nº 2558/2016. Dispõe sobre o direito ao aleitamento materno e
+dá outras providências. Viçosa, MG: Sistema de Leis Municipais, 2017. Disponível
+em: lei smunicipais.com.br. Acesso em: 22 jun. 2017.
+
+Municípios homônimos? Consulte em IBGE Cidades:
+https://cidades.ibge.gov.br/
+
+118
+
+Instituições com denominação específica
+Quando a instituição, vinculada a um órgão maior, tiver uma denominação
+específica que a identifica, a entrada deverá ser feita diretamente pelo seu nome.
+UNIVERSIDADE DO ESTADO DE SANTA CATARINA. Estrutura organizacional.
+Florianópolis: UDESC, c2016. Disponível em:
+https://www.udesc.br/sobre/organograma. Acesso em: 26 maio 2020.
+Ou
+UDESC. Estrutura organizacional. Florianópolis: UDESC, c2016. Disponível em:
+https://www.udesc.br/sobre/organograma. Acesso em: 26 maio 2020.
+Quando a instituição for homônima, deve identificar-se a sua unidade
+geográfica entre parênteses:
+BIBLIOTECA NACIONAL (Brasil). Relatório da diretoria-geral: 1984. Rio de
+Janeiro: Biblioteca Nacional, 1985.
+BIBLIOTECA NACIONAL (Portugal). O 24 de julho de 1833 e a guerra civil de
+1829-1834. Lisboa: Biblioteca Nacional, 1983.
+Eventos
+A entrada de obras resultantes de eventos (seminários, congressos, simpósios
+etc.) deve ser pelo “[...] nome do evento por extenso e em letras maiúsculas, seguido
+do seu número de ocorrência (se houver), ano e local de realização e no idioma do
+documento. O número de ocorrência deve ser em algarismo arábico, seguido de
+ponto” (ABNT, 2025, p. 39).
+SEMINÁRIO INTERCANIONAL DE BIBLIOTECAS UNIVERISTÁRIAS, 20., 2018,
+Salvador. Proceedings [...]. Salvador: UFBA, 2018.
+SEMINÁRIO NACIONAL SOBRE DESASTRES AMBIENTAIS, 2000, Curitiba. Anais
+[...]. Brasília, DF: [s. n.], 2001.
+
+119
+
+Quando houver mais de um evento:
+CONGRESSO BRASILEIRO DE OLERICULTURA, 41.; ENCONTRO SOBRE
+PLANTAS MEDICINAIS, AROMÁTICAS E CONDIMENTARES, 1., 2001, Brasília,
+DF. Apresentação, artigos, palestras, instruções.... Horticultura Brasileira. Brasília,
+DF: Sociedade de Olericultura do Brasil, v. 19, n. 2, jul. 2001.
+Autoria desconhecida
+Em obras sem autoria, a entrada deve ser pelo título com a primeira palavra
+dele em letras maiúsculas. Não deve ser utilizado o termo “Anônimo” ou “Autor
+desconhecido”. Neste caso, o título não recebe destaque negrito ou itálico.
+DIAGNÓSTICO médico computadorizado. Curitiba: Conselho Regional de Medicina,
+2016.
+PEQUENA biblioteca do vinho. São Paulo: Lafonte, 2012.
+Título e subtítulo
+Para título e subtítulo:
+a) o título e o subtítulo devem ser reproduzidos tal como aparecem no
+documento;
+b) o título deve ser escrito com letras minúsculas (apenas com a letra inicial
+maiúscula), a não ser que seja nome próprio;
+c) título de revista (quando referenciado artigo publicado em revista) deve
+apresentar as iniciais maiúsculas;
+d) destaca-se o título, utilizando negrito ou itálico;
+e) o título é separado do subtítulo por dois pontos (:);
+f) o subtítulo deve ser escrito em letras minúsculas (a não ser que seja nome
+próprio) e nunca é destacado (negrito ou itálico);
+g) a pontuação do título e subtítulo (dois pontos e ponto final) não deve receber
+destaque (negrito ou itálico);
+h) quando a obra possuir dois ou mais títulos, apenas o título principal deve
+ser destacado.
+Exemplos:
+
+120
+
+BRITO, Edson Vianna et al. Imposto de renda das pessoas físicas: livro prático de
+consulta diária. 6. ed. atual. São Paulo: Frase, 2016.
+CUNHA, Murilo Bastos da. Das bibliotecas convencionais às digitais: diferenças e
+convergências. Perspectivas em Ciência da Informação, Belo Horizonte, v. 13, n.
+1, p. 2-17, abr./jun. 2008. DOI: https://doi.org/10.1590/S1413-99362008000100002.
+Disponível em: http://www.scielo.br/pdf/pci/v13n1/v13n1a02.pdf. Acesso em: 9 abr.
+2020.
+DE MARCO, Ademir (org.). Educação física: cultura e sociedade: contribuições
+teóricas e intervenções da educação física no cotidiano da sociedade brasileira. 3.
+ed. Campinas: Papirus, 2010.
+Títulos iniciados por artigo
+Títulos que iniciem por artigo (definido ou indefinido) ou palavra monossilábica
+“[...] deve ter grafados em letras maiúsculas o artigo e a palavra subsequente” (ABNT,
+2025, p. 40). Neste caso, o título não recebe destaque negrito ou itálico:
+OS PERIGOS do uso de tóxicos. Produção de Jorge Ramos de Andrade. São Paulo:
+CERAVI, 1983. 1 fita de vídeo (30 min), VHS, son., color.
+SEM CESSAR-FOGO, violência continua em Gaza e ônibus explode em Tel Aviv. In:
+ÚLTIMO segundo. São Paulo, 21 nov. 2012. Disponível em: http://ultimosegundo.
+ig.com.br/mundo/2012-11-21/sem-cessar-fogo-violencia-continua-em-gaza-e-onibusexplode-em-tel-aviv.html. Acesso em: 20 dez. 2018.
+Títulos e subtítulos longos
+Em títulos e subtítulos longos, pode suprimir-se as últimas palavras, utilizando
+reticências entre colchetes [...], desde que não seja alterado o sentido do título ou
+subtítulo.
+Exemplo:
+ROBREDO, Jaime. Documentação de hoje e de amanhã: uma abordagem
+revisitada e contemporânea da ciência da informação e de suas aplicações
+biblioteconômicas, documentárias, arquivísticas e museológicas. 4. ed. rev. amp.
+Brasília, DF. 2005.
+
+121
+
+Pode ser usado:
+ROBREDO, Jaime. Documentação de hoje e de amanhã: uma abordagem
+revisitada e contemporânea da ciência da informação [...]. 4. ed. ver. amp. Brasília,
+DF. 2005
+Títulos de periódicos na forma abreviada
+“O título da publicação periódica pode ser transcrito na forma abreviada, desde
+que conste na publicação” (ABNT, 2025, p. 41).
+TORINO, E.; TREVISAN, G. L.; VIDOTTI, S. A. B. G. Dados abertos CAPES: um
+olhar à luz dos desafios para publicação de dados na web. Ci. Inf., Brasília, DF, v.
+48, n. 3 (Supl.), p. 38-46, set./dez. 2019. Disponível em:
+http://revista.ibict.br/ciinf/article/view/4866/4428. Acesso em: 27 maio 2020.
+Título inexistente
+Em obras com título inexistente, “[...] deve-se atribuir uma palavra ou frase que
+identifique o conteúdo do documento, entre colchetes. Para obras de arte, deve-se
+indicar a expressão Sem título, entre colchetes” (ABNT, 2025, p. 41).
+SIMPÓSIO BRASILEIRO DE AQUICULTURA, 1., 1978, Recife. [Trabalhos
+apresentados]. Rio de Janeiro: Academia Brasileira de Ciências, 1980.
+Edição
+A edição, se constar no documento, deve ser indicada em algarismos arábicos,
+seguida da abreviatura da palavra edição (ed.) no idioma correspondente.
+Não devem constar na referência:
+a) reimpressão (3ª reimpressão.);
+b) impressão (4ª impressão);
+c) tiragem (2ª tiragem);
+d) 1ª edição (quando não aparecer qualquer informação da edição no
+documento, significa que é a primeira edição. Nesse caso, não a citar na
+referência).
+
+122
+
+Como consta na obra:
+
+Como é registrada na referência:
+
+5ª edição
+
+5. ed.
+
+5ª edição revista
+
+5. ed. rev.
+
+5ª edição revista e aumentada
+
+5. ed. rev. e aum.
+
+5ª edição reduzida
+
+5. ed. red.
+
+5th edition
+
+5th ed.
+
+“A versão de documentos eletrônicos deve ser considerada equivalente ao
+elemento Edição e transcrita como consta no documento” (ABNT, 2025, p. 41).
+ASTROLOGY source. Version 1.0A. Seattle: Multicom Publishing, c1994. 1 CDROM.
+Local
+O local de publicação (cidade) é indicado como aparece no documento:
+VENTURA, Zuenir. 1968: o ano que não terminou. Rio de Janeiro: Objetiva, 2018.
+Quando houver mais de um local para uma só editora, indica-se o primeiro ou
+o mais destacado.
+Caso não seja possível identificar o local de publicação, utiliza-se a expressão
+sine loco = sem local, abreviada e em itálico, entre colchetes [s. l.].
+
+Antecedido de ponto será maiúsculo = [S. l.]
+Antecedido de vírgula será minúsculo = [s. l.]
+
+KRIEGER, Gustavo; NOVAES, Luís Antonio; FARIA, Tales. Todos os sócios do
+presidente. 3. ed. [S. l.]: Scritta, 1992. 195 p.
+
+123
+
+ALEXANDRESCU, D. T. Melanoma costs: a dynamic model comparing estimated
+overall costs of various clinical stages. Dermatology Online Journal, [s. l.], v. 15, n.
+11, p. 1, Nov. 2009. Disponível em:
+http://dermatology.cdlib.org/1511/origInals/melanoma_costs/alexandrescu.html.
+Acesso em: 3 nov. 2009.
+Quando a cidade não aparece no documento, mas pode ser identificada, indicála entre colchetes:
+LAZZARINI NETO, Sylvio. Cria e recria. [São Paulo]: SDF, 1994.
+No caso de cidades homônimas, acrescenta-se a sigla do Estado ou nome do
+País, após vírgula:
+
+Municípios homônimos? Consulte em IBGE Cidades:
+https://cidades.ibge.gov.br/
+
+Viçosa, AL
+
+Toledo, PR
+
+Caiçara, PB
+
+Viçosa, MG
+
+Toledo, España
+
+Caiçara, RS
+
+Viçosa, RN
+
+Todas as Capitais Federais devem indicar a sigla de seu Estado/País:
+Brasília, DF
+Washington, DC
+
+Editora
+O nome da editora, gravadora, entre outras instituições responsáveis pela
+publicação, deve ser transcrito tal como figura no documento:
+MONTGOMERY, L. M. Anne de Green Gables. Belo Horizonte: Autêntica, 2019.
+
+124
+
+Os elementos de natureza jurídica ou comercial devem ser suprimidos. No
+exemplo abaixo, consta na Folha de Rosto do livro: Editora Atlas S.A. Na referência
+deve constar:
+GIL, Antônio Carlos. Como elaborar projetos de pesquisa. 5. ed. São Paulo:
+Editora Atlas, 2010.
+Quando houver editora comercial homônima a uma instituição, deve constar a
+palavra “editora” ou a abreviatura conforme está no documento:
+GUZZI, Drica. Web e participação: a democracia no século XXI. São Paulo: Editora
+Senac São Paulo, 2010.
+Quando houver duas editoras, indicam-se ambas com seus respectivos locais
+(cidades), separados por ponto e vírgula. Se forem mais de três editoras, mencionase a primeira ou a que estiver em destaque:
+ALFONSO-GOLDFARB, A. M.; MAIA, C. A. (coord.) História da ciência: o mapa do
+conhecimento. Rio de Janeiro: Expressão e Cultura; São Paulo: EDUSP, 1995.
+Quando houver duas editoras com o mesmo local, indicam-se ambas,
+separadas por dois pontos:
+FULD, Leonard M. Inteligência competitiva: como se manter à frente dos
+movimentos da concorrência e do mercado. Rio de Janeiro: Elsevier: Campus, 2007.
+Quando a editora é a mesma instituição ou pessoa responsável pela
+publicação, pode adotar-se, no campo Editora, a forma abreviada ou sigla, desde que
+conste no documento:
+INSTITUTO NACIONAL DO CÂNCER (Brasil). A situação do tabagismo no Brasil.
+Rio de Janeiro: INCA, c2011.
+Quando a editora não puder ser identificada, a expressão sine nomine = sem
+editora deve ser utilizada, abreviada e em itálico, entre colchetes [s. n.]:
+
+125
+
+FRANCO, I. Discursos: de outubro de 1992 a agosto de 1993. Brasília, DF: [s. n.],
+1993.
+Quando o local e o editor não puderem ser identificados na publicação, devemse utilizar as expressões sine loco e sine nomine, abreviadas e em itálico, entre
+colchetes e separadas por dois pontos [S. l.: s. n.]:
+GONÇALVES, F. B. A história de Mirador. [S. l.: s. n.], 1993.
+Quadro 4 exemplifica as principais regras de transcrição de local e editora:
+Quadro 4 - Principais regras de transcrição Local: Editora
+Local
+
+Editora
+
+Um
+
+Uma
+
+Um
+
+Duas
+
+Um
+
+X
+
+Um ou +
+
+Dois
+
+Três ou +
+
+Uma
+
+Duas
+
+Três ou +
+
+Regra
+Transcrever
+como consta no
+documento
+Mesmo local e
+duas editoras,
+indicar ambas,
+separadas por
+dois pontos
+Quando a editora
+não puder ser
+identificada,
+utilizar [s. n.].
+Quando houver
+mais de um local
+para uma só
+editora, indica-se
+o primeiro ou o
+mais destacado.
+Duas editoras
+com locais
+diferentes,
+indicam-se
+ambas, com seus
+respectivos
+locais, separadas
+por ponto e
+vírgula.
+Três editoras ou
+mais, indica-se a
+primeira ou a que
+
+Exemplo
+KIBERT, Charles J. Construções
+sustentáveis: projeto, construção e
+operação. 4.ed. Porto Alegre: Bookman,
+2020
+FULD, Leonard M. Inteligência
+competitiva: como se manter à frente dos
+movimentos da concorrência e do mercado.
+Rio de Janeiro: Elsevier: Campus, 2007
+FRANCO, I. Discursos: de outubro de
+1992 a agosto de 1993. Brasília, DF: [s. n.],
+1993.
+WERF, Julius van der (ed.). Adaptation
+and fitness in animal populations:
+evolutionary and breeding perspectives on
+genetic resource management. Berlin:
+Springer, c2009
+Na obra: Berlin – Buenos Aires –New York
+– San Juan – Santiago
+
+ALFONSO-GOLDFARB, Ana Maria; MAIA,
+Carlos A. (coord.) História da ciência: o
+mapa do conhecimento. Rio de Janeiro:
+Expressão e Cultura; São Paulo: EDUSP,
+1995.
+
+SHAMMAS, Nazih K.; WANG, Lawrence K.
+Abastecimento de água e remoção de
+resíduos. 3. ed. Rio de Janeiro: LTC, 2013
+
+126
+
+X
+
+Uma
+
+X
+
+Uma
+
+X
+
+X
+
+estiver em
+destaque
+Quando o local
+não aparece no
+documento, mas
+pode ser
+identificado,
+identificá-lo entre
+colchetes [ ].
+Caso o local de
+publicação não
+puder ser
+identificado,
+utilizar [S. l.].
+Quando o local e
+a editora não
+puderem ser
+identificados na
+publicação,
+utilizar [S. l.: s. n.]
+
+Na obra: Rio de Janeiro: LTC, São Paulo:
+ABRH, Brasília: ANA.
+
+LAZZARINI NETO, Sylvio. Cria e recria.
+[São Paulo]: SDF, 1994.
+
+KRIEGER, Gustavo; NOVAES, Luís
+Antonio; FARIA, Tales. Todos os sócios
+do presidente. 3. ed. [S. l.]: Scritta, 1992.
+
+GONÇALVES, F. B. A história de Mirador.
+[S. l.: s. n.], 1993.
+
+Fonte: Elaborado pelos autores (2021), com base na NBR 6023 (ABNT, 2025).
+
+Data
+Sempre deve ser indicado um ano em algarismos arábicos, seja da publicação,
+distribuição, copirraite (copyright), impressão, apresentação (depósito) de um trabalho
+acadêmico ou outro.
+MONTGOMERY, L. M. Anne de Green Gables. Belo Horizonte: Autêntica, 2019.
+“Caso não seja localizado o ano de publicação, deve ser indicado um ano, seja
+do copirraite (precedido da letra c em minúsculo e sem espaço), da distribuição, da
+impressão, entre outros”. (ABNT, 2025, p. 44, grifo nosso).
+INSTITUTO NACIONAL DO CÂNCER (Brasil). A situação do tabagismo no Brasil.
+Rio de Janeiro: INCA, c2011.
+Se nenhum ano de publicação puder ser identificado no documento, deve ser
+indicado um ano, entre colchetes:
+
+127
+
+[2019 ou 2020]
+
+um ano ou outro
+
+[2019?]
+
+ano provável
+
+[2020]
+
+ano certo, não indicado no documento
+
+[entre 2015 e 2019]
+
+usa-se em intervalos menores de 20 anos
+
+[ca. 2018]
+
+ano aproximado
+
+[201-]
+
+década certa
+
+[201-?]
+
+década provável
+
+[20--]
+
+século certo
+
+[20--?]
+
+século provável
+
+VOZ ATIVA MADRIGAL. Dominus: música sacra a capella: composições brasileiras
+dos séculos XX e XXI. Regente: Ricardo Barbosa. Osasco: Voz Ativa, [200-]. 1 disco
+sonoro.
+Os meses do ano devem ser abreviados no idioma original da publicação
+(Quadro 5). No Português, o mês de maio não se abrevia:
+Quadro 5 - Abreviatura dos meses
+Mês
+
+Português Espanhol
+
+Italiano
+
+Francês
+
+Inglês
+
+Alemão
+
+janeiro
+
+jan.
+
+enero
+
+genn.
+
+janv.
+
+Jan.
+
+Jan.
+
+fevereiro
+
+fev.
+
+feb.
+
+febbr.
+
+févr.
+
+Feb.
+
+Feb.
+
+março
+
+mar.
+
+marzo
+
+mar.
+
+mars
+
+Mar.
+
+März
+
+abril
+
+abr.
+
+abr.
+
+apr.
+
+avril
+
+Apr.
+
+Apr.
+
+maio
+
+maio
+
+mayo
+
+magg.
+
+mai
+
+May
+
+Mai
+
+junho
+
+jun.
+
+jun.
+
+giugno
+
+juin
+
+June
+
+Juni
+
+julho
+
+jul.
+
+jul.
+
+luglio
+
+juil.
+
+July
+
+Juli
+
+agosto
+
+ago.
+
+agosto
+
+ag.
+
+août
+
+Aug.
+
+Aug.
+
+setembro
+
+set.
+
+sept.
+
+sett.
+
+sept.
+
+Sept.
+
+Sept.
+
+outubro
+
+out.
+
+oct.
+
+ott.
+
+oct.
+
+Oct.
+
+Okt.
+
+novembro
+
+nov.
+
+nov.
+
+nov.
+
+nov.
+
+Nov.
+
+Nov.
+
+dezembro
+
+dez.
+
+dic.
+
+dic.
+
+déc.
+
+Dec.
+
+Dez.
+
+Fonte: Elaborado pelos autores (2021), com base na NBR 6023 (ABNT, 2025).
+
+128
+
+ACIKGOZ, S.; SOGA, K.; WOODHAMS, J. Evaluation of the response of a vaulted
+masonry structure to differential settlements using point cloud data and limit
+analyses. Construction and Building Materials, Guildford, v. 150, p. 916-931, Sept.
+2017. Disponível em: https://www.sciencedirect.com/science/article/pii/S09500618
+17309625. Acesso em: 4 jun. 2020.
+DRABENSTOTT, Karen; BURMAN, Celeste. Revisão analítica da biblioteca do
+futuro. Ci. Inf., Brasília, DF, v. 26, n. 2, p. 01-15, maio 1997. DOI:
+https://doi.org/10.1590/S0100-19651997000200012. Disponível em:
+http://revista.ibict.br/ciinf/article/view/710/720. Acesso em: 9 abr. 2020.
+PIZARRO, D. C. et al. O discurso dos ingressantes nos cursos de biblioteconomia de
+Santa Catarina: suas motivações para a escolha do curso. Revista ACB,
+Florianópolis, v. 20, n. 3, p. 423-438, set./dez. 2015.
+SEKEFF, Gisela. O emprego dos sonhos. Domingo, Rio de Janeiro, ano 26, n.
+1344, p. 30-36, 3 fev. 2002.
+Se no lugar dos meses constar as estações ou divisões do ano em semestres,
+trimestres entre outros, as estações são indicadas como figuram no documento e, as
+divisões do ano de forma abreviada:
+MANSILLA, H. C. F. La controversia entre universalismo y particularismo en la fil
+osofía de la cultura. Revista Latinoamericana de Filosofía, Buenos Aires, v. 24, n.
+2, primavera 1998.
+FIGUEIREDO, E. Canadá e Antilhas: línguas populares, oralidade e literatura.
+Gragoatá, Niterói, n. 1, p. 127-136, 2. sem. 1996.
+Descrição física: paginação, formato, ilustração e dimensão de documentos
+A descrição física se refere à indicação das páginas (ou folhas), números (e ou
+volumes), formato, ilustração e dimensão do documento. Deve-se utilizar p. para
+indicar páginas quando o documento estiver impresso em anverso e verso; e f. para
+folhas quando o documento estiver impresso somente no anverso da folha do papel.
+Para trabalhos acadêmicos (monografias, relatórios, teses e dissertações), utilizar em
+citações diretas no texto: p. 30 (trabalhos impressos) e f. 30 (trabalhos digitais).
+Registra-se “[...] o número da última página ou folha de cada sequência,
+respeitando-se a forma encontrada (letras e algarismos romanos e arábicos). Se
+necessário, indica-se a quantidade de páginas não numeradas, entre colchetes”
+ABNT, 2025, p. 47).
+
+129
+
+Os elementos complementares não são obrigatórios. A indicação do número
+total de páginas no final da referência é considerada elemento complementar:
+FELIPE, J. Previdência social na prática forense. 4. ed. Rio de Janeiro: Forense,
+1994. viii, 236 p.
+MARCONI, M. de A.; LAKATOS, E. M. Metodologia científica. 4. ed. São Paulo:
+Atlas, 2006. 305 p.
+REDE EAD SENAC. Curso de especialização em Educação a Distância: manual
+do tutor. Rio de Janeiro: [Senac Nacional], 2005. [46] p.
+
+“Ao optar pelo uso de elementos complementares, estes devem ser incluídos
+em todas as referências do mesmo tipo de documento.” (ABNT, 2025, p. 5).
+
+Quando o documento for publicado em mais de um volume, a quantidade de
+volumes deve ser indicada, seguida da abreviatura v., caso utilizados os quatro
+volumes:
+TOURINHO FILHO, F. C. Processo penal. 16. ed. rev. e atual. São Paulo: Saraiva,
+1994. 4 v.
+Se o número de volumes em texto diferir do número de volumes em unidades
+físicas, indica-se essa particularidade:
+SILVA, De Plácido e. Vocabulário jurídico. 4. ed. Rio de Janeiro: Forense, 1996. 5
+v. em 3.
+Caso a obra seja em volumes e for utilizado somente um volume no trabalho
+acadêmico, ele deve ser indicado:
+TOURINHO FILHO, F. C. Processo penal. 16. ed. rev. e atual. São Paulo: Saraiva,
+1994. v. 2.
+
+130
+
+Em partes de publicações, deve-se obrigatoriamente indicar os números das
+páginas (ou folhas) iniciais e finais, precedidas da abreviatura p. ou f., separadas por
+hífen e sem espaço:
+CUNHA, M. B. da. Das bibliotecas convencionais às digitais: diferenças e
+convergências. Perspectivas em Ciência da Informação, Belo Horizonte, v. 13, n.
+1, p. 2-17, abr./jun. 2008. DOI: https://doi.org/10.1590/S1413-99362008000100002.
+Disponível em: http://www.scielo.br/pdf/pci/v13n1/v13n1a02.pdf. Acesso em: 9 abr.
+2020.
+LÜDORF, S. M. A. O projeto de pesquisa. In: LÜDORF, Sílvia Maria Agatti
+Metodologia da pesquisa: do projeto ao trabalho de conclusão de curso. 2. ed.
+Curitiba: Appris, 2017. p. 40-45.
+TAMMARO, A. M.; SALARELLI, A. A produção do documento digital. In: TAMMARO,
+A. M.; SALARELLI, A. A biblioteca digital. Brasília, DF: Briquet de Lemos, 2008.
+cap. 2, p. 35-59.
+
+A indicação do capítulo (cap. 2) é elemento complementar. A indicação da
+página inicial e final (p. 35-59) é elemento obrigatório.
+
+Quando a publicação não for paginada ou tiver paginação irregular, indica-se,
+caso necessário, a quantidade de páginas entre colchetes ou a sequência de páginas
+apresentada no documento respectivamente. Opcionalmente, pode ser registrada no
+final da referência, em nota, a expressão “não paginado” ou “paginação irregular”
+KRENAK, Ailton. O amanhã não está à venda. São Paulo: Companhia das Letras,
+2020. E-book. Não paginado. Disponível em:
+https://www.amazon.com.br/amanh%C3%A3-n%C3%A3o-est%C3%A1-%C3%A0vendaebook/dp/B0876HG28P/ref=sr_1_3?dchild=1&qid=1592798789&refinements=p_36%
+3A5560478011&s=digital-text&sr=1-3. Acesso em: 22 jun. 2020.
+LUCCI, E. A. Viver e aprender: estudos sociais 3: exemplar do professor. 3. ed. São
+Paulo: Saraiva, 1994. 96, 7 p.
+MARQUES, M. P.; LANZELOTTE, R. G. Bancos de dados e hipermídia:
+construindo um metamodelo para o Projeto Portinari. Rio de Janeiro: PUC,
+Departamento de Informática, 1993. Paginação irregular.
+
+131
+
+REDE EAD SENAC. Curso de especialização em Educação a Distância: manual
+do tutor. Rio de Janeiro: [Senac Nacional], 2005. [46] p.
+SISTEMA de ensino Tamandaré: sargento do Exército e da Aeronáutica. [Rio de
+Janeiro]: Colégio Tamandaré, 1993. Não paginado.
+Registra-se em algarismos arábicos a unidade física e formato do documento.
+Se necessário, descrever detalhe do documento, indicá-lo entre parênteses de forma
+complementar:
+HUGHES-HALLETT, Deborah. Cálculo: a uma e a várias variáveis: volume 2. 5. ed.
+Rio de Janeiro: LTC, 2012. E-book (646 p.). Disponível em:
+http://site.ebrary.com/lib/bibliotecaudesc/Doc?id=10707390. Acesso em: 17 mar.
+2015.
+UDESC. Biblioteca Universitária. Como acessar os e-books da Udesc?. [S. l.: s.
+n.], 20 mar. 2020. 1 vídeo (3 min 2 s). Publicado pelo canal Biblioteca Udesc.
+Disponível em: https://youtu.be/h0nCU1OEC98. Acesso em: 9 abr. 2020.
+VIVALDI, Antônio Lucio. A primavera. [S. l.: s. n.], c1723. 1 partitura (6 p.). Violino.
+Disponível em: http://pt.cantorion.org/music/4646/Concerto-No.-1-%22Laprimavera%22-Solo-violin. Acesso em: 9 abr. 2020.
+Indica-se, de forma complementar, ilustração de qualquer natureza pela
+abreviatura il., seguida por vírgula da descrição física. Pode-se, ainda, especificar se
+a ilustração é colorida (abreviatura color) ou preto e branco (abreviatura p&b):
+CESAR, A. M. A bala e a mitra. Recife: Bagaço, 1994. 267 p., il.
+ESTAÇÃO da Cia. Paulista com locomotiva elétrica e linhas de bitola larga. 1
+fotografia, p&b. In: LOPES, E. L. V. Memória fotográfica de Araraquara.
+Araraquara: Prefeitura do Município de Araraquara, 1999. 1 CD-ROM.
+NUNES, Lygia Bojunga. A bolsa amarela. Rio de Janeiro: Agir, 1976. 115 p., il.
+color.
+Indica-se, de forma complementar, a “[...] dimensão do documento, em
+centímetros, após a descrição física e ilustração (se houver), separada por vírgula;”
+(ABNT, 2025, p. 49):
+DURAN, J. J. Iluminação para vídeo e cinema. São Paulo: [s. n.], 1993. 126 p., 21
+cm.
+
+132
+
+TAÇA de vidro à madeira de Veneza, com imagem de Nossa Senhora e o menino no
+fuste também decorado com detalhes azis. [17--?]. 1 taça, 24,5 cm de altura x 10,7
+cm de diâmetro.
+Séries e coleções
+Elemento complementar. “Indicam-se, entre parênteses, os títulos das séries e
+coleções, separados, por vírgula, da numeração em algarismos arábicos (se houver).
+A subsérie (se houver) é separada da série por um ponto” (ABNT, 2025, p. 50):
+MIGLIORI, R. Paradigmas e educação. São Paulo: Aquariana, 1993. 20 p. (Visão
+do futuro, v. 1).
+RODRIGUES, Nelson. Teatro completo. Organização geral e prefácio Sábato
+Magaldi. Rio de Janeiro: Nova Aguilar, 1994. 1134 p. (Biblioteca luso-brasileira.
+Série brasileira).
+Notas
+Elemento complementar. Podem ser incluídas notas ao final da referência em
+língua portuguesa e sem destaque tipográfico:
+BAUMAN, Zygmunt; MAY, Tim. Aprendendo a pensar com a sociologia.
+Tradução: Alexandre Werneck. Rio de Janeiro: Zahar, 2010. Título original: Thinking
+Sociologically. Inclui bibliografia.
+MARINS, J. L. C. Massa calcificada da naso-faringe. Radiologia Brasileira, São
+Paulo, n. 23, [1991?]. No prelo.
+SAADI. O jardim das rosas [...]. Tradução de Aurélio Buarque de Holanda. Rio de
+Janeiro: José Olympio, 1944. 124 p., il. (Coleção Rubaiyat). Versão francesa de
+Franz Toussaint do original árabe.
+
+133
+
+4
+
+TRABALHOS DE CONCLUSÃO DE CURSO ALTERNATIVOS
+Esta seção trata de modelos específicos de Trabalhos de Conclusão de Curso
+
+que se diferenciam dos da NBR 14724 (ABNT, 2024). Tais trabalhos devem ser
+apresentados conforme orientações das seções a seguir.
+4.1 ARTIGO
+Esta subseção foi elaborada com base na NBR 6022 que trata sobre artigo em
+publicação periódica técnica ou científica (ABNT, 2018) com o objetivo de orientar a
+comunidade acadêmica quanto ao formato dos Artigos Científicos, elaborados com a
+finalidade de se constituírem Trabalhos de Conclusão de Curso da Udesc.
+Este documento não tem como objetivo orientar o formato de artigos para
+periódicos científicos, tendo em vista que cada periódico adota regras próprias que
+podem divergir das orientações aqui apresentadas.
+Segundo a referida norma técnica, os artigos podem possuir as seguintes
+tipologias:
+a) originais: são publicações que apresentam temas novos ou abordagens
+originais;
+b) revisão: são publicações que resumem, analisam ou discutem informações
+já publicadas.
+
+134
+
+Estrutura
+O artigo deverá seguir a seguinte estrutura, conforme Quadro 6 abaixo:
+Quadro 6 - Estrutura de artigo científico
+Título no idioma do documento (obrigatório)
+Título em outro idioma (opcional)
+Autores (obrigatório)
+Elementos pré-textuais
+
+Resumo no idioma do documento (obrigatório)
+Resumo em outro idioma (opcional)
+Palavras-chave no idioma do documento (obrigatório)
+Palavras-chave em outro idioma (opcional)
+Introdução (obrigatório)
+
+Elementos textuais
+
+Desenvolvimento (obrigatório)
+Considerações finais (obrigatório)
+Referências (obrigatório)
+Glossário (opcional)
+
+Elementos pós-textuais
+
+Apêndice (opcional)
+Anexo (opcional)
+Agradecimentos (opcional)
+
+Fonte: Elaborado pelos autores (2021), com base na NBR 6022 (ABNT, 2018).
+
+A seguir, são detalhadas as regras de apresentação de cada item da estrutura
+de artigo científico:
+a) título: o título e o subtítulo do artigo deverão ser apresentados no topo da
+folha, centralizado, separados entre si por dois pontos (:), diferenciados
+tipograficamente entre si. Caso o autor opte por incluir o título em outro
+idioma, deverá ser apresentado na mesma tipografia em linha distinta,
+separado do título original por um espaço simples;
+b) autores: os nomes dos autores devem ser escritos na forma direta (nome e
+sobrenome), alinhados à direita. Para mais de um autor, os nomes devem
+ser apresentados em linhas distintas. Deve inserir-se uma nota de rodapé
+no nome do autor principal, indicando o curso, instituição e ano em que o
+
+135
+
+trabalho foi apresentado. Sugere-se o seguinte texto para a nota: “Artigo
+apresentado no Curso de Biblioteconomia como requisito parcial à obtenção
+do título de Bacharel em Biblioteconomia da Universidade do Estado de
+Santa Catarina no ano de 2020”. Deve ser inserida uma nota de rodapé do
+nome do orientador para destacar esta informação - “Professor orientador”;
+c) resumo: com base na NBR 6028 (ABNT, 2021), no resumo se deve seguir
+as regras de apresentação descritas na seção 2.2.1.8 deste documento.
+Utiliza-se o espaçamento simples entre linhas e o texto deve ser precedido
+da palavra “resumo” em negrito;
+d) palavras-chave: com base na NBR 6028 (ABNT, 2021), após o resumo
+deverão ser apresentadas as palavras-chave do documento, as quais
+deverão ser precedidas por esta palavra escrita negrito, tendo a primeira
+letra em maiúsculo e as demais letras em minúsculo. As palavras-chave
+devem iniciar com letras maiúsculas, separadas entre si por ponto e vírgula
+finalizadas por ponto; no mínimo três (3) e no máximo cinco (5) palavraschave;
+e) introdução:
+
+primeiro
+
+elemento
+
+textual
+
+do
+
+artigo;
+
+deve
+
+conter
+
+a
+
+contextualização do tema enfocado, delimitação do assunto, objetivos e
+justificativa para o desenvolvimento do trabalho. Este item pode ser
+subdividido em outras seções, caso seja necessário. Os títulos deverão ser
+numerados conforme seção 3.4 deste manual;
+f) desenvolvimento: constitui principal parte do artigo, onde são apresentados
+o embasamento teórico, métodos e resultados do trabalho desenvolvido.
+Este item pode ser subdividido em outras seções, caso seja necessário. Os
+títulos deverão ser numerados conforme seção 3.4 deste manual;
+g) considerações finais: último elemento textual do artigo, deve conter as
+considerações sobre o alcance dos objetivos e quanto às hipóteses iniciais;
+h) elementos pós-textuais: os elementos Referências, Glossário, Apêndice,
+Anexo e Agradecimentos deverão ser apresentados conforme regras
+mencionadas nas seções 2.2.3 deste manual.
+Na Figura 28, pode ser observado um exemplo de apresentação do artigo
+científico, conforme regras expostas neste Manual.
+
+136
+
+Figura 28 - Apresentação de artigo científico
+
+Fonte: Elaborado pelos autores (2021).
+
+137
+
+Apresentação Gráfica
+A apresentação gráfica do artigo científico deverá seguir as especificações
+expostas no Quadro 7 - Apresentação gráfica de artigo científico.
+Quadro 7 - Apresentação gráfica de artigo científico
+Elementos
+Margens
+
+Apresentação gráfica
+Esquerda e superior: 3 cm
+Direita e inferior: 2 cm
+
+Fonte
+
+Arial ou Times New Roman em tamanho 12.
+As citações com mais de três linhas, paginação, notas,
+legendas e fontes das ilustrações e tabelas devem ser
+apresentadas com a mesma fonte do restante do texto,
+porém com tamanho 10.
+
+Espaçamento
+
+Simples entre linhas
+Os títulos das seções devem ser separados do texto por um
+(1) espaço simples de linha em branco.
+
+Alinhamento
+
+Título do artigo: centralizado
+Autores: alinhados à direita
+Títulos dos elementos textuais e referências: alinhados à
+esquerda
+Título dos elementos pós-textuais: centralizados
+Corpo do texto: justificado
+
+Parágrafos
+
+Parágrafo: 1,25 cm da margem esquerda. Citações diretas
+com mais de três linhas: recuo de 4 cm da margem
+esquerda
+
+Paginação
+
+Todas as páginas do artigo são contadas e numeradas, o
+número de página é inserido na margem direita superior em
+fonte 10.
+
+Fonte: Elaborado pelos autores (2021), com base na NBR 6022 (ABNT, 2018).
+
+138
+
+A apresentação de tabelas, quadros, figuras, siglas e equações deverão seguir
+as regras de apresentação de trabalhos acadêmicos já mencionadas neste Manual na
+seção 3.
+4.2 RELATÓRIO
+A ABNT possui uma norma específica para relatório técnico ou científico, a NBR
+10719 (ABNT, 2015).
+Contudo, a BU Udesc estabelece que, todos os cursos da Universidade que
+adotam Relatório como trabalho de conclusão de curso, devem seguir as normas
+deste Manual, conforme a NBR 14724 de trabalhos acadêmicos (ABNT, 2024). Ou
+seja, na elaboração de Relatórios se deve seguir o que consta na seção 2 deste
+Manual. Para relatórios de estágio pós-doutoral, a folha de aprovação deve seguir o
+modelo:
+Figura 29 - Modelo de apresentação de folha de aprovação para relatórios de
+estágio pós-doutoral
+
+Fonte: Elaborada pelos autores (2021).
+
+139
+
+4.3 DISSERTAÇÃO E TESE COM COMPILAÇÃO DE ARTIGOS
+Entende-se que cada área de conhecimento e ou programa de pós-graduação
+apresentam peculiaridades no desenvolvimento das dissertações e teses. Ciente
+disto, a BU buscou esclarecer a estrutura das dissertações e teses elaboradas com a
+compilação de artigos científicos.
+Se você optou por construir sua dissertação ou tese a partir da compilação dos
+artigos produzidos no mestrado ou no doutorado, seguindo as normas do seu
+Programa de Pós-graduação, veja as seguintes diretrizes:
+a) as regras de apresentação, normalização e formatação dos documentos
+devem estar de acordo com os itens 2 e 3 deste manual;
+b) sua dissertação ou tese deve apresentar obrigatoriamente a capa, os
+elementos pré-textuais (folha de rosto, folha de aprovação, resumo,
+abstract, sumário), elementos textuais (introdução, desenvolvimento,
+conclusão) e elementos pós-textuais (referências), conforme consta no
+Quadro 1;
+c) os artigos que compõem a sua dissertação ou teses são elementos textuais,
+fazem parte do desenvolvimento, ver subseção 2.2.2.2;
+d) os artigos tornam-se capítulos/seções da dissertação ou tese, sendo assim,
+crie subseções para cada parte (embasamento teórico, métodos e
+resultados);
+e) fica a critério do autor criar capítulo/seção para fundamentação teórica e
+outros que achar necessário; por exemplo, procedimentos metodológicos.
+f) não incluir resumo e abstract de cada artigo no texto. Elaborar apenas um
+resumo e abstract que contemple toda a dissertação ou tese como elemento
+pré-textual, conforme subseção 2.2.1;
+g) as referências dos artigos devem aparecer apenas no final do trabalho, pois
+são elementos pós-textuais, conforme subseção 2.2.3;
+h) para artigos já publicados em revista, inserir nota de rodapé informando os
+dados de publicação.
+Veja na Figura 30, o exemplo da estrutura básica de um sumário:
+
+140
+
+Figura 30 - Modelo de apresentação de sumário de dissertações e teses com
+compilação de artigos a) sumário com títulos genéricos b) sumário com títulos
+hipotéticos
+b)
+
+a)
+
+Fonte: Elaborada pelos autores (2021).
+
+Contextualizando a estrutura básica do exemplo acima:
+a) introdução: apresentar a pesquisa ao leitor, esclarecendo o problema,
+objetivos, justificativa e estrutura da monografia;
+b) fundamentação teórica: apresentar a literatura sobre o assunto/tema
+pesquisa que fundamenta a sua pesquisa. Conhecida também por revisão
+bibliográfica;
+c) título do artigo: apresentar o artigo científico produzido, considerando o
+como parte da sua pesquisa;
+d) considerações finais: apresentar as considerações finais do estudo,
+limitações da pesquisa, sugestões de pesquisa futuras etc.;
+e) referências: apresentar as referências bibliográficas utilizadas na pesquisa.
+
+141
+
+5
+
+ENTREGA DE TRABALHOS ACADÊMICOS
+Os trabalhos de conclusão de curso de graduação e pós-graduação devem ser
+
+elaborados de acordo com as diretrizes estabelecidas no Manual para Elaboração de
+Trabalhos Acadêmicos da Universidade Estadual de Santa Catarina (Udesc).
+A submissão dos trabalhos deverá ocorrer exclusivamente em formato digital,
+por meio do sistema de auto arquivamento do Repositório Institucional, seguindo as
+especificações técnicas estabelecidas na Instrução Normativa 014/2024.
+Especificamente, o arquivo deve estar em formato PDF/A com marcas
+estruturais do documento em texto, garantindo acessibilidade. Demais formatos
+poderão ser utilizados conforme as recomendações descritas na IN 014/2024.
+Todos os trabalhos entregues pela comunidade acadêmica, incluindo
+Relatórios de Estágio, Monografias, Dissertações, Teses, Relatórios de Pósdoutorado e Artigos, deverão estar disponíveis no Repositório Institucional da Udesc,
+em conformidade com o disposto na IN 014/2024.
+
+142
+
+REFERÊNCIAS
+ABNT. ABNT NBR 6022: informação e documentação: artigo em publicação
+periódica técnica e/ou científica: apresentação. Rio de Janeiro: ABNT, 2018.
+ABNT. ABNT NBR 6023: informação e documentação: referências: elaboração. Rio
+de Janeiro: ABNT, 2025.
+ABNT. ABNT NBR 6024: informação e documentação: numeração progressiva das
+seções de um documento: apresentação. Rio de Janeiro: ABNT, 2012a.
+ABNT. ABNT NBR 6027: informação e documentação: sumário: apresentação. Rio
+de Janeiro: ABNT, 2012b.
+ABNT. ABNT NBR 6028: informação e documentação: resumo, resenha e recensão:
+apresentação. Rio de Janeiro: ABNT, 2021.
+ABNT. ABNT NBR 6034: informação e documentação: índice: apresentação. Rio de
+Janeiro: ABNT, 2004.
+ABNT. ABNT NBR 10520: informação e documentação: citações em documentos:
+apresentação. Rio de Janeiro: ABNT, 2023.
+ABNT. ABNT NBR 10719: informação e documentação: relatório técnico e/ou
+científico: apresentação. Rio de Janeiro: ABNT, 2015.
+ABNT. ABNT NBR 14724: informação e documentação: trabalhos acadêmicos:
+apresentação. Rio de Janeiro: ABNT, 2011.
+ALVARENGA, Lídia. Organização e informação nas bibliotecas digitais. In: NAVES,
+Madalena Martins Lopes; KURAMOTO, Hélio (org.). Organização da informação:
+princípios e tendências. Brasília, DF: Briquet de Lemos, 2006. p. 76-98.
+IBGE. Estimativas_2015. Disponível em:
+ftp://ftp.ibge.gov.br/Estimativas_de_Populacao/Estimativas_2015/. Acesso em: 31
+jul. 2020.
+IBGE. Normas de apresentação tabular. 3. ed. Rio de Janeiro: IBGE, 1993.
+Disponível em: http://biblioteca.ibge.gov.br/visualizacao/monografias/GEBIS%20%20RJ/normastabular.pdf. Acesso em: 23 nov. 2018.
+LANKES, R. D. Expect more: melhores bibliotecas para um mundo complexo. São
+Paulo: FEBAB, 2016.
+LAZZARI, Letícia. Necessidades informacionais e competência em informação
+dos produtores de aves das agroindústrias do oeste catarinense: o caso da
+Sadia S.A. 2011. Trabalho de Conclusão de Curso (Bacharelado em
+Biblioteconomia) - Universidade do Estado de Santa Catarina, Florianópolis, 2011.
+Disponível em:
+
+143
+
+http://sistemabu.udesc.br/pergamumweb/vinculos/000000/000000000013/000013C2.
+pdf. Acesso em: 9 jul. 2020.
+TAMMARO, Anna Maria; SALARELLI, Alberto. A biblioteca digital. Brasília, DF:
+Briquet de Lemos, 2008.
+
+

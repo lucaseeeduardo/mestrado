@@ -1,0 +1,2 @@
+1) A ideia é que a ontologia cria desambiguações, por exemplo: Resultado Bruto Intermediações Financeiras está junto com Receitas da Intermediação Financeira, e o correto é "Receitas da Intermediação Financeira". Nesse caso, a LLM poderia alucinar, identificando Resultado Bruto como algo 100% correto.
+2) 

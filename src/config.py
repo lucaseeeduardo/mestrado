@@ -1,0 +1,8 @@
+RECEITA_BRUTA_CODIGO = "3.01"
+NIVEL1_PATTERN = r"^3\.\d+$"
+ORDEM_EXERC = "ÚLTIMO"
+
+CURRENCY_SCALE_MAP: dict[str, int] = {
+    "MIL": 1000,
+    "UNIDADE": 1,
+}

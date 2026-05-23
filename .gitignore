@@ -1,0 +1,26 @@
+# Python
+.venv/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+
+# Dados brutos (grandes demais para versionar)
+data/
+
+# LaTeX artifacts
+artigo/*.aux
+artigo/*.fdb_latexmk
+artigo/*.fls
+artigo/*.log
+artigo/*.synctex.gz
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+
+# Claude Code
+.claude/
