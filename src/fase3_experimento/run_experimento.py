@@ -28,7 +28,7 @@ METRICAS_PATH = DATA_DIR / "metricas.json"
 
 MODEL = "llama3.1:8b"
 MAX_TOKENS = 32
-MAX_WORKERS = 2
+MAX_WORKERS = 3
 
 # Amostra para desenvolvimento; None = dataset completo
 LIMITE_AMOSTRAS = None

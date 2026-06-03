@@ -1,0 +1,36 @@
+{
+  "baseline": {
+    "geral": {
+      "acertos": 3023,
+      "total": 3466,
+      "acuracia": 0.8722
+    },
+    "nao_financeiro": {
+      "acertos": 2973,
+      "total": 3312,
+      "acuracia": 0.8976
+    },
+    "financeiro_seguros": {
+      "acertos": 50,
+      "total": 154,
+      "acuracia": 0.3247
+    }
+  },
+  "ontologia": {
+    "geral": {
+      "acertos": 3420,
+      "total": 3466,
+      "acuracia": 0.9867
+    },
+    "nao_financeiro": {
+      "acertos": 3266,
+      "total": 3312,
+      "acuracia": 0.9861
+    },
+    "financeiro_seguros": {
+      "acertos": 154,
+      "total": 154,
+      "acuracia": 1.0
+    }
+  }
+}
