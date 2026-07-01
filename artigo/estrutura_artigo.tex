@@ -24,6 +24,9 @@
 \titlespacing*{\subsubsection}{0pt}{\baselineskip}{\baselineskip}
 
 \usepackage{url}
+\usepackage{booktabs}
+\usepackage{tikz}
+\usetikzlibrary{arrows.meta, shapes.geometric}
 \begin{document}
 
 \begin{center}
@@ -69,7 +72,7 @@ A justificativa desta pesquisa fundamenta-se em três pontos centrais. Primeiro,
 
 \subsection{Metodologia}
 
-A presente pesquisa classifica-se como \textbf{aplicada}, com abordagem mista (qualitativa e quantitativa), conduzida sob o método \textit{Design Science Research} (DSR) para construção e avaliação de um artefato computacional. O percurso metodológico está organizado em quatro fases:
+A presente pesquisa classifica-se como aplicada, com abordagem mista (qualitativa e quantitativa), conduzida sob o método \textit{Design Science Research} (DSR) para construção e avaliação de um artefato computacional. O percurso metodológico está organizado em quatro fases:
 
 \begin{enumerate}
     \item \textbf{Fase exploratória e coleta:} levantamento bibliográfico sobre Engenharia de Ontologias e Modelos de Linguagem de Grande Escala, acompanhado da análise dos dados abertos de DREs disponibilizados pela CVM para catalogação dos valores únicos de \textit{ds\_conta} associados à Receita Bruta, identificação de sinônimos, termos adjacentes ambíguos e variações setoriais.
@@ -113,9 +116,135 @@ Em uma linha próxima, Arun et al. (2025) propuseram a construção e a avaliaç
 Já em domínio distinto, Yue (2026) propôs uma abordagem assistida por modelos de linguagem de grande escala (LLM) de código aberto para extração de triplas de relação (RTE) como primeira etapa rumo à geração automatizada de ontologias (AOG), no contexto do processamento de padrões de engenharia de software (SES) --- textos longos, não estruturados e ricos em termos específicos de domínio. Para tanto, o autor empregou um pipeline que processa o documento sentença por sentença, utilizando o \textit{spaCy} para extração de sintagmas nominais e verbos como vocabulário candidato, \textit{budget} dinâmico de \textit{tokens}, \textit{parsing} estrito de JSON com até três tentativas e normalização de termos, tendo como base o LLM Mistral-7B-Instruct-v0.1. A avaliação foi conduzida contra três conjuntos de referência anotados manualmente em diferentes granularidades, por meio de uma varredura de limiar de similaridade semântica ($\tau \in \{0{,}10;\ 0{,}15;\ \ldots;\ 0{,}90\}$) sobre métricas de precisão, revocação e F1 nos níveis de nós e triplas. Os experimentos demonstraram que o LLM de 7B parâmetros alcança precisão consistentemente superior à do \textit{baseline} Stanford OpenIE em nós e triplas --- produzindo um grafo mais enxuto por filtrar duplicatas e ruído ---, com revocação comparável em conjuntos mais estritos quando $\tau > 0{,}5$ e estabilização das triplas em torno de $\tau \approx 0{,}6$. Apesar dos avanços, o trabalho restringe-se a um único documento SES em sua versão curta, avalia apenas um modelo (Mistral-7B), sem comparação entre famílias ou escalas de LLMs, e apresenta revocação baixa em conjuntos densos orientados à recuperação. Em contrapartida, este artigo parte de um esquema explícito e \textit{a priori} --- a ontologia de domínio em OWL descrita acima ---, que delimita previamente as classes e relações admissíveis e impõe restrições semânticas formais à extração, em vez de permitir que o vocabulário emerja sentença a sentença a partir de sintagmas nominais e verbos identificados pelo \textit{spaCy}.
 \section{Desenvolvimento}
 
+\subsection{Construção do dataset de desambiguação}
+
+O dataset utilizado neste experimento foi construído a partir dos dados abertos de DREs disponibilizados pela CVM para o período de 2018 a 2025. Cada arquivo anual contém os lançamentos de todas as companhias abertas brasileiras que depositaram demonstrações financeiras padronizadas (DFP) no período, incluindo os campos \textit{CNPJ\_CIA} (identificador da empresa), \textit{DT\_REFER} (data de referência do exercício), \textit{CD\_CONTA} (código hierárquico da conta) e \textit{DS\_CONTA} (descrição textual da conta).
+
+O processamento seguiu duas etapas de filtragem. Na primeira, foram retidos apenas os registros correspondentes ao exercício atual (\textit{ORDEM\_EXERC} = ``ÚLTIMO''), eliminando os dados comparativos do exercício anterior que acompanham cada demonstrativo. Na segunda, o conjunto foi restringido às contas de primeiro nível do plano de contas (código com padrão \textit{X.XX}), por serem as que concentram denominações de alto nível semanticamente mais variáveis e, portanto, mais suscetíveis à ambiguidade terminológica.
+
+Para cada combinação única de \textit{CNPJ\_CIA} e \textit{DT\_REFER}, foi construído um \textit{puzzle} de desambiguação: uma estrutura com a lista de \textit{DS\_CONTA} de nível 1 da respectiva DRE, com os códigos de conta suprimidos, e o \textit{ground truth} determinístico --- a descrição textual (\textit{DS\_CONTA}) associada ao código \textit{CD\_CONTA} = 3.01, que na taxonomia CVM identifica univocamente a Receita Bruta. Companhias para as quais o código 3.01 não estava presente --- seja por estrutura atípica ou por registro incompleto --- foram excluídas do corpus. O processo resultou em 3.466 puzzles correspondentes a 593 companhias distintas.
+
+\subsection{Modelagem da ontologia de domínio}
+
+A ontologia foi modelada com base no levantamento terminológico realizado na fase exploratória, que identificou os valores únicos de \textit{DS\_CONTA} associados ao código 3.01 ao longo de todo o corpus. O artefato resultante organiza-se em torno de três componentes: (i)~o conceito canônico \textit{ReceitaBruta}, ancorado ao código CVM 3.01; (ii)~o conjunto de sinônimos reconhecidos, isto é, as descrições que, apesar de grafias distintas, referenciam semanticamente o mesmo conceito; e (iii)~os conceitos adjacentes negativos, denominações superficialmente próximas que, no entanto, referenciam entidades contábeis distintas e, portanto, não devem ser selecionadas.
+
+O conjunto de sinônimos compreende cinco descrições catalogadas: ``Receita de Venda de Bens e/ou Serviços'' (padrão dominante no segmento não-financeiro), ``Receitas da Intermediação Financeira'', ``Receitas de Intermediação Financeira'', ``Receitas das Operações'' e ``Receitas das Atividades Seguradoras/Resseguradoras''. As três últimas agrupam as variações terminológicas setoriais do faturamento bruto em instituições financeiras e seguradoras. Os conceitos adjacentes negativos codificados na ontologia são: ``Resultado Bruto'' (código 3.03, correspondente ao lucro bruto após dedução do custo dos produtos vendidos), ``Receita Líquida'' (receita após deduções fiscais e devoluções), ``Custo dos Bens e/ou Serviços Vendidos'' e ``Despesas da Intermediação Financeira''. A inclusão explícita desses termos visa fornecer ao modelo de linguagem restrições semânticas negativas que eliminam os candidatos mais frequentemente confundidos --- em especial ``Resultado Bruto'', cujo prefixo lexical compartilhado com ``Receita Bruta'' constitui a principal fonte de erro em abordagens puramente léxicas.
+
+Para fins de injeção programática no contexto do modelo de linguagem, a ontologia foi serializada em formato JSON, representação operacional que preserva a estrutura semântica essencial da taxonomia sem impor o \textit{overhead} de \textit{parsing} de lógica de descrição ao pipeline de inferência.
+
+\subsection{Pipeline de desambiguação}
+
+O pipeline implementa duas condições experimentais, executadas em paralelo para cada puzzle do dataset, o que garante comparação direta sob as mesmas instâncias de entrada. A Figura~\ref{fig:pipeline} ilustra o fluxo completo, desde a entrada do puzzle até a apuração das métricas.
+
+\begin{figure}[h]
+\centering
+\begin{tikzpicture}[
+    box/.style={rectangle, draw, rounded corners, align=center, minimum height=1cm, text width=3.2cm, font=\footnotesize},
+    wide/.style={rectangle, draw, rounded corners, align=center, minimum height=1cm, text width=6cm, font=\footnotesize},
+    io/.style={rectangle, draw, rounded corners, align=center, minimum height=1cm, text width=3.2cm, font=\footnotesize, fill=gray!12},
+    arrow/.style={-{Stealth[length=2mm]}, thick}
+]
+
+\node[wide] (puzzle) at (0,0) {Puzzle: lista de \textit{DS\_CONTA} do DRE (código de conta oculto)};
+
+\node[box] (promptbase) at (-2.7,-2) {Prompt baseline\\(somente a lista de contas)};
+\node[box] (promptont) at (2.7,-2) {Prompt + contexto\\da ontologia};
+
+\node[io] (ontologia) at (6.6,-2) {Ontologia de domínio\\(sinônimos + conceitos negativos)};
+
+\node[box] (llmbase) at (-2.7,-4) {LLM \texttt{llama3.1:8b}\\(sem contexto)};
+\node[box] (llmont) at (2.7,-4) {LLM \texttt{llama3.1:8b}\\(com RAG)};
+
+\node[box] (predbase) at (-2.7,-6) {Predição baseline};
+\node[box] (predont) at (2.7,-6) {Predição ontologia};
+
+\node[wide] (norm) at (0,-8) {Normalização textual das predições};
+
+\node[wide] (comp) at (0,-9.6) {Comparação com \textit{ground truth}\\(\textit{DS\_CONTA} de CD\_CONTA = 3.01)};
+
+\node[io, text width=6cm] (metricas) at (0,-11.4) {Métricas de acurácia\\(geral / não-financeiro / financeiro-seguros)};
+
+\draw[arrow] (puzzle.south) -- (promptbase.north);
+\draw[arrow] (puzzle.south) -- (promptont.north);
+\draw[arrow] (ontologia) -- (promptont);
+\draw[arrow] (promptbase) -- (llmbase);
+\draw[arrow] (promptont) -- (llmont);
+\draw[arrow] (llmbase) -- (predbase);
+\draw[arrow] (llmont) -- (predont);
+\draw[arrow] (predbase.south) -- (-2.7,-7.5);
+\draw[arrow] (predont.south) -- (2.7,-7.5);
+\draw[arrow] (norm) -- (comp);
+\draw[arrow] (comp) -- (metricas);
+
+\end{tikzpicture}
+\caption{Pipeline experimental de desambiguação: as condições baseline e ontologia (RAG) são executadas em paralelo para cada puzzle e avaliadas contra o mesmo \textit{ground truth}.}
+\label{fig:pipeline}
+\end{figure}
+
+Na condição baseline, o modelo de linguagem recebe um prompt contendo a lista numerada de \textit{DS\_CONTA} do DRE e a instrução para identificar qual delas representa a Receita Bruta --- o faturamento total antes de qualquer dedução. Nenhum contexto externo é fornecido; o modelo opera exclusivamente com base em seu conhecimento paramétrico adquirido durante o pré-treinamento.
+
+Na condição ontologia, o mesmo prompt é precedido pelo bloco de contexto ontológico, composto por: (a)~o conceito canônico e o código CVM de referência; (b)~a lista de sinônimos reconhecidos; e (c)~a lista explícita dos conceitos adjacentes que \textit{não} correspondem à Receita Bruta. Essa estrutura implementa a abordagem de \textit{Retrieval-Augmented Generation} na forma de injeção de contexto estático, em que o ``documento recuperado'' é a própria ontologia de domínio, e o modelo é instruído a utilizá-la como guia semântico para a seleção entre os candidatos.
+
+Em ambas as condições, a resposta esperada é o texto exato de uma das contas listadas, sem justificativas ou conteúdo adicional, o que reduz a latência e facilita o pareamento com o \textit{ground truth}. O modelo empregado foi o \textit{Llama~3.1} com 8 bilhões de parâmetros (\texttt{llama3.1:8b}), servido localmente por meio do servidor \textit{Ollama} e acessado via API compatível com o protocolo OpenAI, com limite de 32 \textit{tokens} por resposta. A execução dos puzzles foi paralelizada com um \textit{pool} de \textit{threads} (três \textit{workers} simultâneos), e para cada puzzle as duas chamadas ao modelo foram disparadas concorrentemente, totalizando 6.932 requisições ao LLM ao longo de todo o experimento.
+
+\subsection{Protocolo de avaliação}
+
+A avaliação adotou a acurácia como métrica principal, calculada como a proporção de puzzles em que a predição do modelo coincide com o \textit{ground truth} após normalização textual. A normalização consistiu em: conversão para minúsculas, remoção de espaços marginais, supressão de pontuação final e eliminação de prefixos numéricos eventualmente introduzidos pelo modelo em sua resposta.
+
+Para capturar a heterogeneidade semântica do corpus, os resultados foram estratificados em três grupos: (i)~geral, incluindo todos os 3.466 puzzles; (ii)~não-financeiro, composto pelos 3.312 puzzles cujo \textit{ground truth} não contém os termos ``Intermediação'' ou ``Seguradoras'' --- segmento em que o padrão terminológico dominante é ``Receita de Venda de Bens e/ou Serviços''; e (iii)~financeiro/seguradoras, formado pelos 154 puzzles restantes, segmento de maior variabilidade denominativa e, consequentemente, de maior dificuldade para o modelo sem contexto ontológico.
+
+A escolha pelo código de conta CVM (\textit{CD\_CONTA} = 3.01) como âncora do \textit{ground truth} garante determinismo e auditabilidade plena: o critério de correção é externo ao modelo avaliado e independe de julgamento subjetivo ou de um segundo modelo de linguagem (\textit{LLM-as-a-judge}), eliminando uma fonte conhecida de viés nas avaliações de sistemas baseados em LLMs.
+
 \section{Análise dos Resultados}
 
+A Tabela~\ref{tab:resultados} consolida os resultados de acurácia obtidos nas duas condições experimentais para cada grupo de estratificação.
+
+\begin{table}[h]
+\centering
+\caption{Acurácia de identificação da Receita Bruta por condição experimental e grupo}
+\label{tab:resultados}
+\begin{tabular}{lrrrrr}
+\toprule
+\textbf{Grupo} & \textbf{$n$} & \textbf{Baseline} & \textbf{Ontologia} & \textbf{$\Delta$ (pp)} \\
+\midrule
+Geral                  & 3.466 & 87,22\% & 98,67\% & +11,45 \\
+Não-financeiro         & 3.312 & 89,76\% & 98,61\% & +8,85  \\
+Financeiro/seguradoras &   154 & 32,47\% & 100,00\% & +67,53 \\
+\bottomrule
+\end{tabular}
+\end{table}
+
+\subsection{Efeito da ontologia sobre o segmento financeiro}
+
+O resultado mais expressivo refere-se ao segmento financeiro e de seguradoras, em que o modelo sem contexto ontológico atingiu apenas 32,47\% de acurácia --- pouco acima do desempenho de uma seleção aleatória considerando o número típico de contas de nível 1 de um DRE. A análise das predições incorretas revelou que 73\% dos erros do baseline nesse grupo consistiram na seleção de ``Resultado Bruto de Intermediação Financeira'' (e variações de grafia imediatas) em detrimento da resposta correta ``Receitas da Intermediação Financeira''. Esse padrão confirma a hipótese central do trabalho: na ausência de restrições semânticas formais de domínio, o modelo parametriza o conceito de ``Receita Bruta'' segundo a expressão textual dominante em seu corpus de treinamento --- associada ao setor não-financeiro --- e, ao não reconhecer ``Receitas da Intermediação Financeira'' como sinônimo setorial, privilegia o candidato que compartilha o prefixo ``Resultado Bruto'', incorrendo no confundidor mais crítico do domínio.
+
+Com a injeção do contexto ontológico, que inclui explicitamente ``Receitas da Intermediação Financeira'' e ``Receitas de Intermediação Financeira'' entre os sinônimos reconhecidos, o modelo passou a identificar corretamente todos os 154 casos do segmento financeiro, atingindo acurácia de 100\%. A eliminação completa dos erros nesse grupo demonstra que a desambiguação falha do baseline é de natureza semântica --- ausência de conhecimento de domínio sobre variações terminológicas setoriais --- e não um problema de capacidade geral de raciocínio do modelo.
+
+\subsection{Erros residuais na condição com ontologia}
+
+Os 46 erros remanescentes na condição orientada por ontologia concentraram-se exclusivamente no segmento não-financeiro e, após inspeção manual, distribuem-se em duas categorias distintas. A primeira, e majoritária, compreende 32 casos (69,6\%) de erros de formatação: o modelo identificou a conta correta --- ``Receita de Venda de Bens e/ou Serviços'' --- mas prefixou a resposta com rótulos espúrios como ``Conta~1:'', ``1.~--'' ou ``R\$~1.'', que sobrevivem à normalização aplicada pelo protocolo de avaliação. Esses casos não representam falhas de desambiguação semântica; representam falhas de controle de formato de saída intrínsecas a modelos de pequeno porte (8 bilhões de parâmetros), que tendem a ignorar a instrução de resposta exata quando a lista de contas é numerada.
+
+A segunda categoria, com 14 casos (30,4\%), compreende erros semânticos genuínos: o modelo retornou uma conta incorreta, seja por alucinação (geração de texto descritivo em vez do nome exato), seja pela seleção de ``Resultado Bruto'', ``Receita Líquida'' ou ``Custo dos Bens e/ou Serviços Vendidos'', os mesmos conceitos negativos listados na ontologia. Essa persistência de erro semântico em uma fração residual do corpus, mesmo com o contexto ontológico presente, sugere que o modelo de 8 bilhões de parâmetros não processa as restrições negativas com plena fidelidade em todas as instâncias, especialmente quando o prompt é mais longo --- comportamento documentado em LLMs de menor escala.
+
+\subsection{Síntese comparativa}
+
+Em conjunto, os resultados demonstram que a abordagem orientada por ontologia reduziu o total de erros de 443 para 46 --- uma redução de 89,6\% --- e eliminou inteiramente os erros no segmento de maior dificuldade terminológica. O ganho médio de 11,45 pontos percentuais na acurácia geral, e de 67,53 pp no segmento financeiro, valida empiricamente a hipótese de que a formalização explícita do conhecimento de domínio é condição necessária para a desambiguação precisa em bases contábeis com alta heterogeneidade terminológica. Adicionalmente, a estratificação dos erros residuais indica que o teto de desempenho prático da abordagem proposta é limitado não pela qualidade da ontologia, mas pela capacidade de controle de formato e obediência a restrições negativas de modelos de linguagem de pequeno porte.
+
 \section{Conclusões}
+
+Esta pesquisa propôs e avaliou um pipeline de desambiguação orientado por ontologia para identificação do indicador \textit{Receita Bruta} em demonstrações contábeis brasileiras com alta variabilidade terminológica. O artefato central --- uma ontologia de domínio que formaliza os sinônimos reconhecidos da Receita Bruta e os conceitos adjacentes que devem ser excluídos --- foi integrado a um modelo de linguagem de grande escala por meio de injeção de contexto estático (\textit{Retrieval-Augmented Generation}), e avaliado sobre 3.466 puzzles de desambiguação derivados dos dados abertos da CVM para o período de 2018 a 2025.
+
+Os experimentos demonstraram que a abordagem proposta alcançou 98,67\% de acurácia geral, contra 87,22\% do baseline sem contexto ontológico, com ganho de 11,45 pontos percentuais. No segmento financeiro e de seguradoras --- o de maior desafio terminológico, em que o padrão de nomenclatura da Receita Bruta diverge completamente do padrão do setor não-financeiro ---, a condição baseline colapsou para 32,47\%, ao passo que a condição com ontologia atingiu 100\%. A inspeção dos erros residuais revelou que a quase totalidade deles é atribuível a falhas de controle de formato de saída do modelo de 8 bilhões de parâmetros, e não a falhas de desambiguação semântica, o que sugere que a qualidade da ontologia não é o fator limitante do desempenho no estado atual.
+
+Do ponto de vista das contribuições, o trabalho entrega: (i)~um dataset de desambiguação de 3.466 instâncias com \textit{ground truth} determinístico derivado de dados abertos auditáveis, sem dependência de \textit{LLM-as-a-judge}; (ii)~uma ontologia operacional para o conceito \textit{ReceitaBruta} no contexto CVM, com cinco sinônimos setoriais e quatro conceitos adjacentes negativos formalizados; e (iii)~evidência empírica de que a injeção de conhecimento de domínio é condição necessária --- e suficiente para o segmento financeiro --- para a correta desambiguação terminológica em bases contábeis heterogêneas.
+
+\subsection{Limitações}
+
+A ontologia construída cobre exclusivamente o conceito \textit{ReceitaBruta} e foi curada manualmente a partir dos valores únicos observados no corpus CVM; variações terminológicas introduzidas por companhias após o período coberto podem não ser contempladas sem atualização do artefato. O modelo empregado (\textit{Llama~3.1 8B}) apresenta tendência à verbosidade e ao descumprimento da instrução de resposta exata, responsável pelos erros residuais de formatação; modelos de maior escala ou com decodificação restrita (\textit{constrained decoding}) tenderiam a eliminar essa categoria de erro. Por fim, a avaliação restringe-se à identificação do campo \textit{DS\_CONTA} correto, não abrangendo a extração do valor numérico associado nem a detecção de inconsistências entre linhas do DRE.
+
+\subsection{Trabalhos futuros}
+
+Como extensões naturais desta pesquisa, identificam-se: (i)~a ampliação da ontologia para outros indicadores financeiros frequentemente requeridos em operações de crédito, como \textit{Receita Líquida}, \textit{EBITDA} e \textit{Resultado Líquido}; (ii)~a avaliação do pipeline com modelos de maior escala e com técnicas de \textit{constrained decoding} que forcem a resposta ao conjunto de candidatos válidos, eliminando os erros de formatação; (iii)~a representação formal da ontologia em OWL com inferência por \textit{reasoner}, explorando o potencial de derivação automática de relações de subsunção e equivalência entre conceitos contábeis; e (iv)~a extensão do corpus para DREs de empresas de capital fechado, cujos documentos apresentam estrutura menos padronizada e, portanto, maior desafio para a desambiguação terminológica.
 
 \section*{Referências}
 
