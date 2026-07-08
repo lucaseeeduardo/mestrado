@@ -77,7 +77,7 @@ A presente pesquisa classifica-se como aplicada, com abordagem mista (qualitativ
 \begin{enumerate}
     \item \textbf{Fase exploratória e coleta:} levantamento bibliográfico sobre Engenharia de Ontologias e Modelos de Linguagem de Grande Escala, acompanhado da análise dos dados abertos de DREs disponibilizados pela CVM para catalogação dos valores únicos de \textit{ds\_conta} associados à Receita Bruta, identificação de sinônimos, termos adjacentes ambíguos e variações setoriais.
     \item \textbf{Modelagem do artefato:} construção da ontologia utilizando o editor Prot\'eg\'e e a linguagem OWL, com definição da taxonomia de classes contábeis, propriedades de sinonímia e restrições semânticas que distinguem Receita Bruta de conceitos adjacentes como Resultado Bruto e Receita Líquida.
-    \item \textbf{Desenvolvimento experimental:} implementação de um protótipo em Python que, dado o conjunto de \textit{ds\_conta} de um DRE com o código de conta ocultado, empregue RAG sobre a ontologia e \textit{Prompt Engineering} estruturado para que o modelo de linguagem identifique qual descrição corresponde à Receita Bruta.
+    \item \textbf{Desenvolvimento experimental:} implementação de um protótipo em Python que, dado o conjunto de \textit{ds\_conta} de um DRE com o código de conta ocultado, empregue RAG sobre a ontologia e \textit{Prompt Engineering} estruturado para que o modelo de linguagem identifique qual descrição corresponde à Receita Bruta.\footnote{O código-fonte completo do protótipo, incluindo os scripts de coleta e processamento dos dados da CVM, a ontologia de domínio e o pipeline de desambiguação, está disponível publicamente em: \url{https://github.com/lucaseeeduardo/mestrado}.}
     \item \textbf{Análise dos resultados:} avaliação quantitativa comparando a abordagem orientada por ontologia com um \textit{baseline} sem contexto ontológico, por meio de métricas de precisão, revocação e F1, utilizando o código de conta CVM (\textit{cd\_conta}) como \textit{ground truth} determinístico.
 \end{enumerate}
 
@@ -253,6 +253,8 @@ Como extensões naturais desta pesquisa, identificam-se: (i)~a ampliação da on
 \setlength{\parindent}{0pt}
 
 ARUN, Abhinav; DIMINO, Fabrizio; AGARWAL, Tejas Prakash; SARMAH, Bhaskarjit; PASQUALI, Stefano. FinReflectKG: Agentic Construction and Evaluation of Financial Knowledge Graphs. \textit{In}: ACM INTERNATIONAL CONFERENCE ON AI IN FINANCE, 6., 2025, Singapura. \textbf{Anais [\ldots]}. Nova Iorque: Association for Computing Machinery, 2025. 8 p. DOI: \url{https://doi.org/10.1145/3768292.3770363}. Disponível em: \url{https://doi.org/10.1145/3768292.3770363}. Acesso em: 5 maio 2026.
+
+BORBA, Lucas Eduardo. \textbf{Ontologia de domínio para desambiguação de Receita Bruta}: código-fonte. Versão 1.0. \textit{GitHub}, 2026. Disponível em: \url{https://github.com/lucaseeeduardo/mestrado}. Acesso em: 8 jul. 2026.
 
 WESSLUND, Dante; STENSTRÖM, Ville; LINDE, Pontus; HOLMBERG, Alexander. \textbf{LLM-based Triplet Extraction from Financial Reports}. Estocolmo: KTH Royal Institute of Technology, 2026. \textit{arXiv preprint} arXiv:2602.11886v1. Disponível em: \url{https://arxiv.org/abs/2602.11886}. Acesso em: 5 maio 2026.
 
